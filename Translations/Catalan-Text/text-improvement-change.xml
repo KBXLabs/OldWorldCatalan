@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
+		<Translation>Ruïnes antigues~unes Ruïnes antigues~Ruïnes antigues</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
+		<Translation>Emplaçament~un Emplaçament~Emplaçaments</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
+		<Translation>Poblats en ruïnes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
+		<Translation>Avançada en ruïnes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
+		<Translation>Campament en ruïnes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
+		<Translation>Bastió en ruïnes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
+		<Translation>Poblat~un Poblat~Poblats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
+		<Translation>Avançada~unes Avançada~Avançades</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
+		<Translation>Campament~un Campament~Campaments</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
+		<Translation>Bastió~un Bastió~Bastions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FORT</zType>
+		<Translation>Fort~un Fort~Forts</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FARM</zType>
+		<Translation>Granja~una Granja~Granges</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINE</zType>
+		<Translation>Mina~un Mina~Mines</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
+		<Translation>Serradora~una Serradora~Serradores</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
+		<Translation>Pedrera~una Pedrera~Pedreres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
+		<Translation>Pastura~una Pastura~Pastures</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CAMP</zType>
+		<Translation>Campament~un Campament~Campaments</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GROVE</zType>
+		<Translation>Hort~un Hort~Horts</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NETS</zType>
+		<Translation>Zona de pesca~una Zona de pesca~Zones de pesca</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
+		<Translation>Port~un Port~Ports</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
+		<Translation>Graner~un Graner~Graners</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
+		<Translation>Molí d'aigüa~un Molí d'aigüa~Molins d'aigüa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
+		<Translation>Molí de vent~un Molí de vent~Molins de vent</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
+		<Translation>Masia~una Masia~Masies</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
+		<Translation>Vila~un Vila~Viles</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TOWN</zType>
+		<Translation>Poble~un Poble~Pobles</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
+		<Translation>Ciutat petita~un Ciutat petita City~Ciutats petites</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
+		<Translation>Guarnició~una Guarnició~Guarnicions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
+		<Translation>Fortalesa~una Fortalesa~Fortaleses</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
+		<Translation>Ciutadella~uns Ciutadella~Ciutadelles</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
+		<Translation>Cuartell~un Cuartell~Cuartells</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RANGE</zType>
+		<Translation>Camp de tir~un Camp de tir~Camps de tir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
+		<Translation>Odeó~un Odeó~Odeons</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
+		<Translation>Amfiteatre~un Amfiteatre~Amfiteatres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
+		<Translation>Coliseu~un Coliseu~Coliseus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
+		<Translation>Banys freds~uns Banys freds~Banys freds</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
+		<Translation>Banys calents~uns Banys calents~Banys calents</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
+		<Translation>Banys climatitzats~uns Banys climatitzats~Banys climatitzats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
+		<Translation>Botiga~una Botiga~Botigues</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
+		<Translation>Mercat~un Mercat~Mercats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
+		<Translation>Mercat Central~un Mercat Central~Mercats Centrals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
+		<Translation>Biblioteca~una Biblioteca~Biblioteques</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
+		<Translation>Acadèmia~una Acadèmia~Acadèmies</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
+		<Translation>Universitat~una Universitat~Universitats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
+		<Translation>Jutjat~un Jutjat~Jutjats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
+		<Translation>Ministeri~un Ministeri~Ministeris</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
+		<Translation>Palau~un Palau~Palaus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
+		<Translation>Santuari de Ninurta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
+		<Translation>Santuari de Mart</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
+		<Translation>Santuari de Nuska</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
+		<Translation>Santuari d'Atar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
+		<Translation>Santuari de Vulcà</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
+		<Translation>Santuari de Nabu</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
+		<Translation>Santuari d'Athena</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMASH</zType>
+		<Translation>Santuari de Shamash</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
+		<Translation>Santuari de Ra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
+		<Translation>Santuari de Mithra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
+		<Translation>Santuari de Melqart</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
+		<Translation>Santuari de Poseidó</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
+		<Translation>Santuari d'Anahita</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
+		<Translation>Santuari d'Ishtar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
+		<Translation>Santuari d'Astarte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
+		<Translation>Santuari de Venus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
+		<Translation>Santuari d'Ereshkigal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
+		<Translation>Santuari d'Osiris</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
+		<Translation>Santuari d'Hades</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
+		<Translation>Santuari d'Eshmun</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
+		<Translation>Santuari d'Isis</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
+		<Translation>Santuari d'Ashur</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
+		<Translation>Santuari de Marduk</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
+		<Translation>Santuari de Zeus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
+		<Translation>Santuari de Tanit</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VESTA</zType>
+		<Translation>Santuari de Vesta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
+		<Translation>Santuari de Neith</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HVAR_KHSHAITA</zType>
+		<Translation>Santuari de Hvar Khshaita</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
+		<Translation>Monestir Zoroàstric~un Monestir Zoroàstric~Monestirs Zoroàstrics</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
+		<Translation>Monestir Jueu~un Monestir Jueu~Monestirs Jueus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
+		<Translation>Monestir Cristià~un Monestir Cristià~Monestirs Cristians</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
+		<Translation>Monestir Maniqueu~un Monestir Maniqueu~Monestir Maniqueus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
+		<Translation>Temple Zoroàstric~un Temple Zoroàstric~Temples Zoroàstrics</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
+		<Translation>Temple Jueu~un Temple Jueu~Temples Jueus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
+		<Translation>Temple Cristià~un Temple Cristià~Temples Cristians</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
+		<Translation>Temple Maniqueu~un Temple Maniqueu~Temple Maniqueus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
+		<Translation>Catedral Zoroàstrica~una Catedral Zoroàstrica~Catedrals Zoroàstriques</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
+		<Translation>Catedral Jueva~una Catedral Jueva~Catedrals Jueves</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
+		<Translation>Catedral Cristiana~una Catedral Cristiana~Catedrals Cristianes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
+		<Translation>Catedral Maniquea~una Catedral Maniquea~Catedrals Maniquees</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<Translation>El Adur Burzen-Mihr</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<Translation>El Temple de Salomó</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<Translation>L'església de la Santa Sepulcre</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<Translation>El Cao'an</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
+		<Translation>les Piràmides</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<Translation>El Gran Ziggurat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
+		<Translation>L'Oracle</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<Translation>El Jardins Penjants</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
+		<Translation>La Necròpoli</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<Translation>La Porta d'Ixtar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<Translation>El far</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_APADANA</zType>
+		<Translation>l'Apadana</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
+		<Translation>El Mausoleu</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
+		<Translation>L'Acròpoli</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
+		<Translation>El Colós</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
+		<Translation>El Musaeum</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<Translation>El Circus Maximus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
+		<Translation>El Panteó</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<Translation>La Santa Sofia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+		<Translation>La Via Recta Souk</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
+		<Translation>Mina de Laurion~una Mina de Laurion~Mines de Laurion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+		<Translation>Tomba antiga~una Tomba antiga~Tombes antigues</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+		<Translation>Monument Nacional~un Monument Nacional~Monuments Nacionals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+		<Translation>Santuari consort de Déu~un Santuari consort de Déu~Santuaris consorts de Déu</Translation>
+	</Entry>
+</Root>

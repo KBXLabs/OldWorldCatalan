@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>STAT_AMBITION_ACHIEVED</zType>
+		<zName>Anhels Aconseguits</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LEGACY_ACHIEVED</zType>
+		<zName>Llegats Aconseguits</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CONTACTED</zType>
+		<zName>Tribus Contactades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CLEARED</zType>
+		<zName>Tribus Eliminades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_PEACE</zType>
+		<zName>Paus Tribals</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_ALLIANCE</zType>
+		<zName>Aliançes Tribals</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CONVERSION</zType>
+		<zName>Conversions Tribals</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TEAM_CONTACTED</zType>
+		<zName>Jugadors Contactats</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TEAM_ALLIANCE</zType>
+		<zName>Aliançes de Jugadors</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CARAVAN_ARRIVED</zType>
+		<zName>Caravanes en Destinació</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CAPITAL_CAPTURED</zType>
+		<zName>Ciutats Capturades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_FOUNDED</zType>
+		<zName>Ciutats Fundades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_CAPTURED</zType>
+		<zName>Ciutats Capturades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_RECAPTURED</zType>
+		<zName>Ciutats Recapturades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_LOST</zType>
+		<zName>Ciutats Perdudes</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_COURTIER_ADDED</zType>
+		<zName>Cortesans incorporats</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_IMPROVEMENT_FINISHED</zType>
+		<zName>Millores Acabades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_IMPROVEMENT_REPAIRED</zType>
+		<zName>Millores Reparades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LANDMARK_DISCOVERED</zType>
+		<zName>Llocs d'interés Descoberts</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LANDMARK_NAMED</zType>
+		<zName>Lloc d'Interés Renombrats</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_NATION_FOUNDED</zType>
+		<zName>Nacions Fundades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_WORLD_RELIGION_FOUNDED</zType>
+		<zName>Religions Fundades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_RELIGION_SPREAD</zType>
+		<zName>Religions Propagades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_RUINS_EXPLORED</zType>
+		<zName>Restes Explorades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_SPECIALIST_TRAINED</zType>
+		<zName>Especialistes Formats</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TECH_DISCOVERED</zType>
+		<zName>Tecnologies Descobertes</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_THEOLOGY_ESTABLISHED</zType>
+		<zName>Teologies Establertes</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TILES_REVEALED</zType>
+		<zName>Caselles Revelades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_TRAINED</zType>
+		<zName>Unitats Creades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_PROMOTED</zType>
+		<zName>Unitats Entrenades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_KILLED</zType>
+		<zName>Unitats Eliminades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_KILLED_GENERAL</zType>
+		<zName>Unitats Eliminades (com a General)</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_LOST</zType>
+		<zName>Unitats Perdudes</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_VEGETATION_REMOVED</zType>
+		<zName>Vegetació Eliminada</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_WONDER_FINISHED</zType>
+		<zName>Meravelles Acabades</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_YEARS_REIGNED</zType>
+		<zName>Anys Regnats</zName>
+	</Entry>
+</Root>

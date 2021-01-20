@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA</zType>
+		<Translation>Assíria~Assiri~un Assiri~Assiris</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA</zType>
+		<Translation>Babilònia~Babiloni~un Babiloni~Babilonis</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE</zType>
+		<Translation>Cartago~Cartaginès~un Cartaginès~Cartaginesos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT</zType>
+		<Translation>Egipte~Egipci~un Egipci~Egipcis</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE</zType>
+		<Translation>Grècia~Grec~un Grec~Grecs</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA</zType>
+		<Translation>Persia~Persa~un Persa~Perses</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME</zType>
+		<Translation>Roma~Romà~un Romà~Romans</Translation>
+	</Entry>
+</Root>

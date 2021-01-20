@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+  <Entry>
+		<zType>PROXIMITY_VERY_CLOSE</zType>
+		<zName>Molt Proper</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_CLOSE</zType>
+		<zName>Proper</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_NEAR</zType>
+		<zName>Aprop</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_DISTANT</zType>
+		<zName>Distant</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_FAR</zType>
+		<zName>Llunyà</zName>
+	</Entry>
+</Root>

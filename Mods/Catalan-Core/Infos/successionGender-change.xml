@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Root>
+    <Entry>
+        <zType/>
+        <zName/>
+        <zHelp/>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_AGNATIC</zType>
+        <zName>Agnàtic</zName>
+        <zHelp>Només poden heretar els descendents masculins.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_AGNATIC_COGNATIC</zType>
+        <zName>Cognàtic agnàtic</zName>
+        <zHelp>Els homes hereten abans que les dones.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ABSOLUTE_COGNATIC</zType>
+        <zName>Cognàtic Absolut</zName>
+        <zHelp>Els gèneres hereten per igual.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ENATIC_COGNATIC</zType>
+        <zName>Cognàtic Enàtic</zName>
+        <zHelp>Les dones hereten abans que els homes.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ENATIC</zType>
+        <zName>Enàtic</zName>
+        <zHelp>Només poden heretar les descendents femenines.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_RANDOM</zType>
+        <zName>Aleatori</zName>
+        <zHelp>Cada jugador segueix un gènere de successió aleatori potencialment diferent.</zHelp>
+    </Entry>
+</Root>

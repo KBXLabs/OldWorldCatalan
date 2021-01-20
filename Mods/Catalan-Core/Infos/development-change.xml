@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>DEVELOPMENT_NONE</zType>
+		<zName>Cap</zName>
+		<zHelp>Les nacions existens no comencen amb cap territori extra.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>DEVELOPMENT_FLEDGLING</zType>
+		<zName>Lleuger</zName>
+		<zHelp>Les nacions existens comencen amb una mitja de 2 ciutats.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>DEVELOPMENT_ESTABLISHED</zType>
+		<zName>Establert</zName>
+		<zHelp>Les nacions existens comencen amb una mitja de 3 ciutats.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>DEVELOPMENT_ADVANCED</zType>
+		<zName>Avançat</zName>
+		<zHelp>Les nacions existens comencen amb una mitja de 4 ciutats.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>DEVELOPMENT_MASSIVE</zType>
+		<zName>Massiu</zName>
+		<zHelp>Les nacions existens comencen amb una mitja de 5 ciutats.</zHelp>
+	</Entry>
+</Root>

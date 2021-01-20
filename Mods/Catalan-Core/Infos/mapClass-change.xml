@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>MAPCLASS_RANDOM</zType>
+		<zName>Aleatori</zName>
+		<zHelp>Script de mapa aleatori</zHelp>
+	</Entry>
+</Root>

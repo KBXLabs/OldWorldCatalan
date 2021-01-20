@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zScaleSingular/>
+		<zScalePlural/>
+		<zScaleShort/>
+		<azTurnNames/>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_YEAR</zType>
+		<zScaleSingular>Any</zScaleSingular>
+		<zScalePlural>Anys</zScalePlural>
+		<zScaleShort>a</zScaleShort>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_HALF</zType>
+		<zScaleSingular>Mig Any</zScaleSingular>
+		<zScalePlural>Mig Anys</zScalePlural>
+		<zScaleShort>ma</zScaleShort>
+		<azTurnNames>
+			<zValue>Primers 6 Mesos</zValue>
+			<zValue>Darrers 6 Mesos</zValue>
+		</azTurnNames>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_SEASON</zType>
+		<zScaleSingular>Estació</zScaleSingular>
+		<zScalePlural>Estacions</zScalePlural>
+		<zScaleShort>e</zScaleShort>
+		<azTurnNames>
+			<zValue>Primavera</zValue>
+			<zValue>Estiu</zValue>
+			<zValue>Tardor</zValue>
+			<zValue>Hivern</zValue>
+		</azTurnNames>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_MONTH</zType>
+		<zScaleSingular>Mes</zScaleSingular>
+		<zScalePlural>Mesos</zScalePlural>
+		<zScaleShort>m</zScaleShort>
+		<azTurnNames>
+			<zValue>Gener</zValue>
+			<zValue>Febrer</zValue>
+			<zValue>Març</zValue>
+			<zValue>Abril</zValue>
+			<zValue>Maig</zValue>
+			<zValue>Juny</zValue>
+			<zValue>Juliol</zValue>
+			<zValue>Agost</zValue>
+			<zValue>Setembre</zValue>
+			<zValue>Octubre</zValue>
+			<zValue>Novembre</zValue>
+			<zValue>Decembre</zValue>
+		</azTurnNames>
+	</Entry>
+</Root>

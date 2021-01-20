@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_FURIOUS</zType>
+		<zName>Rabiosa</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_ANGRY</zType>
+		<zName>Molesta</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_UPSET</zType>
+		<zName>Disgustada</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_CAUTIOUS</zType>
+		<zName>Cautelosa</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_PLEASED</zType>
+		<zName>Satisfeta</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONFAMILY_FRIENDLY</zType>
+		<zName>Amigable</zName>
+	</Entry>
+</Root>

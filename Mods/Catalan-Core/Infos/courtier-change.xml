@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_SOLDIER</zType>
+		<zName>Soldat de la Cort</zName>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_MINISTER</zType>
+		<zName>Ministre de la Cort</zName>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_MERCHANT</zType>
+		<zName>Mercader de la Cort</zName>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_SCIENTIST</zType>
+		<zName>Erudit de la Cort</zName>
+	</Entry>
+</Root>

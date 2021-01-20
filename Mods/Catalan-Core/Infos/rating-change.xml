@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>RATING_WISDOM</zType>
+		<zName>Sabiduria</zName>
+		<zHelp>Per als líders i governadors, la saviesa augmenta {YIELD_SCIENCE}.
+Per als generals, la saviesa augmenta la probabilitat de cop crític de la unitat.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_CHARISMA</zType>
+		<zName>Carisma</zName>
+		<zHelp>Per als líders i governadors, el carisma augmenta {YIELD_CIVICS}.
+Per als generals, el carisma augmenta la força de defensa de la unitat.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_COURAGE</zType>
+		<zName>Coratge</zName>
+		<zHelp>Per als líders i governadors, el valor augmenta {YIELD_TRAINING}.
+Per als generals, el coratge augmenta la força de la unitat.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_DISCIPLINE</zType>
+		<zName>Disciplina</zName>
+		<zHelp>Per als líders i governadors, la disciplina augmenta {YIELD_MONEY}.
+Per als generals, la disciplina augmenta els XP de la unitat cada any.</zHelp>
+	</Entry>
+</Root>

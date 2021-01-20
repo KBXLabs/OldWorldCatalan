@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_REBELS</zType>
+		<Translation>Rebels~Rebel~un Rebel~Rebels~Rebel</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_ANARCHY</zType>
+		<Translation>Anarquia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_RAIDERS</zType>
+		<Translation>Assaltadors~Assaltador~un Assaltador~Assaltadors~Assaltador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_BARBARIANS</zType>
+		<Translation>Bàrbars~Bàrbar~un Bàrbar~Bàrbars~Bàrbar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS</zType>
+		<Translation>Gaèlics~Gaèlic~un Gaèlic~Gaèlics~Gaèlic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS</zType>
+		<Translation>Vàndals~Vàndal~un Vàndal~Vàndals~Vàndal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES</zType>
+		<Translation>Danesos~Danès~un Danès~Danesos~Danès</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS</zType>
+		<Translation>Tràcis~Tràci~un Tràci~Tràcis~Tràci</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS</zType>
+		<Translation>Escítis~Escíta~un Escíta~Escítis~Escític</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS</zType>
+		<Translation>Numidian~Numidic~un Numidià~Numidians~Numidià</Translation>
+	</Entry>
+</Root>

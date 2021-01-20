@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_NONE</zType>
+		<zName>Cap</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_PASSIVE</zType>
+		<zName>Passiu</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_WEAK</zType>
+		<zName>Dèbil</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_NORMAL</zType>
+		<zName>Normal</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_STRONG</zType>
+		<zName>Fort</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_RAGING</zType>
+		<zName>Furiós</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>CULTURE_WEAK</zType>
+		<zName>Feble</zName>
+	</Entry>
+	<Entry>
+		<zType>CULTURE_DEVELOPING</zType>
+		<zName>Desenvolupament</zName>
+	</Entry>
+	<Entry>
+		<zType>CULTURE_STRONG</zType>
+		<zName>Egemònica</zName>
+	</Entry>
+	<Entry>
+		<zType>CULTURE_LEGENDARY</zType>
+		<zName>Llegendària</zName>
+	</Entry>
+</Root>

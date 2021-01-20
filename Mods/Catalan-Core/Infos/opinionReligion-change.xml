@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_FURIOUS</zType>
+		<zName>Furios</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_ANGRY</zType>
+		<zName>Enfadat</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_UPSET</zType>
+		<zName>Descontent</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_CAUTIOUS</zType>
+		<zName>Suspicas</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_PLEASED</zType>
+		<zName>Agreït</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_FRIENDLY</zType>
+		<zName>Amigable</zName>
+	</Entry>
+</Root>

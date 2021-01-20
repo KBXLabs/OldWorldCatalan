@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_REPAIR</zType>
+		<Translation>Reparacions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONARCH</zType>
+		<Translation>Monarca~un Monarca~Monarques</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GOVERNOR</zType>
+		<Translation>Governodor~un Governodor~Governodors</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WALLS</zType>
+		<Translation>Muralles</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MOAT</zType>
+		<Translation>Fossat~un Fossat~Fossats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TOWERS</zType>
+		<Translation>Torres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_1</zType>
+		<Translation>Tresoreria I~una Tresoreria I~Tresoreries I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_2</zType>
+		<Translation>Tresoreria II~una Tresoreria II~Tresoreries II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_3</zType>
+		<Translation>Tresoreria III~una Tresoreria III~Tresoreries III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_4</zType>
+		<Translation>Tresoreria IV~una Tresoreria IV~Tresoreries IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_1</zType>
+		<Translation>Forum I~un Forum I~Forums I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_2</zType>
+		<Translation>Forum II~un Forum II~Forums II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_3</zType>
+		<Translation>Forum III~un Forum III~Forums III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_4</zType>
+		<Translation>Forum IV~un Forum IV~Forums IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_1</zType>
+		<Translation>Gestió Documental I~una Gestió Documental I~Gestións Documentals I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_2</zType>
+		<Translation>Gestió Documental II~una Gestió Documental II~Gestions Documentals II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_3</zType>
+		<Translation>Gestió Documental III~una Gestió Documental III~Gestions Documentals III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_4</zType>
+		<Translation>Gestió Documental IV~una Gestió Documental IV~Gestions Documentals IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_1</zType>
+		<Translation>Legislació I~una Legislació I~Legislacions I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_2</zType>
+		<Translation>Legislació II~una Legislació II~Legislacions II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_3</zType>
+		<Translation>Legislació III~una Legislació III~Legislacions III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_4</zType>
+		<Translation>Legislació IV~una Legislació IV~Legislacions IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL</zType>
+		<Translation>Festival~un Festival~Festivals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_1</zType>
+		<Translation>Festival I~un Festival I~Festivals I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_2</zType>
+		<Translation>Festival II~un Festival II~Festivals II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_3</zType>
+		<Translation>Festival III~un Festival III~Festivals III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_4</zType>
+		<Translation>Festival IV~un Festival IV~Festivals IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY</zType>
+		<Translation>Recerca~una Recerca~Recerques</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_1</zType>
+		<Translation>Recerca I~una Recerca I~Recerques I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_2</zType>
+		<Translation>Recerca II~una Recerca II~Recerques II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_3</zType>
+		<Translation>Recerca III~una Recerca III~Recerques III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_4</zType>
+		<Translation>Recerca IV~una Recerca IV~Recerques IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT</zType>
+		<Translation>Cacera~una Cacera~Cacera</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_1</zType>
+		<Translation>Cacera I~una Cacera I~Cacera I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_2</zType>
+		<Translation>Cacera II~una Cacera II~Cacera II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_3</zType>
+		<Translation>Cacera III~una Cacera III~Cacera III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_4</zType>
+		<Translation>Cacera IV~una Cacera IV~Cacera IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS</zType>
+		<Translation>Olimpíada~unn Olimpíada~Olimpíades</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_1</zType>
+		<Translation>Olimpíada I~unn Olimpíada I~Olimpíades I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_2</zType>
+		<Translation>Olimpíada II~unn Olimpíada II~Olimpíades II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_3</zType>
+		<Translation>Olimpíada III~unn Olimpíada III~Olimpíades III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_4</zType>
+		<Translation>Olimpíada IV~unn Olimpíada IV~Olimpíades IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY</zType>
+		<Translation>Comerç Exterior~un Comerç Exterior~Comerç Exterior</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_1</zType>
+		<Translation>Comerç Exterior I~un Comerç Exterior I~Comerç Exterior I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_2</zType>
+		<Translation>Comerç Exterior II~un Comerç Exterior II~Comerç Exterior II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_3</zType>
+		<Translation>Comerç Exterior III~un Comerç Exterior III~Comerç Exterior III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_4</zType>
+		<Translation>Comerç Exterior IV~un Comerç Exterior IV~Comerç Exterior IV</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_1</zType>
+		<Translation>Consell I~un Consell I~Consells I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_2</zType>
+		<Translation>Consell II~un Consell II~Consells II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_3</zType>
+		<Translation>Consell III~un Consell III~Consells III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_4</zType>
+		<Translation>Consell IV~un Consell IV~Consells IV</Translation>
+	</Entry>
+</Root>

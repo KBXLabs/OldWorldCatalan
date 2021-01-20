@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_POINTS</zType>
+		<zName>Victòria per Punts</zName>
+		<zHelp>Victòria per aconseguir els PV objectiu.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_DOUBLE</zType>
+		<zName>Victòria Doble</zName>
+		<zHelp>Victòria per aconseguir el doble de PV que la resta de nacions (S'ha d'aconseguir la meitat del PV objectiu).</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_AMBITION</zType>
+		<zName>Victòria per Anhels</zName>
+		<zHelp>Victòria per completar int(MAX_AMBITIONS) Anhels.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_TIME</zType>
+		<zName>Victòria per Temps</zName>
+		<zHelp>Victòria per aconseguir més PV en 200 anys.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_CONQUEST</zType>
+		<zName>Victòria per Conquesta</zName>
+		<zHelp>Victòria per conquerir la resta de nacions.</zHelp>
+	</Entry>
+</Root>

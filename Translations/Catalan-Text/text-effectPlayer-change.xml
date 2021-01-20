@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/effectPlayer.xml-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_BASE</zType>
+		<Translation>Base</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
+		<Translation>link(CONCEPT_AMBITION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LEGACY</zType>
+		<Translation>Llegat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+		<Translation>link(COUNCIL_SPYMASTER)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+		<Translation>L'Apte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+		<Translation>El Just</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+		<Translation>El Benevolent</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+		<Translation>El Forçut</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+		<Translation>El Noble</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+		<Translation>El Gloriós</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+		<Translation>El Magnificent</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+		<Translation>El Gran</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
+		<Translation>Èpica</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
+		<Translation>Exploració</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
+		<Translation>Esclavitud</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
+		<Translation>Llibertat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
+		<Translation>Tirania</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
+		<Translation>Constitució</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
+		<Translation>Centralització</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
+		<Translation>Vassallatge</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+		<Translation>Decret Capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
+		<Translation>Colonització</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
+		<Translation>Servitud</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
+		<Translation>Monoteisme</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
+		<Translation>Politeisme</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
+		<Translation>Llei Divina</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_LEGAL_CODE</zType>
+		<Translation>Codi Legal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
+		<Translation>Tolerància</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
+		<Translation>Ortodòxia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
+		<Translation>Exèrcit professional</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
+		<Translation>Voluntariat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
+		<Translation>Filosofia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
+		<Translation>Enginyeria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
+		<Translation>Iconografia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
+		<Translation>Caligrafia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PILGRIMAGE</zType>
+		<Translation>Peregrinatge</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
+		<Translation>link(DIPLOMACY_WAR) Santa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
+		<Translation>Gremis</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
+		<Translation>Elits</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
+		<Translation>Aïllacionisme</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
+		<Translation>Lliga Comercial</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
+		<Translation>Comboi</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
+		<Translation>Devaluació de Moneda</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
+		<Translation>Reforma Monetària</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+		<Translation>Carreteres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
+		<Translation>Música</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_VICTORY_POINT</zType>
+		<Translation>Punt de Victòria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+		<Translation>Líder Heroi</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<Translation>Líder Tàctic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+		<Translation>Líder Judge</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+		<Translation>Líder Orador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<Translation>Líder Erudit</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
+		<Translation>**Petició Capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+		<Translation>Líder Constructor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+		<Translation>Líder Maquinador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+		<Translation>Líder Comandant</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+		<Translation>Líder Fanàtic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<Translation>Lider Diplomàtic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SCIENCE</zType>
+		<Translation>Nivell de Ciència Alta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SCIENCE</zType>
+		<Translation>Nivell de Ciència Molt Alta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
+		<Translation>Nivell de Civisme Baix</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
+		<Translation>Nivell de Civisme Mitjà</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
+		<Translation>Nivell de Civisme Alt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
+		<Translation>Nivell de Civisme Molt Alt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
+		<Translation>Nivell Militar Baix</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
+		<Translation>Nivell Militar Mitjà</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
+		<Translation>Nivell Militar Alt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
+		<Translation>Nivell Militar Molt Alt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_MONEY</zType>
+		<Translation>Nivell de Riquesa Baixa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_MONEY</zType>
+		<Translation>Nivell de Riquesa Mitjana</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_MONEY</zType>
+		<Translation>Nivell de Riquesa Alta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MONEY</zType>
+		<Translation>Nivell de Riquesa Molt Alta</Translation>
+	</Entry>
+</Root>

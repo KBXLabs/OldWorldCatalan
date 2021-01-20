@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_SIMULTANEOUS</zType>
+		<zName>Simultani</zName>
+		<zHelp>Torns Simultanis</zHelp>
+  </Entry>
+	<Entry>
+		<zType>TURNSTYLE_LOOSE</zType>
+		<zName>Laxe</zName>
+		<zHelp>Sense restriccions de moviments.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_NORMAL</zType>
+		<zName>Normal</zName>
+		<zHelp>Atacar durant el torn d'un altre equip aplica el doble d'espera de refresc a les unitats.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_TIGHT</zType>
+		<zName>Ajustat</zName>
+		<zHelp>Només es poden moure unitats no militars durant el torn d'un altre equip.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_TEAMS</zType>
+		<zName>Equips</zName>
+		<zHelp>No es pot moure cap Unitat durant el torn d'un altre equip.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_STRICT</zType>
+		<zName>Estricte</zName>
+		<zHelp>No es pot moure cap unitat durant el torn d'un altre jugador.</zHelp>
+	</Entry>
+</Root>

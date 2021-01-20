@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TEAM_ALLIANCE</zType>
+		<Translation>Ja no ets aliat de {0_team}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TEAM_ALLIANCE</zType>
+		<Translation>Ara ets aliat de {0_team}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LOST_TRIBE_ALLIANCE</zType>
+		<Translation>Ja no ets aliat dels {0_barbarians}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE</zType>
+		<Translation>Ara ets aliat dels {0_barbarians}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_MET_TRIBE</zType>
+		<Translation>Has conegut als {0_barbarians}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_NEW_DIPLOMACY</zType>
+		<Translation>{0_team} està en {1_newDiplomacy} amb els {2_barbarians}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_DIPLOMACY_LOG_DATA</zType>
+		<Translation>{0_barbarians}: {1_newDiplomacy}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_COMBAT_EFFECT_LOG_DATA</zType>
+		<Translation>{0_character} ara és {1_trait} degut al combat!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_CONTACT_LOG_DATA</zType>
+		<Translation>Has conegut a {0_team}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
+		<Translation>{0_team} està en {1_newDiplomacy} amb {2_team}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_DIPLOMACY_LOG_DATA</zType>
+		<Translation>{0_team}: {1_newDiplomacy}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
+		<Translation>Degut a una link(CONCEPT_ALLIANCE_PLAYER) amb {0_team}, {1_player} respon a una declaració de link(DIPLOMACY_WAR) de {2_team} amb link(DIPLOMACY_WAR)!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
+		<Translation>Degut a una link(CONCEPT_ALLIANCE_TRIBE) amb {0_team}, els {1_tribe} responen a una declaració de link(DIPLOMACY_WAR) de {2_team} amb link(DIPLOMACY_WAR)!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_THEOLOGY</zType>
+		<Translation>El {0_religion} ha establert la teologia {1_theology}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GAME_OVER_POPUP</zType>
+		<Translation>Has arribat al final de la partida.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
+		<Translation><![CDATA[La nació <if_meta_0=a>de <if_meta=an>d'<end>{0_player} ha estat eliminada!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
+		<Translation><![CDATA[La nissaga reial <if_meta_0=a>de <if_meta=an>d'<end>{0_player} ha arribat a la seva fi!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
+		<Translation>{0_player} s'ha rendit!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_FOUNDED</zType>
+		<Translation>El {0_religion} s'ha fundat a {1_city}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_HEAD</zType>
+		<Translation><![CDATA[{0_character} és el cap <if_meta_0=a>del <if_meta=an>de l'<end>{1_religion}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_FAMILY</zType>
+		<Translation><![CDATA[La família {0_family} s'ha convertit <if_meta_0=a>al <if_meta=an>a l'<end>{1_religion}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_TRIBE</zType>
+		<Translation><![CDATA[Els {0_tribe} s'han convertit <if_meta_0=a>al <if_meta=an>a l'<end>{1_religion}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAMILY_HEAD</zType>
+		<Translation>{0_character} és el cap de la família {1_family}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
+		<Translation><![CDATA[{0_player} ha començat la construcció <if_meta_0=a>de <if_meta=an>d<end>{1_improvement}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_IMPROVEMENT_COMPLETED</zType>
+		<Translation>{1_player} ha completat {0_improvement}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY</zType>
+		<Translation>El {0_religion} es propaga a {1_city}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DOOMED_POPUP</zType>
+		<Translation>Els metges i els endevins t'adverteixen que estàs apunt de morir. És hora de posar les coses en ordre.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
+		<Translation><![CDATA[Han arribat noves de l'extranger sobre la mort <if_meta_0=a>de <if_meta=an>d'<end>{0_oldLeader}. {1_newLeader} ha pujat al tron.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
+		<Translation><![CDATA[Han arribat noves de l'extranger sobre la mort <if_meta_0=a>de <if_meta=an>d'<end>{0_oldLeader}. {1_newLeader} ara dirigeix als {2_tribe}.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
+		<Translation>Segons la llei establerta, ja que no tens un hereu legítim, s'ha canviat a {0_law} per habilitar l'ascensió de {1_character}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_AMBITION</zType>
+		<Translation>{0_character} té un nou link(CONCEPT_AMBITION): {1_ambition}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_AMBITION_DESIRED</zType>
+		<Translation>{0_character} persegueix el seu link(CONCEPT_AMBITION): {1_ambition}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_START_QUEST</zType>
+		<Translation><![CDATA[Has començat una tasca: {0} <true_1>(en {1} torns)<false><end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_AMBITION</zType>
+		<Translation>Has satisfet l'link(CONCEPT_AMBITION) {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_LEGACY</zType>
+		<Translation>Has completat el llegat {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FINISH_QUEST</zType>
+		<Translation>Has completat la tasca {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_AMBITION</zType>
+		<Translation>Has fracasat en {true_1:completar el llegat:satisfer l'link(CONCEPT_AMBITION)} {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAIL_QUEST</zType>
+		<Translation>Has fracasat en la tasca {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
+		<Translation>Aquest {true_1:Legacy:Ambition} ja no és possible i s'ha eliminat: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_QUEST_IMPOSSIBLE</zType>
+		<Translation>Aquesta tasca ja no és possible i s'ha eliminat: {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_BARBARIAN_WAVE_COMING_POPUP</zType>
+		<Translation>Els teus sentinelles t'informen que una incursió de link(TRIBE_BARBARIANS,1) és problable que es produeixi en els propers anys.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
+		<Translation>{0_character} s'ha incorporat a la cort!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_ADULT_POPUP</zType>
+		<Translation>{0_character} ja és adult ({1_age} anys).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_DESIRED_AMBITION</zType>
+		<Translation>{0_character} té un nou desig: {1_goal}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_CHOOSES_RELIGION</zType>
+		<Translation>{0_character} s'ha convertit al {1_religion}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_COVER_DEBTS_LOG_DATA</zType>
+		<Translation>S'han venut {0_goodsList} per sufragar els deutes!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SHORTFALL_LOG_DATA</zType>
+		<Translation>S'ha executat {0_project} a {1_city} per evitar el dèficit de {2_yield}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_QUEUED_BUILD_BUY_GOODS_LOG_DATA</zType>
+		<Translation>Acció en cua: Gasta {0_money} per comprar {1_yields} ({2_improvement})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FOUNDED_CITY_LOG_DATA</zType>
+		<Translation>Has fundat {0_city}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
+		<Translation>Has descobert {0_tech}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
+		<Translation>{0_city} ha finalitzat un link(CONCEPT_PROJECT_INFO): {1_project}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_DEVELOPED_SPECIALIST_LOG_DATA</zType>
+		<Translation>{0_city} ha format {1,1_specialist}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_TRAINED_UNIT_LOG_DATA</zType>
+		<Translation>{0_city} ha format {1,1_unit}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_GAINS_TRAIT</zType>
+		<Translation>{0_character} ara és {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_LOSES_TRAIT</zType>
+		<Translation>{0_character} ha deixat de ser {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_RATING_CHANGE</zType>
+		<Translation>{0_character}: {1_value} {2_rating}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_ACQUIRES_TRAIT</zType>
+		<Translation>{0_character} ha adquirit un nou tret: {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LANDMARK_DISCOVERED</zType>
+		<Translation>Nou lloc de referència descobert: {0_name}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LANDMARK_NAMED</zType>
+		<Translation>Ets el primer en descobrir aquest lloc de referència. Com el vols anomenar?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_RAID_WARNING</zType>
+		<Translation>Informes sobre incursions dels {0,2_tribe} {1_improvement} s'acosten a {2_city}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LOG_DATA</zType>
+		<Translation>{0_childName} acaba de néixer!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LEADER</zType>
+		<Translation><![CDATA[<true_0>Has<false>La teva esposa ha<end> donat a llum a <masculine_1>un fill<feminine>una filla<end>, {1_childName}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_LEADER_ILLEGITIMATE</zType>
+		<Translation><![CDATA[<comment variable 0 is the leader i.e. "you" for gender purposes for foreign languages>Tens un <masculine_1>fill il·legítim<feminine>filla il·legítima<end>, {1_childName}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER</zType>
+		<Translation><![CDATA[{0_father} i {1_mother} han tingut <masculine_2>un fill<feminine>una filla<end>, {2_childName}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER_ILLEGITIMATE</zType>
+		<Translation><![CDATA[{0_father} ha tingut <masculine_1>un fill il·legítim<feminine>una filla il·legítima<end>, {1_childName}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_EVENT_CITY_LOG_DATA</zType>
+		<Translation>{0_event} a {1_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TEAM</zType>
+		<Translation>Equip {0_teamNum}</Translation>
+	</Entry>
+	<!--Decisions-->
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_TITLE</zType>
+		<Translation>Jubilació d'un link(CONCEPT_GENERAL)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL</zType>
+		<Translation><![CDATA[{0_character}, link(CONCEPT_GENERAL) <if_meta_0=a>del <if_meta=an>de l'<end>{1_unit} és massa vell i s'ha de retirar del camp de batalla.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
+		<Translation>Escull un nou link(CONCEPT_GENERAL)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
+		<Translation>{0_council} ha mort.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
+		<Translation><![CDATA[{0_character}, <masculine_1>el nostre<feminine>la nostra<end> {1_council}, ha mort.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
+		<Translation><![CDATA[Escull <masculine_0>un nou<feminine>una nova<end> {0_council}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_TITLE</zType>
+		<Translation>link(CONCEPT_GOVERNOR) ha mort.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR</zType>
+		<Translation><![CDATA[{0_character}, link(CONCEPT_GOVERNOR) <if_meta_0=a>de <if_meta=an>d'<end>{1_city}, ha mort.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_PROMPT</zType>
+		<Translation>Escull un nou link(CONCEPT_GOVERNOR)</Translation>
+	</Entry>
+	<!--Do Bonus-->
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_PLAYERS</zType>
+		<Translation>Totes les nacions del jugador {0_player}: {1_memory}, {2_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_FAMILIES</zType>
+		<Translation>Totes les famílies: {0_memory}, {1_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT</zType>
+		<Translation>{0_subject}: {1_memory}, {2_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
+		<Translation>{0_subject}: **Cancel·la el deute {1_memory}, {2_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
+		<Translation>Finalitza la {0_alliance} amb {1_subject}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_WITH_PLAYER</zType>
+		<Translation>{0_diplomacy} amb {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ALLIANCE_WITH</zType>
+		<Translation>{0_player} està aliat amb {1_other}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER</zType>
+		<Translation>Aconsegueixes {0_yield} de {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SEND_PLAYER</zType>
+		<Translation>Dones {0_yield} a {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRADE_PLAYER</zType>
+		<Translation>{0_trade} negociats amb {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBUTE_PLAYER</zType>
+		<Translation>{0_tribute} **Tribute with {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER_DIPLOMACY</zType>
+		<Translation>{0_other} a {1_diplomacy} amb {2_target}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIPLOMACY_TRIBE</zType>
+		<Translation>{0_diplomacy} amb {1_barbarian}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBUTE_TRIBE</zType>
+		<Translation>{0_tribute} **Tribute with {1_barbarian}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBE_DIPLOMACY_PLAYER</zType>
+		<Translation>{0_barbarian}: {1_diplomacy} amb {2_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
+		<Translation>S'adopta el {0_religion} com a link(CONCEPT_STATE_RELIGION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
+		<Translation>El {0_religion} es propaga a {1_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REMOVE_RELIGION</zType>
+		<Translation>Elimina {0_religion} de {1_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CONVERT_RELIGION</zType>
+		<Translation>{0_character} es converteix al {1_religion}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
+		<Translation>{0_character} esdevé el cap del {1_religion}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
+		<Translation>{0_family}: {1_law} opinió {2_value}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_START_LAW</zType>
+		<Translation>Entra en vigència {0_law}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FREE_LAW</zType>
+		<Translation>{0_law} és gratuïta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FREE_THEOLOGY</zType>
+		<Translation>{0_theology} és gratuïta ({1_religion})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
+		<Translation>{0_religion} trobada**</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
+		<Translation><![CDATA[{0_value} <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
+		<Translation><![CDATA[{0_value}<singular_0>Casella frontarera<plural>Caselles frontereres<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
+		<Translation><![CDATA[{0_value} <singular_0>{1_culture}<plural>{1,2_culture}<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
+		<Translation><![CDATA[{0_value} <singular_0>nivell<plural>nivells<end> de link(YIELD_DISCONTENT)]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
+		<Translation><![CDATA[{0_value} <singular_0>unitat<plural>unitats<end> {1_rebel}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
+		<Translation><![CDATA[{0_value} <singular_0>link(CONCEPT_IMPROVEMENT) destruida<plural>link(CONCEPT_IMPROVEMENT,1) destruides<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HP</zType>
+		<Translation>{0_damage} PS</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
+		<Translation>{0_character} esdevé link(CONCEPT_AGENT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
+		<Translation>+1 {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MINUS_ONE</zType>
+		<Translation>-1 {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_CHARACTER</zType>
+		<Translation>{0_memory}, {1_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
+		<Translation>**Oblida {0_memory}, {1_value} d'opinió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DO_BONUS_DESIRED_AMBITION</zType>
+		<Translation>Desitja {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RANDOM_TRAIT</zType>
+		<Translation>{0_character} esdevé {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RANDOM_RELATIONSHIP_LEADER</zType>
+		<Translation>{0_character} **ara és {1_relationship} {2_leader}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
+		<Translation>Esdevé {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOSES</zType>
+		<Translation>Ja no és {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
+		<Translation>{0_character} ha començat la missió {1_mission}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_VICTORY</zType>
+		<Translation>{0_victory} **victòria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADD_COURTIER_OTHER</zType>
+		<Translation>{0,1_player} {1_courtier}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+		<Translation>{0_player}: Estableix la llei {1_law}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+		<Translation>{0_player}: Finalitza la llei {1_law}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
+		<Translation>{0_player}: Llei {1_law} gratuita</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LEAVE_COURT</zType>
+		<Translation>Abandona la cort</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LEAVE_COUNCIL</zType>
+		<Translation><![CDATA[Deixa el càrreg <if_meta_0=a>de <if_meta=an>d'<end>{0_council}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_GOVERNOR</zType>
+		<Translation>link(CONCEPT_GOVERNOR) a {0_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
+		<Translation>link(CONCEPT_GENERAL) a {0_unit}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SEIZE_THRONE</zType>
+		<Translation><![CDATA[Leader <if_meta_0=a>de <if_meta=an>d'<end>{0_player}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
+		<Translation>Adoptat per {0_parent}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
+		<Translation>Es casa amb {0_suitor}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_DIVORCES</zType>
+		<Translation><![CDATA[Es divorcia <if_meta_0=a>de <if_meta=an>d'<end>{0_spouse}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_BIRTH_WITH</zType>
+		<Translation>Té un fill amb {0_parent}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
+		<Translation>Abdica</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
+		<Translation>És triat com hereu</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
+		<Translation>Mor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HAS_ILLEGITIMATE_CHILD</zType>
+		<Translation>Té un fill il·legítim</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD</zType>
+		<Translation><![CDATA[És {0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
+		<Translation>{0} (Ja no està {1_list})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
+		<Translation><![CDATA[**Ja no és {0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_XP</zType>
+		<Translation>{0_value} PX</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_KILL_UNIT</zType>
+		<Translation>Mor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REVEAL_RANGE</zType>
+		<Translation><![CDATA[Revela {0_dist} <singular_0> la casella<plural>les caselles<end> Away]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_VEGETATION</zType>
+		<Translation>S'ha generat {0_vegetation} a {1_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_RESOURCE</zType>
+		<Translation>S'ha generat {0_resource} a {1_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SET_IMPROVEMENT</zType>
+		<Translation>S'ha finalitzat {0_improvement} a {1_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_REMOVE_VEGETATION</zType>
+		<Translation>S'ha eliminat {0_vegetation} de {1_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TRIBE_RAID</zType>
+		<Translation>Incursió dels {0,1_barbarian} {1_improvement} desde {2_tile}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_ADOPT_RELIGION</zType>
+		<Translation>{0_player}: Adopta el {1_religion} com a religió d'Estat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_THEOLOGY</zType>
+		<Translation>{0_player}: Teologia {1_theology} gratuita ({2_religion})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_HOLY_CITY_AGENTS</zType>
+		<Translation>{0_player}: link(CONCEPT_AGENT) gratuit a totes les Ciutats Santes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
+		<Translation>{0_player}: Funda la religió del {1_religion}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
+		<Translation>{0_player}: Abandona la religió d'estat ({1_religion})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_TECH</zType>
+		<Translation>{0_player}: {1_tech} (Tecnologia)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
+		<Translation>{0_player} descobreix una nova tecnologia: {1_tech}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
+		<Translation>icon(bullet) {0}: </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_FINISHED_MISSION</zType>
+		<Translation>{0_character} ha finalitzat {1_mission}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHARACTER_MISSION_NO_EFFECT</zType>
+		<Translation>{0_character}: {1_mission} no té efectes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_CRITICAL</zType>
+		<Translation>Crític! </Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>
+		<Translation>-{0_damage} PS!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
+		<Translation>{0_city} és atacada!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
+		<Translation>{0_barbarian} han destruit {1_improvement}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>
+		<Translation>{0_city} ha estat capturada per {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_WE_CAPTURED_LOG_DATA</zType>
+		<Translation>{0_city} ha estat capturada per {1_player}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CANCEL_BUILD_LOG_DATA</zType>
+		<Translation>{0_build} cancel·lada a {1_city}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
+		<Translation><![CDATA[{0_level} <singular_0>nivell<plural>nivells<end> de link(YIELD_DISCONTENT) a {1_city}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
+		<Translation>Han atacat a la unitat {0_unit}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_KILLED</zType>
+		<Translation>Han atacat a la unitat {0_unit}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_SEEN</zType>
+		<Translation><![CDATA[S'ha detectat <masculine_0>un<feminine>una<end> {0_unit} hostil!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_MOVE_CANCELLED</zType>
+		<Translation>La unitat {0_unit} ha cancel·lat el moviment automàtic!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_LAUNCH_OFFENSIVE_LOG_DATA</zType>
+		<Translation>La unitat {0_unit} ha llençat una ofensiva!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_ESTABLISH_THEOLOGY_LOG_DATA</zType>
+		<Translation><![CDATA[{2_player} ha establert {1_theology} <if_meta_0=a>del <if_meta=an>de l'<end>{0,1_religion} a {3_city}!]]></Translation>
+	</Entry>
+	<!--Tile Renderer-->
+	<Entry>
+		<zType>TEXT_GAME_TILE_CITY_SITE</zType>
+		<Translation>Emplaçament</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_UNREVEALED_SITE</zType>
+		<Translation>Lloc desconegut</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_IMPROVEMENT_UPGRADE</zType>
+		<Translation>({0_name}: {1_turns})</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
+		<Translation>Pujant partida...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_NOT_CONNECTED_TO_ONLINE_SERVICES_POPUP</zType>
+		<Translation>No estàs connectat als serveis en línia.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_COMPLETE_POPUP</zType>
+		<Translation>Càrrega de partida completada.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UPLOAD_FAILED_POPUP</zType>
+		<Translation>Càrrega de partida fallida.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_SAVED</zType>
+		<Translation>Partida guardada.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_FAILED_TO_SAVE</zType>
+		<Translation>Error en guardar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_ALL_TAG</zType>
+		<Translation>TOTS</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
+		<Translation>EQUIP</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
+		<Translation>{0_fromPlayer}[{1_tag}]: {2_msg}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
+		<Translation>No alliberat</Translation>
+	</Entry>
+	<!--Unit-->
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_DAMAGE</zType>
+		<Translation>{0} PS</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_LEVEL_UP</zType>
+		<Translation>Nivell {0}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_GAIN_XP</zType>
+		<Translation>{0} PX</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
+		<Translation>{0} {1,2_citizenLink}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT</zType>
+		<Translation><![CDATA[{0} <masculine_0>saquejat<feminine>saquejada<end>!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION</zType>
+		<Translation>La link(CONCEPT_CARAVAN_MISSION) amb {0_player} ha estat completada: {1_money}</Translation>
+	</Entry>
+	<!--City-->
+	<Entry>
+		<zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
+		<Translation>Per link(CONCEPT_CULTURE_EVENT): {0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
+		<Translation><![CDATA[Els link(TRIBE_REBELS) han format una unitat {0_unit} prop <if_meta_0=a>de <if_meta=an>d'<end>{1_city}!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
+		<Translation>{0} ciutadans</Translation>
+	</Entry>
+	<!--Player-->
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
+		<Translation>Dèficit de recurs: Pagues {0} per comprar {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
+		<Translation><![CDATA[S'ha cancel·lat la missió <if_meta_0=a>del <if_meta=an>de l'<end>{0}: {1}]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
+		<Translation>S'han venut {0} per {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
+		<Translation>S'han canviat {0} per {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
+		<Translation>No s'ha trobat identificació d'usuari: Guarda i recarrega per jugar com el següent jugador.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
+		<Translation>Error al carregar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
+		<Translation>Has rebut {0_amount} {1}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
+		<Translation>***link(DIPLOMACY_WAR) declarada a {0_strength} {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
+		<Translation>***link(DIPLOMACY_TRUCE) declarada amb {0_strength} {1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
+		<Translation>{0_player} t'ha regalat {1} {2_yield} sobrants.</Translation>
+	</Entry>
+</Root>

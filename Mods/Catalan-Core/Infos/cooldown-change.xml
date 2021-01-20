@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PASS</zType>
+		<zName>per Passar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_SLEEP</zType>
+		<zName>per Hivernar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_SENTRY</zType>
+		<zName>per Vigilància</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_UNLIMBERED</zType>
+		<zName>**Unlimbered</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ANCHORED</zType>
+		<zName>per Ancorar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ROUT</zType>
+		<zName>per Retirada</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ATTACK</zType>
+		<zName>per haver Atacat</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ATTACKED</zType>
+		<zName>per ser Atacat</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_STUNNED</zType>
+		<zName>per estar Atordit</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_BUILDING</zType>
+		<zName>per estar Construint</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ADDED_ROAD</zType>
+		<zName>per afegir Carretera</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ADDED_URBAN</zType>
+		<zName>per afegir Zona Urbana</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_RAISED_IMPROVEMENT</zType>
+		<zName>per Actualitzar una Millora</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_BUY_TILE</zType>
+		<zName>per Comprar una Casella</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_FORTIFY</zType>
+		<zName>per Fortificació</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_RECRUITED</zType>
+		<zName>per Reclutament</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_HIRED</zType>
+		<zName>per Contractació</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_GIFTED</zType>
+		<zName>per Regal</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_HEALED</zType>
+		<zName>per Guarir</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PILLAGED</zType>
+		<zName>per Pillatge</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PROMOTED</zType>
+		<zName>per Entranament</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_TESTUDO</zType>
+		<zName>per Testudo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_REPAIRED</zType>
+		<zName>per Reparació</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_UPGRADED</zType>
+		<zName>per Millora</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_GENERAL</zType>
+		<zName>per assignació de General</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_LOCKED</zType>
+		<zName>per Bloqueig</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_DISEMBARKED</zType>
+		<zName>per Desembarcament</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_TRADE</zType>
+		<zName>per Comerç</zName>
+	</Entry>
+</Root>

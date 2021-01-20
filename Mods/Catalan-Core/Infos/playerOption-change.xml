@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zDesc/>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_TUTORIAL</zType>
+		<zName>Deshabilitar Tutorial</zName>
+		<zDesc>Els events del tutorial no es produeixen.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_REPLAY</zType>
+		<zName>Desactivar Reproducció</zName>
+		<zDesc>El suport de Reproducció requereix una quantitat més gran de memòria disponible del sistema.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
+		<zName>Joc de Rol</zName>
+		<zDesc>No hi ha ajuda emergent en prendre decisions narratives pels events.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
+		<zName>Tots els Candidats</zName>
+		<zDesc>Llistarà els candidats al Conseller, al Governador i al General encara que ja tinguin ocupació.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
+		<zName>Moviment de la unitat instantani</zName>
+		<zDesc>El moviment de la Unitat no te animació.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_UNIT_CYCLING</zType>
+		<zName>Sense salt a següent unitat</zName>
+		<zDesc>No està habilitat el salt entre unitats.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FATIGUE_CYCLING</zType>
+		<zName>Salt d'unitats Fatigades</zName>
+		<zDesc>Le unitats fatigades estaran inclosses en el salt a la següent unitat.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MOVE_TO_FATIGUE</zType>
+		<zName>Moure fins a L'Esgotament</zName>
+		<zDesc>Si una unitat es mou més del límit de fatiga no no genera accions en cua.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_ORDERS_COST</zType>
+		<zName>Mostrar el Cost de Decrets</zName>
+		<zDesc>Mostra el cost de Decrets del moviment en comptes dels Decrets restants.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_MINIMAP</zType>
+		<zName>Amagar Minimapa</zName>
+		<zDesc>Oculta el minimapa de la interficie.</zDesc>
+	</Entry>
+    <Entry>
+        <zType>PLAYEROPTION_HIDE_COUNCIL</zType>
+        <zName>Amagar el Concell</zName>
+        <zDesc>Amaga el panell del Concell de la interfície.</zDesc>
+    </Entry>
+    <Entry>
+        <zType>PLAYEROPTION_MINI_TECH_CARDS</zType>
+        <zName>Usar mini cartes de Tecnologia</zName>
+        <zDesc>Sempre s'usaran cartes reduides de tecnologia en comptes del Selector emergent.</zDesc>
+    </Entry>
+	<Entry>
+		<zType>PLAYEROPTION_DEBUG_HELP</zType>
+		<zName>Mostrar ajuda de Debug</zName>
+		<zDesc>Habilita ajudes per debugar.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_SYSTEM_TIME</zType>
+		<zName>Mostrar l'hora del sistema</zName>
+		<zDesc>Mostra l'hora del sistema a la interfície.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_LANDMARK_NAMES</zType>
+		<zName>Amagar Noms del Llocs d'Interés.</zName>
+		<zDesc>Amage els noms dels elements del mapa</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FLIP_UNIT_COLORS</zType>
+		<zName>Alternar color d'unitats</zName>
+		<zDesc>Alterna els color primari i secundari de cada unitat.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS</zType>
+		<zName>Mostrar colors de les Famílies Rivals</zName>
+		<zDesc>Mostra els color de les famílies rivals.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
+		<zName>Ocultar rang de Moviment de les Unitats</zName>
+		<zDesc>Oculta el rang de moviment de la unitat seleccionada en funció de la fatiga.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_GHOST_UNITS</zType>
+		<zName>Mostrar Unitats Fantasma</zName>
+		<zDesc>Mostra les unitats recentment vistes.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MUTE_AUDIO</zType>
+		<zName>Mutejar</zName>
+		<zDesc>No reprodueix el so del Joc.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_AZERTY_KEYBOARD</zType>
+		<zName>Teclat AZERTY</zName>
+		<zDesc>Mapejar les tecles ràpides en un teclat AZERTY.</zDesc>
+	</Entry>
+</Root>

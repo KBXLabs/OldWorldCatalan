@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_LOW</zType>
+		<zName>Baixa</zName>
+		<zHelp>Menys Events del normal.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_MODERATE</zType>
+		<zName>Moderada</zName>
+		<zHelp>Freqüència per Defecte.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_HIGH</zType>
+		<zName>Alta</zName>
+		<zHelp>Més Events del normal.</zHelp>
+	</Entry>
+</Root>

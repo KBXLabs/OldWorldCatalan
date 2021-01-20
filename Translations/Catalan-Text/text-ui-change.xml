@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Entry>
+    <zType/>
+    <Translation/>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_CONFIRM</zType>
+    <Translation>Confirmar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_YES</zType>
+    <Translation>Sí</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_CANCEL</zType>
+    <Translation>Cancel·lar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_INPUT_MAX_CHARACTERS</zType>
+    <Translation> (Màx caràcters: {0})</Translation>
+  </Entry>
+  <!--ClientUI-->
+  <Entry>
+    <zType>TEXT_UI_REDRAW_TECH</zType>
+    <Translation>Torna a robar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBE_TURN</zType>
+    <Translation>Torn {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBAL_TURN</zType>
+    <Translation>Torn de tribus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YOUR_TURN</zType>
+    <Translation>El teu torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_THEIR_TURN</zType>
+    <Translation>Torn de {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_HOTSEAT_PLAYER</zType>
+    <Translation>Li toca a {0}!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RIVALS_TURN</zType>
+    <Translation>Torn de l'adversari</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_ENDED</zType>
+    <Translation>Any tancat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_END_YEAR</zType>
+    <Translation>Tancar any</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_NUMBER</zType>
+    <Translation>Any {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_NUMBER_AND_MAX</zType>
+    <Translation>Any {0} de {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
+    <Translation>Següent unitat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
+    <Translation><![CDATA[Tria producció<br>({0_city})]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
+    <Translation><![CDATA[Obrir ciutat<br>({0_city})]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
+    <Translation>Botó dret per descartar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
+    <Translation>Mare incognitum</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
+    <Translation>HIC SUNT DRACONES</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
+    <Translation>Terra incognita</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
+    <Translation>HIC SUNT LEONES</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_FAMILY</zType>
+    <Translation>Família</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_GOVERNOR</zType>
+    <Translation>Governador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_HP</zType>
+    <Translation>PS</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_STRENGTH</zType>
+    <Translation>Força</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_CITIZENS</zType>
+    <Translation><![CDATA[<singular_1>{0,2}<plural>{0,2}<end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_RELIGIONS</zType>
+    <Translation>link(CONCEPT_RELIGION,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_ID</zType>
+    <Translation>ID</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
+    <Translation>Eliminar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
+    <Translation>Construir carretera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
+    <Translation>link(CONCEPT_URBAN)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
+    <Translation>Progrés: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TOOLTIP_LEADS_TO_WITH</zType>
+    <Translation>{0_tech} (necessita {1})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
+    <Translation>Base</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
+    <Translation>General</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
+    <Translation>Mar-vs-Terra</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_LAND_VS_WATER</zType>
+    <Translation>Terra-vs-Mar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_SETTLEMENT</zType>
+    <Translation>Assentament</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
+    <Translation>AI vs {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
+    <Translation>Distància</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_STRENGTH</zType>
+    <Translation>Força</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_KILLING_BLOW</zType>
+    <Translation>Cop mortal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY_ENEMY</zType>
+    <Translation>Fortificar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_TESTUDO_ENEMY</zType>
+    <Translation>Testudo</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
+    <Translation>Territori de família</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
+    <Translation>Prob. de crític</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
+    <Translation>Immune</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
+    <Translation>Esgotat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
+    <Translation>Has descobert {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_RESEARCH_TECH</zType>
+    <Translation>**Investiga</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
+    <Translation>Escull una tecnologia</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_LEVEL</zType>
+    <Translation>NIVELL {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
+    <Translation>NIVELL MAX</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+    <Translation>Projectes  {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_CITIZENS_TAB_LABEL</zType>
+    <Translation>Ciutadans  {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_FAMILY</zType>
+    <Translation>Família: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_COURTIER</zType>
+    <Translation>Cortesà</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GENERAL_UNIT</zType>
+    <Translation>Unitat: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
+    <Translation>Ciutat: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
+    <Translation>Agent: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_RATINGS_TITLE</zType>
+    <Translation>**Ratings</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
+    <Translation>Activar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
+    <Translation>Passar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
+    <Translation>En repòs</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
+    <Translation>Sentinella</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
+    <Translation>Desmantellar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
+    <Translation>Millorar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
+    <Translation>Entrenar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
+    <Translation>{0} NIVELL</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
+    <Translation>{0} PX</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PROJECTS_CATEGORY</zType>
+    <Translation>Projectes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_SPECIALISTS_CATEGORY</zType>
+    <Translation>link(CONCEPT_SPECIALIST,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
+    <Translation>Creixement: </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
+    <Translation>Militar: </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_CIVICS</zType>
+    <Translation>Civisme: </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_SEND_RESOURCE</zType>
+    <Translation>Enviar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_STOP_SENDING_RESOURCE</zType>
+    <Translation>No enviar més {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
+    <Translation>{0} (ACTIVES, {1})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE_UNIT</zType>
+    <Translation>Abandonar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_FATHER_LABEL</zType>
+    <Translation>Pare</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_MOTHER_LABEL</zType>
+    <Translation>Mare</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_SPOUSE_LABEL</zType>
+    <Translation>Cònjuge</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_CHILD_LABEL</zType>
+    <Translation>Fill/a</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+    <Translation>Parents vius</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_SEND_LUXURY</zType>
+    <Translation>Enviar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_RETURN_LUXURY</zType>
+    <Translation>Rebre {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_TRADE_AND_LUXURIES_TITLE</zType>
+    <Translation>**Trade and link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
+    <Translation>Membres vius</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
+    <Translation>Ciutats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UPGRADE_TO</zType>
+    <Translation>Millorar a {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_PANEL_HOLY_CITY</zType>
+    <Translation>Ciutat santa: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_PANEL_STATE_RELIGION</zType>
+    <Translation>{0} (ESTATAL)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT</zType>
+    <Translation>{0_turnScale}: {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_LIST_IDLE</zType>
+    <Translation>Sense producció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BUILD_COMPLETED</zType>
+    <Translation>{0} finalitzat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
+    <Translation>Ciutat en espera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_TEAM</zType>
+    <Translation>Equip</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_ALL</zType>
+    <Translation>Tots</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_CLEAR</zType>
+    <Translation>Tancar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_YEAR</zType>
+    <Translation><![CDATA[Any {0}<true_1> / {1}<false><end><true_2> ({2_time})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_SCALE</zType>
+    <Translation><![CDATA[{0}, Any {1}<true_2> ({2} Turns)<false><end><true_3> ({3_time})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_TURN_MAX</zType>
+    <Translation>{0} de {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
+    <Translation>{0} (PAUSAT)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
+    <Translation>VICTÒRIA!!!</Translation>
+  </Entry>
+  <Entry>
+    <zType></zType>
+    <Translation>VICTÒRIA DE L'ALIANÇA!!!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
+    <Translation>DERROTA!!!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MAX_CITIES</zType>
+    <Translation><![CDATA[Màx <singular_1>ciutat<plural>ciutats<end>: {0}/{1}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CITY_POPUP</zType>
+    <Translation>Nom de la ciutat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
+    <Translation>Nom de la religió</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CHARACTER</zType>
+    <Translation>Canviar nom: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BORDER_GROWTH</zType>
+    <Translation>Expansió</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
+    <Translation>No disponible</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
+    <Translation>Tecnolgia disponible!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
+    <Translation>Tecnologia adquirida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
+    <Translation>Investigant...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_TECH_DECK</zType>
+    <Translation>A la baralla</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
+    <Translation>A la pila de descart</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
+    <Translation>Tecnologia objetiu</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
+    <Translation>Tecnologia requerida per l'objetiu</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES</zType>
+    <Translation>Articles de luxe: </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_HELP</zType>
+    <Translation>Es poden donar link(CONCEPT_LUXURY) a nacions, tribus i famílies per millorar la opinió. També es poden donar a les ciutats per reduir la infelicitat. El luxes es desbloquegen amb link(CONCEPT_SPECIALIST,1) o link(CONCEPT_IMPROVEMENT,1). Per exemple, la link(RESOURCE_HONEY), com a luxe, s'aconsegueix amb link(SPECIALIST_GARDENER,1) en link(IMPROVEMENT_GROVE,1).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_NONE</zType>
+    <Translation>Cap article de luxe disponible.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
+    <Translation><![CDATA[Negociable: {0_resource}<true_1> (x{1})<false><end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
+    <Translation>{0} (desitjat per {1_family} {2_class})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
+    <Translation>[Has descobert {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
+    <Translation>[Has contactat amb una tribu]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_TRIBE_X_CONTACTED</zType>
+    <Translation>[Has contactat amb els {0_tribe}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
+    <Translation>[Has contactat amb un jugador]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_PLAYER_X_CONTACTED</zType>
+    <Translation>[Has contactat amb {0_player}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
+    <Translation>[{0} {1} en {2}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
+    <Translation>[Has finalitzat {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_QUEST_FINISHED</zType>
+    <Translation>[Tasca finalitzada: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_QUEST_FAILED</zType>
+    <Translation>[Tasca fallida: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MISSION_FINISHED</zType>
+    <Translation>[Missió finalitzada: {0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
+    <Translation>[Unitat eliminada]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
+    <Translation>[link(CONCEPT_CRITICAL_HIT)]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_INJURY</zType>
+    <Translation>[General ferit]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_ATTACK</zType>
+    <Translation>[Atacat amb general]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_DUEL</zType>
+    <Translation>[Duel de generals]</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_CHARACTERLIST_FILTER_NONE</zType>
+	<Translation>Tots els personatges</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_CHARACTERLIST_FILTER_COURT</zType>
+	<Translation>Membres de la cort</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERALS</zType>
+    <Translation>link(CONCEPT_GENERAL,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GOVERNORS</zType>
+    <Translation>link(CONCEPT_GOVERNOR,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AGENTS</zType>
+    <Translation>link(CONCEPT_AGENT,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AMBASSADORS</zType>
+    <Translation>link(COUNCIL_AMBASSADOR,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_CHANCELLORS</zType>
+    <Translation>link(COUNCIL_CHANCELLOR,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_SPYMASTERS</zType>
+    <Translation>link(COUNCIL_SPYMASTER,1) aptes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERAL_AGE</zType>
+    <Translation>Ha de ser menor de int(GENERAL_START_AGE) anys.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_CIVILIAN_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats civils]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_SCOUT_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> exploradors]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_WATER_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats navals]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_MOUNTED_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats muntades]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_SIEGE_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats de setge]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_RANGED_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats a distància]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_INFANTRY_FILTER</zType>
+    <Translation><![CDATA[<true_0>Amaga<false>Mostra<end> unitats d'infanteria]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_ADOPT_BUTTON</zType>
+    <Translation>Adoptar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS</zType>
+    <Translation>Seguidors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGIES</zType>
+    <Translation>Teologia</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGY</zType>
+    <Translation>Nivell {0}: {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGY_NONE</zType>
+    <Translation>Nivell {0}: Cap</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_EMPIRES</zType>
+    <Translation>Imperis:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_FAMILIES</zType>
+    <Translation>Famílies:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_TRIBES</zType>
+    <Translation>Tribus:</Translation>
+  </Entry>
+  <!--menu-screens.xml-->
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_DIALOG</zType>
+    <Translation>Confirmació de rendició</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EXIT_DIALOG</zType>
+    <Translation>Estàs segur que vols sortir? El progrés no guardat es perdrà.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_CONFIRM</zType>
+    <Translation>Sí</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
+    <Translation>Continuar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+    <Translation>Un jugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
+    <Translation>Multijugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
+    <Translation>Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_TOOLS_BUTTON</zType>
+    <Translation>Eines</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
+    <Translation>Opcions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
+    <Translation>Sortir a l'escriptori</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_PREVIOUS_BUTTON</zType>
+    <Translation>Anterior</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEXT_BUTTON</zType>
+    <Translation>Següent</Translation>
+  </Entry>
+  <!-- selected-city -->
+  <Entry>
+    <zType>TEXT_GIFT_CITY_TEAMMATE</zType>
+    <Translation>Oferir ciutat</Translation>
+  </Entry>
+  <!-- selected-worker-->
+  <Entry>
+    <zType>TEXT_WORKER_FILTERS_LABEL</zType>
+    <Translation>Filtres</Translation>
+  </Entry>
+  <!-- other selection panels-->
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES</zType>
+    <Translation>Gestionar link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
+    <Translation>Permet enviar o parar l'enviament de link(CONCEPT_LUXURY).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEND_ITEM</zType>
+    <Translation>Enviar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STOP_SENDING_LUXURY</zType>
+    <Translation>Deixar d'enviar {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GIFT_YIELD</zType>
+    <Translation>Enviar bens</Translation>
+  </Entry>
+  <!--single player menu-->
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <Translation>Nova partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <Translation>Carregar partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_SCEN_BUTTON</zType>
+    <Translation>Escenari</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+    <Translation>Partida de la setmana</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <!--multiplayer menu-->
+  <Entry>
+    <zType>TEXT_MP_KICK_ACTIVE_PLAYER</zType>
+    <Translation>Expulsar al jugador actual?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_DELETE_CLOUD_SAVE</zType>
+    <Translation>Eliminar la partida guardada ({0_gameName})?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON</zType>
+    <Translation>Unir-se</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <Translation>Nova partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <Translation>Carregar partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_CLOUD_BUTTON</zType>
+    <Translation>Carregar del núvol</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <!--cloud-->
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <!--MP wizard screen-->
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_TITLE</zType>
+    <Translation>
+      Selecciona el mode de joc multijugador
+    </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE</zType>
+    <Translation>Juga contra adversaris en línia en temps real.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE</zType>
+    <Translation>Juga per torns en una partida guardada al núvol.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE</zType>
+    <Translation>Juga per torns en el mateix dispositiu.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
+    <Translation>Allotja una partida en un servidor remot.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
+    <Translation>Mode en línia</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE_BUTTON</zType>
+    <Translation>Mode al núvol</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE_BUTTON</zType>
+    <Translation>Mode hotseat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE_BUTTON</zType>
+    <Translation>Servidor remot</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <!--multiplayer games screen-->
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BUTTON</zType>
+    <Translation>Multijugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BROWSER_BUTTON</zType>
+    <Translation>Llistat de partides</Translation>
+  </Entry>
+  <!--multiplayer servers screen-->
+  <Entry>
+    <zType>TEXT_MP_SERVERS_SCREEN_TITLE</zType>
+    <Translation>Servidors</Translation>
+  </Entry>
+  <!--games header in multiplayer-->
+  <Entry>
+    <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
+    <Translation>Nom</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
+    <Translation>Jugadors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
+    <Translation>Servidor</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
+    <Translation>Versió</Translation>
+  </Entry>
+  <!--multiplayer-->
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
+    <Translation>Observar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYER_CONNECTED</zType>
+    <Translation>{0} s'ha connectat al servidor.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYER_DISCONNECTED</zType>
+    <Translation>{0} s'ha desconnectat del servidor.</Translation>
+  </Entry>
+  <!--tools-->
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
+    <Translation>Editor d'escenaris</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
+    <Translation>Gestor d'events</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
+    <Translation>Enciclopèdia</Translation>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <!--minimap.xml-->
+  <!--mini map-->
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_NO_OVERLAY</zType>
+    <Translation>Sense filtre</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_ZOC</zType>
+    <Translation>Zona de control [X]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_DANGER</zType>
+    <Translation>Zona de perill [C]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_CONNECTIONS</zType>
+    <Translation>Connexions [V]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_IDLEUNITS</zType>
+    <Translation>Unitats en espera [B]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MINI_MAP_OPTIONS_DROPDOWN_TILERES</zType>
+    <Translation>Caselles de recurs [N]</Translation>
+  </Entry>
+  <!--mp-setup-screen.xml-->
+  <!--multiplayer setup screen-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
+    <Translation>Enrere</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
+    <Translation>Avançades</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_VICTORY</zType>
+    <Translation> </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_TITLE_LABEL_HOSTG</zType>
+    <Translation>Allotja la partida</Translation>
+  </Entry>
+  <!--servers-->
+	<Entry>
+		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+		<Translation>Contrasenya del servidor</Translation>
+	</Entry>
+	<Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
+    <Translation>Servidors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_GAME_MODE</zType>
+    <Translation>Mode de joc</Translation>
+  </Entry>
+  <!--network-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_NETWORK</zType>
+    <Translation>**Xarxa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_PLAY_BY_CLOUD</zType>
+    <Translation>Jugar al núvol</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_OPTIONS_LABEL_HOTSEAT</zType>
+    <Translation>Hotseat</Translation>
+  </Entry>
+  <!--game options-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
+    <Translation>Nom de la partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMEPASSWORD</zType>
+    <Translation>Contrasenya</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
+    <Translation>Contrasenya</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
+    <Translation>Jugadors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
+    <Translation>Equips</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TRIBAL_STRENGTH</zType>
+    <Translation>Força de les tribus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_AGGRESSION</zType>
+    <Translation>Agressivitat de la IA</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_DEVELOPMENT</zType>
+    <Translation>Desenvolupament de la IA</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
+    <Translation>Gènere de succeció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION_ORDER</zType>
+    <Translation>Ordre de succeció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
+    <Translation>Mortalitat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
+    <Translation>Freqüència dels events</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
+    <Translation>Temps del torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
+    <Translation>Estil del torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_SCALE</zType>
+    <Translation>Escalat del torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
+    <Translation>Torns simultanis</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAM_NATIONS</zType>
+    <Translation>Nacions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_VICTORY</zType>
+    <Translation>Victòria</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
+    <Translation>Tipus de mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
+    <Translation>Mapa aleatori</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
+    <Translation>Mapa predefinit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
+    <Translation>Mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
+    <Translation>Fitxer de mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
+    <Translation>Tamany del mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
+    <Translation>Llavor</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_USE_OTHER_MODS</zType>
+    <Translation>Utilitzar Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_MOD_SELECTION</zType>
+    <Translation>Seleccionar Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_TITLE</zType>
+    <Translation>Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_CUSTOM_OPTIONS_LABEL</zType>
+    <Translation>Opcions personalitzades</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_HUMAN</zType>
+    <Translation>Humà</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_AI</zType>
+    <Translation>IA</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START</zType>
+    <Translation>
+      No es pot començar la partida.
+      L'opció #No duplicar nacions# està habilitada i hi ha més jugadors que nacions
+      o hi ha nacions repetides 
+      o s'ha seleccionat "Mapa predefinit" però no s'ha especificat el fitxer de mapa.
+    </Translation>
+  </Entry>
+  <!-- players-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
+    <Translation>Nom</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NATION</zType>
+    <Translation>Nació</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
+    <Translation>Dificultat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
+    <Translation>Equip</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_CONTROL</zType>
+    <Translation>Control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
+    <Translation>Email</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
+    <Translation>Nom d'usuari</Translation>
+  </Entry>
+  <!-- schedule-->
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_NETWORKPOST</zType>
+    <Translation>Port</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
+    <Translation>Començar pausa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_END</zType>
+    <Translation>Acabar pausa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_ADD</zType>
+    <Translation>Afegir pausa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
+    <Translation>Eliminar pauses</Translation>
+  </Entry>
+  <!--options-menu.xml-->
+  <!--title bar-->
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GENERAL</zType>
+    <Translation>General</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
+    <Translation>Gràfics</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
+    <Translation>So</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
+    <Translation>Pantalla</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_CAMERA</zType>
+    <Translation>Càmera</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
+    <Translation>Controls</Translation>
+  </Entry>
+  <!--<Entry>
+		<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
+		<Translation>Colors</Translation>
+	</Entry>-->
+  <!--controls-->
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
+    <Translation>Guardar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
+    <Translation>Reestablir</Translation>
+  </Entry>
+  <!--scenario-setup-screen.xml -->
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
+    <Translation>Nou escenari</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_PLAYERNAME</zType>
+    <Translation>Jugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SCENARIO</zType>
+    <Translation>Escenari</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NATION</zType>
+    <Translation>Nació</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
+    <Translation>Adversaris</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_OPPONENT_NATIONS</zType>
+    <Translation>Nacions adversaries: {LIST}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_TRIBE</zType>
+    <Translation>Tribus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
+    <Translation>Dificultat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_TURN_SCALE</zType>
+    <Translation>Escalat de torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SHOWOPTIONS</zType>
+    <Translation>Mostrar opcions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_FILE_LOADED</zType>
+    <Translation>{0} carregat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
+    <Translation>Començar partida</Translation>
+  </Entry>
+  <!--sp-setup-screen.xml-->
+  <!--tabs-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_BIO</zType>
+    <Translation>Bio</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_STATS</zType>
+    <Translation>Estadístiques</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
+    <Translation>Configuració simple</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
+    <Translation>Configuració avançada</Translation>
+  </Entry>
+  <!--stats-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
+    <Translation>Comença amb</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
+    <Translation>Unitats úniques</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
+    <Translation>Famílies</Translation>
+  </Entry>
+  <!--random-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_RANDOM</zType>
+    <Translation>Aleatori</Translation>
+  </Entry>
+  <!--simple-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
+    <Translation>Dificultat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
+    <Translation>Tipus de mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
+    <Translation>Mapa aleatori</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
+    <Translation>Mapa predefinit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
+    <Translation>Tamany del mapa</Translation>
+  </Entry>
+  <!--advanced-->
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
+    <Translation>Nació</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
+    <Translation>Nombre d'adversaris</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS_OPTION</zType>
+    <Translation><![CDATA[{0_count} <singular_0>Adversari<plural>Adversaris<end>]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
+    <Translation>Mortalitat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TURN_SCALE</zType>
+    <Translation>Escala de torn</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
+    <Translation>Freqüència dels events</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
+    <Translation>Gènere de succeció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION_ORDER</zType>
+    <Translation>Ordre de succeció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
+    <Translation>Dificultat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TRIBE_LEVEL</zType>
+    <Translation>Força de les tribus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_AGGRESSION</zType>
+    <Translation>Agressivitat de la IA</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_DEVELOPMENT</zType>
+    <Translation>Desenvolupament de la IA</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
+    <Translation>Llavor</Translation>
+  </Entry>
+  <!--tab-panel.xml-->
+  <!--character tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_COURT</zType>
+    <Translation>Cort</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
+    <Translation>Personatges</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
+    <Translation>Cònjuge</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_HEIRS</zType>
+    <Translation>Hereus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
+    <Translation>Cortesans</Translation>
+  </Entry>
+  <!--relationships tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
+    <Translation>link(CONCEPT_RELIGION,1)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
+    <Translation>Famílies</Translation>
+  </Entry>
+  <!--diplomacy tab-->
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_EMPIRES</zType>
+    <Translation>Imperis</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
+    <Translation>Tribus</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
+    <Translation>Ciutats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
+    <Translation>Unitats</Translation>
+  </Entry>
+  <!--tolltips.xml-->
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
+    <Translation>Requeriments</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_COST</zType>
+    <Translation>Cost</Translation>
+  </Entry>
+  <!--unit info-->
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
+    <Translation>Desbloquejar bonificacions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_EFFECT</zType>
+    <Translation>Efecte</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
+    <Translation>Desbloqueja</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
+    <Translation>Requereix</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
+    <Translation>Cartes de bonificació</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
+    <Translation>Investigant...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
+    <Translation>Disponible</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_TECHDECK</zType>
+    <Translation>Baralla de tecnologies</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
+    <Translation>Pila de descart</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_SHOWTECHTREE</zType>
+    <Translation>Mostrar arbre de tecnologies [F6]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DECKREDRAW</zType>
+    <Translation>CTRL+CLICK per tornar a robar (És necessari un líder link(TRAIT_SCHOLAR_ARCHETYPE))</Translation>
+  </Entry>
+  <!--top-bar.xml-->
+  <Entry>
+    <zType>TEXT_TOP_BAR_BUY</zType>
+    <Translation>Compra</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOP_BAR_SELL</zType>
+    <Translation>Ven</Translation>
+  </Entry>
+  <!--city-list.xml-->
+  <Entry>
+    <zType>TEXT_CITY_LIST_CITIES</zType>
+    <Translation>Ciutats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_PRODUCTION</zType>
+    <Translation>Producció</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_GOVERNOR</zType>
+    <Translation>Governador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_FAMILY</zType>
+    <Translation>Família</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_RELIGION</zType>
+    <Translation>Religió</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_POPULATION</zType>
+    <Translation>Població</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT</zType>
+    <Translation>[CLICK] per ordenar per nivell de producció de {0_yield}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT_LEVEL</zType>
+    <Translation>[CTRL+CLICK] per order per nivell de {0_yield}.</Translation>
+  </Entry>
+  <!--overview-map.xml-->
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
+    <Translation>Opcions de mapa</Translation>
+  </Entry>
+  <!--appears on hover-->
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_REGION</zType>
+    <Translation>Regió</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
+    <Translation>Fronteres</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
+    <Translation>Xarxa comercial</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_DANGER</zType>
+    <Translation>Zones de perill</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_ZOC</zType>
+    <Translation>Zones de control</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
+    <Translation>Marcadors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
+    <Translation>Unitats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
+    <Translation>Recursos</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
+    <Translation>Emplaçaments</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
+    <Translation>Altres</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
+    <Translation>Tot el mapa</Translation>
+  </Entry>
+  <!--popup-inheritance.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE</zType>
+    <Translation>Herència</Translation>
+  </Entry>
+  <!--unit-list.xml-->
+  <Entry>
+    <zType>TEXT_UNIT_LIST</zType>
+    <Translation>Llista d'unitats</Translation>
+  </Entry>
+  <!--tech-tree.xml-->
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS</zType>
+    <Translation>Arbre de tecnologies</Translation>
+  </Entry>
+  <!--selected-worker.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_WORKER_TURN</zType>
+    <Translation>Torn</Translation>
+  </Entry>
+  <!--selected-unit.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
+    <Translation>Millorar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_TURN</zType>
+    <Translation>Torn</Translation>
+  </Entry>
+  <!--selected-city.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_CHOOSE</zType>
+    <Translation>Tria en què treballar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_QUEUE</zType>
+    <Translation>Cua</Translation>
+  </Entry>
+  <!--selected-character.xml-->
+  <Entry>
+    <zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
+    <Translation>Accions</Translation>
+  </Entry>
+  <!--religion-tree.xml-->
+  <Entry>
+    <zType>TEXT_RELIGION_TREE_STATE_RELIGIONS</zType>
+    <Translation>link(CONCEPT_STATE_RELIGION,1)</Translation>
+  </Entry>
+  <!--popup-victory.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
+    <Translation>Condicions de victòria</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
+    <Translation>Ambicions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_SCORE</zType>
+    <Translation>Puntuació</Translation>
+  </Entry>
+  <!--popup-pings.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_SUBMIT</zType>
+    <Translation>**Submit</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_CANCEL</zType>
+    <Translation>Cancel·la</Translation>
+  </Entry>
+  <!--popup-laws.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_LAWS</zType>
+    <Translation>Lleis</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_LAWS_LAW_UPKEEP</zType>
+    <Translation>Mant: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_LAWS_LAW_FAMILY_OPINION</zType>
+    <Translation>{0} Opinió: {1}</Translation>
+  </Entry>
+  <!--popup-input.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_TITLE</zType>
+    <Translation>link(CONCEPT_COGNOMEN)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_DESC</zType>
+    <Translation>Text descriptiu</Translation>
+  </Entry>
+  <!--popup-default.xml-->
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_TITLE</zType>
+    <Translation>link(CONCEPT_COGNOMEN)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_DESC</zType>
+    <Translation>Text descriptiu</Translation>
+  </Entry>
+  <!--leader-info.xml-->
+  <Entry>
+    <zType>TEXT_LEADER_INFO_QUESTS</zType>
+    <Translation>Tasques:</Translation>
+  </Entry>
+  <!--help-screen.xml-->
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_HP</zType>
+    <Translation>PS</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
+    <Translation>MOV</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_STR</zType>
+    <Translation>FOR</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_RNG</zType>
+    <Translation>DIS</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_VIS</zType>
+    <Translation>VIS</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_OTHER</zType>
+    <Translation>Altres</Translation>
+  </Entry>
+  <!--game-log.xml-->
+  <Entry>
+    <zType>TEXT_GAME_LOG</zType>
+    <Translation>Game Log</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_LOG</zType>
+    <Translation>Registre</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_TIMELINE</zType>
+    <Translation>Línia de temps</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_AI</zType>
+    <Translation>Registre de la IA</Translation>
+  </Entry>
+  <!--family-list.xml-->
+  <Entry>
+    <zType>TEXT_FAMILY_LIST</zType>
+    <Translation>Famílies</Translation>
+  </Entry>
+  <!--cycle-idle.xml-->
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_BUY</zType>
+    <Translation>COM</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_SELL</zType>
+    <Translation>VEN</Translation>
+  </Entry>
+  <!--event-editor-bar-option.xml-->
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
+    <Translation>M/F</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
+    <Translation>GO</Translation>
+  </Entry>
+  <!--choose-research.xml-->
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
+    <Translation>Arbre de tecnologies</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
+    <Translation>Desbloqueja</Translation>
+  </Entry>
+  <!--choose-character.xml-->
+  <Entry>
+    <zType>TEXT_CHOOSE_CHARACTER</zType>
+    <Translation>Tria</Translation>
+  </Entry>
+  <!--character-list.xml-->
+  <Entry>
+    <zType>TEXT_CHARACTER_LIST</zType>
+    <Translation>Personatges</Translation>
+  </Entry>
+  <!--barbarian-list.xml-->
+  <Entry>
+    <zType>TEXT_TRIBE_LIST</zType>
+    <Translation>Tribus</Translation>
+  </Entry>
+  <!--ai-log.xml-->
+  <Entry>
+    <zType>TEXT_AI_LOG</zType>
+    <Translation>Registre de la IA</Translation>
+  </Entry>
+  <!--comparisonportrait-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+    <Translation>Hereu actual</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
+    <Translation>Nou hereu</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
+    <Translation>Tria llei</Translation>
+  </Entry>
+  <!--toprightwidget-->
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
+    <Translation>Canvia lleis</Translation>
+  </Entry>
+  <!--city-widget-->
+  <Entry>
+    <zType>TEXT_WIDGET_CITY_IDLE</zType>
+    <Translation>En espera</Translation>
+  </Entry>
+  <!--selected-decision-->
+  <Entry>
+    <zType>TEXT_AMBITION_SKIP_DECISION</zType>
+    <Translation>En aquest moment no em sento ambiciós.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_FAMILY_DECISION</zType>
+    <Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 Ciutat:{3} Ciutats})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+    <Translation>link(CONCEPT_IMPROVEMENT): +1 {0_ratingtype} ({1_startrating} a {2_endrating})</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+    <Translation>link(CONCEPT_IMPROVEMENT): {0_trait}</Translation>
+  </Entry>
+  <!-- tech tree-->
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+    <Translation>[CTRL+Click] per canviar la tecnologia activa.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_TARGET_RESEARCH</zType>
+    <Translation>[Click] per marcar-la quan seleccionis una investigació.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+    <Translation>Eliminada permanentment si la descartes.</Translation>
+  </Entry>
+  <!-- Main Menu-->
+  <Entry>
+    <zType>TEXT_UI_MAIN_MENU_ACTIVE_MODS</zType>
+    <Translation><![CDATA[<color=#e3c08ccc>Mods</color> actius]]></Translation>
+  </Entry>
+  <!--MPSetupScreenPanel-->
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_GAME</zType>
+    <Translation>Començar partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
+    <Translation>Treure la pausa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
+    <Translation>Pausar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNLOAD_GAME</zType>
+    <Translation>**Unload Game</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
+    <Translation>Carregar partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
+    <Translation>Guardar partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
+    <Translation>Esperant una partida per començar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
+    <Translation>{0_time} **Torn actiu:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
+    <Translation>Pausar: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
+    <Translation>Despausar: {0}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
+    <Translation>Nova partida</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
+    <Translation>Selecciona nació quan estableixis la teva primera ciutat.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
+    <Translation>Deixa que el joc esculli una nació per tu.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
+    <Translation>Jugar els primer torns en mode simultani.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_TURN_SCALE</zType>
+    <Translation>**Cada torn es un {0_turnScale}</Translation>
+  </Entry>
+  <!--OptionsMenuPanel-->
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
+    <Translation>Mai</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
+    <Translation>En link(DIPLOMACY_WAR)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
+    <Translation>En link(DIPLOMACY_WAR) o link(DIPLOMACY_TRUCE)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
+    <Translation>Sempre</Translation>
+  </Entry>
+  <!--Mods Screen (mod-manager.xml)-->
+  <Entry>
+    <zType>TEXT_UI_MODS_POWERED_BY_MODIO_TOOLTIP</zType>
+    <Translation>Powered by mod.io</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_BACK_TO_MENU</zType>
+    <Translation>Menú principal</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TITLE</zType>
+    <Translation>Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MANAGE_TAB</zType>
+    <Translation>Gestionar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INSTALL_TAB</zType>
+    <Translation>Instal·lar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
+    <Translation>Pujar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_ALL</zType>
+    <Translation>Tots</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_SINGLEPLAYER</zType>
+    <Translation>Un jugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MULTIPLAYER</zType>
+    <Translation>Multijugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_TRANSLATIONS</zType>
+    <Translation>Traduccions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAPS</zType>
+    <Translation>Mapes</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAP_SCRIPTS</zType>
+    <Translation>Scripts de mapa</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INCLUDE_INTERNAL_TOGGLE_LABEL</zType>
+    <Translation>Incloure interns</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NEW_MOD_BUTTON</zType>
+    <Translation>Nou Mod</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_RESOURCES</zType>
+    <Translation>Recursos</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_VERSION_LABEL</zType>
+    <Translation>Versió del Mod:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_AUTHOR_LABEL</zType>
+    <Translation>Autor/s:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_HOMEPAGE_LABEL</zType>
+    <Translation>Pàgina web:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_NAME_LABEL</zType>
+    <Translation>Nom del Mod:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILENAME_LABEL</zType>
+    <Translation>Nom del fitxer:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_PICTURE_LABEL</zType>
+    <Translation>Imatge del Mod:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DESCRIPTION_LABEL</zType>
+    <Translation>Descripció:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL</zType>
+    <Translation>Registre de canvis:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL_TOOLTIP</zType>
+    <Translation>This text will appear on the mod.io website as well as on the discord bot's mod update notifications</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SINGLEPLAYER_TOGGLE_LABEL</zType>
+    <Translation>Un jugador:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_MULTIPLAYER_TOGGLE_LABEL</zType>
+    <Translation>Multijugador:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TRANSLATION_TOGGLE_LABEL</zType>
+    <Translation>Traducció:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SINGLEPLAYER_TAG</zType>
+    <Translation>[Un jugador]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MULTIPLAYER_TAG</zType>
+    <Translation>[Multijugador]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TRANSLATION_TAG</zType>
+    <Translation>[Traducció]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_TAG</zType>
+    <Translation>[Mapa]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_SCRIPT_TAG</zType>
+    <Translation>[Script de mapa]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILES</zType>
+    <Translation>Arxius:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_ADD_FILES</zType>
+    <Translation>Afegir fitxers</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES</zType>
+    <Translation>Dependències:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES</zType>
+    <Translation>Incomptabilitats:</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES_TOOLTIP</zType>
+    <Translation>Llista de mods necessaris perquè aquest funcioni correctament. Aquests es carregaràn abans d'aquest mod.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES_TOOLTIP</zType>
+    <Translation>Llista de mods que no són compatibles aquest mod.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_RELATIONS_FORMAT_EXPLANATION</zType>
+    <Translation><![CDATA[cadascún en el format: mod_name,modio_id,modfile_id<br>on mod_name és l'únic camp obligatori. modio_id és el identificador pel mod a mod.io. El modfile_id és l'indentificador per a la versió específica del fitxer.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_OPEN_MOD_FOLDER_BUTTON</zType>
+    <Translation>Obrir carpeta de mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SAVE_LOCAL_CHANGES_BUTTON</zType>
+    <Translation>Guardar canvis locals</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_BUILD_BUTTON</zType>
+    <Translation>Pujar la versió</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CLEAR_MOD_SELECTION_BUTTON</zType>
+    <Translation>Desactivar Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_REVERT_SELECTION_BUTTON</zType>
+    <Translation>Revertir seleccions</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PLAY_WITH_MODS_BUTTON</zType>
+    <Translation>Jugar amb Mods</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_INTERNAL_MOD</zType>
+    <Translation>{0_modName} (Intern)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_MOD_PROFILE_BUTTON</zType>
+    <Translation>Crear perfil del Mod</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_BUTTON</zType>
+    <Translation>Actualitzar perfil</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_BUTTON</zType>
+    <Translation>Actualitzar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UNINSTALL_MOD_BUTTON</zType>
+    <Translation>Desinstal·lar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_MOD_BUTTON</zType>
+    <Translation>Descarregar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_REQUEST_ERROR_POPUP_TITLE</zType>
+    <Translation>Sol·licitud d'errors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SECURITY_CODE_SENT_POPUP_TITLE</zType>
+    <Translation>Codi de seguretat enviat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOG_OUT_BUTTON</zType>
+    <Translation>Desconnectar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SIGN_IN_BUTTON</zType>
+    <Translation>Connectar</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+    <Translation>{0_modName} - actual: {1}, últim: {2}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
+    <Translation>Actualitzar mods?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_UPDATED_CONFIRMED_POPUP_TITLE</zType>
+    <Translation>Mods actualitzats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_TITLE</zType>
+    <Translation>Descàrrega completada</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_BODY</zType>
+    <Translation>Descàrrega finalitzada {LIST}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ENTER_EMAIL_POPUP_TITLE</zType>
+    <Translation>Introduir Email</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VALIDATION_ERROR_POPUP_TITLE</zType>
+    <Translation>Validació d'errors</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_MOD_NOT_BLANK</zType>
+    <Translation>El nom del Mod no pot estar en blanc</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_DUPLICATE_MOD_NAME</zType>
+    <Translation>Nom duplicat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_TITLE</zType>
+    <Translation>Nom reservat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
+    <Translation>El nom "{0_modName}" està reservat per a ús intern.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
+    <Translation>Actualitzant perfil de Mod...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_MOD_PROFILE</zType>
+    <Translation>Pujant perfil del Mod...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_BUILD</zType>
+    <Translation>Pujant versió...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_TITLE</zType>
+    <Translation>El Mod no té perfil</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_BODY</zType>
+    <Translation>Com vols procedir?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_POPUP_OPTION</zType>
+    <Translation>Crear un nou perfil de Mod</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PROFILE_CHANGES_COMPLETE_POPUP_TITLE</zType>
+    <Translation>Canvis del perfil de Mod completats</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_TITLE</zType>
+    <Translation>Fitxer del Mod pujat</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_DEFAULT_DESCRIPTION</zType>
+    <Translation>Escriu aquí la descripció...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_TITLE</zType>
+    <Translation>Mods Set</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY</zType>
+    <Translation><![CDATA[Els següents Mods estàn actius:<br>{0_list}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_OR_MULTIPLAYER_POPUP_TITLE</zType>
+    <Translation>Un jugador o multijugador?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_POPUP_OPTION</zType>
+    <Translation>Un jugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_MULTIPLAYER_POPUP_OPTION</zType>
+    <Translation>Multijugador</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOGGED_OUT_TITLE</zType>
+    <Translation>Desconnectat correctament</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_TITLE</zType>
+    <Translation>Crear un nou Mod</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_BODY</zType>
+    <Translation>Introdueix el nom del Mod</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_TOOLTIP</zType>
+    <Translation>Guarda els canvis locals al teu fitxer {0_filename}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_NOT_AVAILABLE_TOOLTIP</zType>
+    <Translation>No es pot guardar la informació del mapa i scripts de mapa, cal actualitzar/crear els perfils en línia.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_TOOLTIP</zType>
+    <Translation>Crear un nou perfil de mod a mod.io.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_TOOLTIP</zType>
+    <Translation>Actualiza el teu perfil de mod a mod.io.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_BUILD_TOOLTIP</zType>
+    <Translation>Crea i publica un nou fitxer de versió pel teu Mod.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VERSION_NOT_LATEST_TOOLTIP</zType>
+    <Translation><![CDATA[Versió pendent d'actualitzar.<br>descarregada: {0}<br>última: {1}]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UP_TO_DATE_TOOLTIP</zType>
+    <Translation>Descarregat i actualitzat!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_TOOLTIP</zType>
+    <Translation><![CDATA[icon(bullet)Es recomana 1280x720 o superior<br>icon(bullet)Es recomana aspecte 16:9<br>icon(bullet)Màxim 8Mb<br>icon(bullet)Els GIFs es convertiràn en PNG]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_TITLE</zType>
+    <Translation>No s'han trobat Mods!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_BODY</zType>
+    <Translation>El següents Mods no es troben al teu sistema. Vols intentar descarregar-los?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_DOWNLOADING_MODS_POPUP_TITLE</zType>
+    <Translation>Descarregant mods, un moment si us plau.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MOD_DOWNLOADS_COMPLETE_POPUP_TRY_LOAD_AGAIN_BUTTON</zType>
+    <Translation>Intentant carregar el joc novament</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NOT_FOUND_ON_SERVER_POPUP_TITLE</zType>
+    <Translation>El mods sol·licitats no s'han trobat als servidors de mod.io</Translation>
+  </Entry>
+</Root>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
+		<Translation>Fortificació~una Fortificació~Fortificacions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
+		<Translation>Granja~un Granja~Granges</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
+		<Translation>Mina~un Mina~Mines</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
+		<Translation>Serradora~una Serradora~Serradores</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
+		<Translation>Pedrera~una Pedrera~Pedreres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
+		<Translation>Pastura~una Pastura~Pastures</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
+		<Translation>Campament~un Campament~Campaments</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
+		<Translation>Hort~un Hort~Horts</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
+		<Translation>Zona de pesca</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
+		<Translation>Port~un Port~Ports</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
+		<Translation>Graner~un Graner~Graners</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
+		<Translation>Molí~un Molí~Molins</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
+		<Translation>Masia~una Masia~Masies</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
+		<Translation>Cuartells~uns Cuartells~Cuartells</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
+		<Translation>Camp de tir~un Camp de tir~Camps de tir</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_ODEON</zType>
+		<Translation>Odeó~un Odeó~Odeons</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
+		<Translation>Bany~un Bany~Banys</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
+		<Translation>Mercat~un Mercat~Mercats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
+		<Translation>Biblioteca~un Biblioteca~Biblioteques</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
+		<Translation>Jutjat~un Jutjat~Jutjats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
+		<Translation>Guarnició~una Guarnició~Guarnicions</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
+		<Translation>Santuari~un Santuari~Santuaris</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
+		<Translation>Monestir~un Monestir~Monestirs</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
+		<Translation>Temple~un Temple~Temples</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
+		<Translation>Catedral~una Catedral~Catedrals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
+		<Translation>Lloc sagrat~un Lloc sagrat~Llocs sagrat</Translation>
+	</Entry>
+</Root>

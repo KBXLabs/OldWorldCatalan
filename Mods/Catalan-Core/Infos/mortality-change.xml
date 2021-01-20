@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>MORTALITY_LONG</zType>
+		<zName>Longeu</zName>
+		<zHelp>Els personatges viuen una llarga vida.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>MORTALITY_STANDARD</zType>
+		<zName>Standard</zName>
+		<zHelp>Els personatges no acostumen a morir joves.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>MORTALITY_REALISTIC</zType>
+		<zName>Realistic</zName>
+		<zHelp>Desagradable, cru i curt</zHelp>
+	</Entry>
+</Root>
