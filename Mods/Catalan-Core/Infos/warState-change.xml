@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>WARSTATE_ROUTED</zType>
+		<zName>en Retirada</zName>
+	</Entry>
+	<Entry>
+		<zType>WARSTATE_LOSING</zType>
+		<zName>Perdent</zName>
+	</Entry>
+	<Entry>
+		<zType>WARSTATE_NEUTRAL</zType>
+		<zName>En Taules</zName>
+	</Entry>
+	<Entry>
+		<zType>WARSTATE_WINNING</zType>
+		<zName>Guanyant</zName>
+	</Entry>
+	<Entry>
+		<zType>WARSTATE_TRIUMPHANT</zType>
+		<zName>Triomfant</zName>
+	</Entry>
+</Root>

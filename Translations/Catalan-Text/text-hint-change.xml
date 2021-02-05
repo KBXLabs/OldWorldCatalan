@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Generic-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_1</zType>
+		<Translation>Les unitats en els boscos reben una bonificació defensiva contra unitats link(UNITTRAIT_RANGED).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_2</zType>
+		<Translation>Les unitats en terreny pla són vulnerables als atacs d'unitats link(UNITTRAIT_MOUNTED,1).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_3</zType>
+		<Translation>Les unitats link(UNITTRAIT_INFANTRY) link(UNITTRAIT_MELEE) es poden fortificar per guanyar una bonificació defensiva mentre estiguin en una casella sense moures.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_4</zType>
+		<Translation>Les unitats terrestres es poden moure ràpidament a través de les zones d'aigua controlades per les teves ciutats i vaixells ancorats.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_5</zType>
+		<Translation>Presiona [V] per veure la teva link(CONCEPT_TRADE_NETWORK) i connexions.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_6</zType>
+		<Translation>No pots acumular més de int(MAX_TRAINING) de link(YIELD_TRAINING) icon(YIELD_TRAINING). El que sobrepassi es convertirà en link(YIELD_ORDERS) icon(YIELD_ORDERS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_7</zType>
+		<Translation>Només pots utilitzar 2 de les 4 famílies de la teva nació. Experimenta per trobar la millor combinació.!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_8</zType>
+		<Translation>El link(YIELD_CIVICS) icon(YIELD_CIVICS) i el link(YIELD_TRAINING) icon(YIELD_TRAINING) que no utilitzis per produir a les teves ciutats s'acumulará a la nació.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_9</zType>
+		<Translation>Si no vols utilitzar tots els link(YIELD_ORDERS) icon(YIELD_ORDERS), pots acabar el torn amb la tecla [6].</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_10</zType>
+		<Translation>Els link(UNIT_WORKER,2) poden talar fusta dels arbres. Els arbres tornaràn a creixer en uns anys si no els tales completament!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_11</zType>
+		<Translation>Si no tens suficients recursos per a una unitat o una millora, presiona [ALT+Click] per comprar automàticament el que et falti, assumint que tens suficient (YIELD_MONEY) icon(YIELD_MONEY).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_12</zType>
+		<Translation>La construcció de millores en turons trigaràn un any més en finalitzar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_13</zType>
+		<Translation>Els link(TRIBE_BARBARIANS) són tribus xenòfobes hostils amb totes les nacions. No hi ha cap conseqüència diplomàtica per atacar-los o entrar en els seus territoris. No tenen aliats, ni tan sols els altres link(TRIBE_BARBARIANS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_14</zType>
+		<Translation>Si el teu territori escasseja de link(YIELD_WOOD) icon(YIELD_WOOD), pots considerar entrenar unitats militar que requereixen link(YIELD_STONE) icon(YIELD_STONE) o link(YIELD_IRON) icon(YIELD_IRON). Enfoca el teu subministrament de link(YIELD_WOOD) icon(YIELD_WOOD) en la construcció de millores rurals.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_15</zType>
+		<Translation>Les link(IMPROVEMENT_QUARRY,2) construides adjacents a muntanyes, pordueixen més link(YIELD_STONE) icon(YIELD_STONE) per cada casella de muntanya adjacent. Les link(IMPROVEMENT_QUARRY,2) rendeixen menys si es construeixen en terrenys àrids.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_16</zType>
+		<Translation>Les link(IMPROVEMENT_LUMBERMILL,2) construides adjacents a link(IMPROVEMENT_CAMP,2) produeixin més link(YIELD_WOOD) icon(YIELD_WOOD). Els caçadors contrles als depredadors, creen noves rutes forestals, etc...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_17</zType>
+		<Translation>Estar en guerra contra massa oponents pot abrumar a les teves tropes i no disposar de suficients link(YIELD_ORDERS) icon(YIELD_ORDERS) per poder lluitar en tots els fronts. Utilitza la diplomàcia per evitar aquesta situació.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_18</zType>
+		<Translation>**Researching your way to the link(IMPROVEMENT_LUMBERMILL) Improvement takes time. You may need to send link(UNIT_WORKER,2) to forests and thickets outside your borders, to Chop link(YIELD_WOOD) icon(YIELD_WOOD) from link(VEGETATION_TREES) and link(VEGETATION_SCRUB).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_19</zType>
+		<Translation>La demanda de link(YIELD_FOOD) icon(YIELD_FOOD) augmentarà a mesura que les teves ciutats creixin i madurin.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_20</zType>
+		<Translation>Millorar unitats a altres més avançades és costós, però pot augmentar molt ràpidament el teu poder militar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_21</zType>
+		<Translation>Les carreteres ajuden a les unitats a moures más lluny per cada link(YIELD_ORDERS) icon(YIELD_ORDERS), especialment quan la link(CONCEPT_ROAD) passaper un terreny difícil.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_22</zType>
+		<Translation>Les unitats link(UNITTRAIT_RANGED) obtenen una casella adicional de rang si es col·loquen elevats (a turons), a menys que l'objetiu també estigui elevat (a turons).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_23</zType>
+		<Translation>Deixar una unitat militar en un emplaçament conquerit, marca aquest territori com a teu. No protegir el lloc implica que pot ser reclamat per un noun link(CONCEPT_SETTLEMENT) bàrbar o dels teus rivals.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_24</zType>
+		<Translation>Augmentar la quantitat de link(YIELD_ORDERS) icon(YIELD_ORDERS) hauría de ser una prioritat. Quants més territoris i unitats controlis, més link(YIELD_ORDERS) icon(YIELD_ORDERS) necessitaràs per funcionar i defensar-te.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_25</zType>
+		<Translation>El poder de cada llei té la tendència a augmentar a mesura que la teva nació també creix. Al descubrir una tecnologia, no olbidis promulgar les noves lleis que otorga.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_26</zType>
+		<Translation>Una ciutat pot construir vaixells si controla caselles d'aigua de tipus link(HEIGHT_COAST).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_27</zType>
+		<Translation>Els link(UNIT_SCOUT,2) poden vigilar un gran quantitat de caselles. Poden proporcionar informació valuosa sobre la força i els movimients de l'enemic.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_28</zType>
+		<Translation>Ciutats amb un bon link(YIELD_GROWTH) icon(YIELD_GROWTH) poden disposar de (UNIT_SETTLER,2), link(UNIT_WORKER,2) i link(UNIT_SCOUT,2) més ràpidament.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_29</zType>
+		<Translation>La velocitat a la que una ciutat produeix unitats militar està vinculada directament amb la porducció link(YIELD_TRAINING) icon(YIELD_TRAINING).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_30</zType>
+		<Translation>La velocitat a la que es completen els projectes d'una ciutat, depenen del nivell de link(YIELD_CIVICS) icon(YIELD_CIVICS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_31</zType>
+		<Translation>Els especialistes link(CONCEPT_URBAN,3) es poden millorar varies vegades, la qual cosa augmenta considerablemente el rendiment d'aquell edifici link(CONCEPT_URBAN).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_32</zType>
+		<Translation>La majoria dels edificis link(CONCEPT_URBAN,3) requereixen de link(YIELD_STONE) icon(YIELD_STONE) per a la seva construcció. Pots esperar una gran demanda de link(YIELD_STONE) icon(YIELD_STONE) a mesura que el joc avança i descubreixes noves tecnologies.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_33</zType>
+		<Translation>Les unitats link(UNITTRAIT_RANGED) son eficients en batalla atacant a un enemic sense haver de gastar link(YIELD_ORDERS) icon(YIELD_ORDERS) en el movimient.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_34</zType>
+		<Translation>Aconseguir link(YIELD_WOOD) icon(YIELD_WOOD) del link(VEGETATION_SCRUB,2) no costa link(YIELD_ORDERS) icon(YIELD_ORDERS). Si mous un link(UNIT_WORKER) a través d'una casella de link(VEGETATION_SCRUB,2) de camí a un altre destí, pots recol·lectar link(YIELD_WOOD) icon(YIELD_WOOD) gratuïtament.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_35</zType>
+		<Translation>Les unitats link(UNIT_MILITIA) i link(UNIT_CONSCRIPT) no poden entrenar, però es creen amb link(YIELD_GROWTH) icon(YIELD_GROWTH) en lloc de link(YIELD_TRAINING) icon(YIELD_TRAINING). Les ciutats amb un alt nivell de link(YIELD_GROWTH) icon(YIELD_GROWTH) poden produir-les ràpidament.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_36</zType>
+		<Translation>Les unitats link(UNITTRAIT_MOUNTED) tenen l'habilitat de link(CONCEPT_ROUT). Quan eliminen a una unitat enemiga, ocupen la casella d'aquella unitat. Tot i que no poden tornar-se a moure, poden atacar de nou si hi ha un altre objetiu adjacent.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_37</zType>
+		<Translation>Considera gastar link(YIELD_TRAINING) icon(YIELD_TRAINING) per entrenar a les teves unitats. Les unitats que han lluitat i han guanyat experiència tenen un cost inferior en link(YIELD_TRAINING) icon(YIELD_TRAINING) per entrenar-les.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_38</zType>
+		<Translation>Les tribus no són nacions. Quan estàn en link(DIPLOMACY_WAR) amb tu, només les unitats properes a les teves unitats o al teu territori, representen una amenaça, a no ser que les provoquis lo suficient com per que llencin una invasió.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_39</zType>
+		<Translation>Les ciutats costaneres controlen menys terra que les ciutat de l'interior, però són menys vulnerables als atacs.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_40</zType>
+		<Translation>L'aire fred fa que els núvols deixin caure pluja a mesura que guanyen altitud per moures per sobre de les muntanyes. La majoria de muntanyes tenen una vessant exhuberant on cau la pluja i una zona ombrívola al costat oposat, depenent les patrons del vent en aquella regió.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_41</zType>
+		<Translation>Considera pendre les decisions dels events al començament del torn. Algunes de les opcions disponibles requereixen que gastis link(YIELD_ORDERS) icon(YIELD_ORDERS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_42</zType>
+		<Translation>Una link(CONCEPT_ALLIANCE_TRIBE) et permet establir ciutats pacíficament aprop d'assentaments aliats.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_43</zType>
+		<Translation>No pots acumular més de int(MAX_CIVICS) de link(YIELD_CIVICS) icon(YIELD_CIVICS). El que sobrepassi es convertirà en link(YIELD_SCIENCE) icon(YIELD_SCIENCE) automàticament.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_44</zType>
+		<Translation>Els link(UNIT_WORKER,2) amb danys necessiten un torn adicional per construir millores.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_45</zType>
+		<Translation>Utilitza [CTRL+Click] per link(CONCEPT_MARCH,4) automàticament i que les teves unitats puguin moures encara que estiguin esgotades.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_46</zType>
+		<Translation>Mantén [Z] per ocultar els link(VEGETATION_TREES) i els link(VEGETATION_SCRUB,2).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_47</zType>
+		<Translation>Mantén [X] per resaltar les Zones de Control.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_48</zType>
+		<Translation>Mantén [C] per resaltar las Zones de Perill, caselles desde on les unitats enemigues et poden atacar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_49</zType>
+		<Translation>Mantén [V] per resaltar les ciutats connectades amb la capital.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_50</zType>
+		<Translation>Mantén [B] per resaltar unitats que encara es poden utilitzar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_51</zType>
+		<Translation>Mantén [N] per mostrar el que produeix cada un de les teves link(CONCEPT_IMPROVEMENT,1).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_52</zType>
+		<Translation>Si un líder no és capaç de assolir un anhel abans de morir, esdevé llegat. El llegats també sumen per a la victòria per anhels però et recompensen amb menys link(CONCEPT_LEGITIMACY) icon(YIELD_LEGITIMACY).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_53</zType>
+		<Translation>El nivell dels bàrbars, escollit a la configuració avançada, afecta a la quantitat d'emplaçaments lliures a prop de la capital.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_54</zType>
+		<Translation>Els edificis link(CONCEPT_URBAN,3) han d'estar dajacents a la ciutat o a altres edificis link(CONCEPT_URBAN,3).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_55</zType>
+		<Translation>Els edificis link(CONCEPT_URBAN,3) a la costa només necessiten estar adjacents a un edifici link(CONCEPT_URBAN,3) o a la ciutat.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_56</zType>
+		<Translation>Amb un link(UNIT_WORKER) seleccionat, Mantén [CTRL] i mou el cursor sobre una casella per veure quines millores es poden construir-hi.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_57</zType>
+		<Translation>Els link(UNIT_SCOUT,2) son invisibles en caselles amb link(VEGETATION_TREES).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_58</zType>
+		<Translation>Mantén [SHIFT] o [Click Central] per mantenir les ajudes visibles.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_59</zType>
+		<Translation>Els especialistes s'instrueixen més ràpidament en millores de nivell superior. Per exemple, els poetes triguen menys temps en (IMPROVEMENT_THEATER_2) que en link(IMPROVEMENT_THEATER_1) i inclús menys en link(IMPROVEMENT_THEATER_3).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_60</zType>
+		<Translation>Mantén [SHIFT] quan moguis a una unitat per assignar una destinació de varis torns. La unitat es mourà, utilitzant tots el moviment fins l'esgotament) cap a aquella casella cada torn.</Translation>
+	</Entry>
+</Root>

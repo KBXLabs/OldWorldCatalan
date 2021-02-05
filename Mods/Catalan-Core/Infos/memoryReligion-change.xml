@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zText comment="Player-facing string describing the memory."/>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_MADE_OFFERINGS</zType>
+		<zText>Vas fer ofrenes sagrades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_OFFERINGS</zType>
+		<zText>Et vas negar a fer ofrenes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_RELEASED_PRIESTS</zType>
+		<zText>Vas alliberar sacerdots</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_FAMILY_WAR_YES</zType>
+		<zText>Vas lluitar per una família de la nostra fe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_MOURNED_IN_PRAYER</zType>
+		<zText>Vas plorar i resar pel nen</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_TRAINED_CHILD</zType>
+		<zText>Vas formar al vostre fill</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_WONDER_HAGIA_SOPHIA</zType>
+		<zText>Vas crear una llar per a la nostra fe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_ZOROASTRIANISM</zType>
+		<zText>Vas adoptar el Zoroastrisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_ZOROASTRIANISM</zType>
+		<zText>Vas propagar el Zoroastrisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_OUTLAWED_ZOROASTRIANISM</zType>
+		<zText>Vas prohibir el Zoroastrisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_JAILED_MISSIONARY</zType>
+		<zText>Vas deixar el nostre missioner a la presó</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_JUDAISM</zType>
+		<zText>Vas adoptar el Judaisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_JUDAISM</zType>
+		<zText>Et vas negar a adoptar el Judaisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_CHRISTIANITY</zType>
+		<zText>Vas propagar el Cristianisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BROKE_UP_GATHERING</zType>
+		<zText>Vas trencar la nostra trobada</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_GATHERING</zType>
+		<zText>Ens vas permetre reunir-nos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_RELIGION_OPINION_GOOD</zType>
+		<zText>Vas honrar les nostres creences</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_RELIGION_OPINION_BAD</zType>
+		<zText>No vas respectar les nostres creences</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_CHRISTIANITY</zType>
+		<zText>Vas adoptar el Cristianisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_MANICHAEISM</zType>
+		<zText>Vas fundar el maniqueisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ORTHDOXY_AGAINST</zType>
+		<zText>Vas triar l’ortodòxia contra nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_HYMNS_TO_THE_PEOPLE</zType>
+		<zText>Vas portar himnes per a la gent</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DECADENT_CITY</zType>
+		<zText>Vas rebutjar la decadència de la ciutat</zText>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>MEMORYRELIGION_RUINS_RESTORED_TEMPLE</zType>
+		<zText>Vas restaurar les restes de temples antics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_GIVEN_INCENSE</zType>
+		<zText>Vas fer rituals d'encens</zText>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>MEMORYRELIGION_FUNDED_VAULTED_TEMPLES</zType>
+		<zText>Vas finançar els temples de volta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_NO_FUNDING_TEMPLES</zType>
+		<zText>No vas finançar temples amb volta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PROTECTED_PRACTITIONERS</zType>
+		<zText>Vas protegir als seguidors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PROTECTED_PILGRIMS</zType>
+		<zText>Vas protegir els nostres pelegrins</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_PERSECUTION</zType>
+		<zText>Vas permetre la nostra persecució</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_PURCHASE_OF_LAND</zType>
+		<zText>Vas permetre la compra de terres per a tombes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DENIED_PURCHASE</zType>
+		<zText>Ens vas obligar a llogar terres per a tombes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_FREEING_SLAVES</zType>
+		<zText>No vas ajudar a alliberar esclaus egipcis</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_HELPED_FREE_SLAVES</zType>
+		<zText>Vas ajudar a alliberar els esclaus egipcis</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DEMANDED_WAR</zType>
+		<zText>Vas amenaçar amb la guerra a Egipte pels nostres pobles esclaus</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BLOCKED_LAWS</zType>
+		<zText>Vas bloquejar lleis favorables</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SUPPORTED_LAWS</zType>
+		<zText>Vas recolzar lleis punitives</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SWITCHED_STATE_RELIGION</zType>
+		<zText>Vas abandonar la nostra religió d'estat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_WOULD_NOT_CONVERT</zType>
+		<zText>No et vas convertir</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_FAVORED_OTHER_RELIGION</zType>
+		<zText>Vas afavorir una altra fe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_IGNORED_AUGUSTINE</zType>
+		<zText>Vas ignorar al líder Agustí</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DECLARED_HOLY_WAR</zType>
+		<zText>Vas declarar la guerra santa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_KEPT_THE_PEACE</zType>
+		<zText>Vas mantenir la pau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_NEGOTIATED_RELEASE</zType>
+		<zText>Vas negociar l'alliberament del sacerdot</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_PRISONER</zType>
+		<zText>No vas rescatar al sacerdot empresonat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_RESCUED_PRISONER</zType>
+		<zText>Vas rescatar al sacerdot empresonat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SOLDIERS_FOR_ZOROASTER</zType>
+		<zText>Els nostres soldats van lluitar per Ahura Mazda</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SOLDIERS_FOR_RULER</zType>
+		<zText>Els nostres soldats van rebutjar Ahura Mazda</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_HELPED_RECOVER</zType>
+		<zText>Ens vas ajudar a recuperar-nos després de la destrucció</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_TREASURY</zType>
+		<zText>Et vas negar a donar suport a la novas tresoreria</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PLACED_SECURITY</zType>
+		<zText>Ens vas considerar instigadors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BUILT_SHRINE_TO_MARTYRS</zType>
+		<zText>Vas construir un santuari per als màrtirs</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_IMPRISONED_MURDEROUS_GENERAL</zType>
+		<zText>Vas empresonar al general assassí</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_DISHONORED_MARTYRS</zType>
+		<zText>Vas deshonrar els nostres màrtirs</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_BANNED_GATHERINGS</zType>
+		<zText>Vas prohibir les nostres reunions</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SHARED_FAITH</zType>
+		<zText>Vas compartir la fe amb els governants</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_NO</zType>
+		<zText>Et vas negar a propoagar la nostra fe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PUBLIC_SUPPORT</zType>
+		<zText>Vas donar suport a la fe en la diplomàcia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_FALSE_RELIGION</zType>
+		<zText>Vas adoptar una falsa religió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_LAW</zType>
+		<zText>Et vas negar a canviar la llei</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_IMPRESSED_PRIESTS</zType>
+		<zText>Vas impressionar als sacerdots enfadats</zText>
+	</Entry>
+	<Entry beginGroup="Family">
+		<zType>MEMORYRELIGION_SHOWED_DEVOTION</zType>
+		<zText>Vas mostrar devoció per la fe</zText>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>MEMORYRELIGION_PARTICIPATED_IN_OPPOSING_RITUAL</zType>
+		<zText>Vas participar en altres rituals religiosos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_MADE_OTHER_RELIGION_STATE</zType>
+		<zText>Vas fer una altra religió la religió d'estat</zText>
+	</Entry>
+	<Entry beginGroup="Religion">
+		<zType>MEMORYRELIGION_SHRINE_DEDICATION_YES</zType>
+		<zText>Vas assistir a la dedicació d’un nou santuari</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SHRINE_DEDICATION_NO</zType>
+		<zText>Vas reburjar la dedicació d'un nou santuari</zText>
+	</Entry>
+	<Entry beginGroup="Community">
+		<zType>MEMORYRELIGION_ENCOURAGED_DIALOGUE</zType>
+		<zText>Vas fomentar del diàleg interreligiós</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_PUT_DOWN_UPRISING</zType>
+		<zText>Vas respondre violentament al descontentament</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_SHOWED_ARTIFACTS</zType>
+		<zText>Vas mostrar reliquies d’interès per a la nostra fe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_LAID_DOWN_ARMS</zType>
+		<zText>Vas baixar les armes contra els justos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_PILGRIMS_WAR</zType>
+		<zText>Vas allotjar als pelegrins a la nostra ciutat santa tot i la guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_TOOK_PILGRIMS_HOSTAGE</zType>
+		<zText>Vas prendre pelegrins que s’acostaven a la nostra ciutat santa com a ostatges</zText>
+	</Entry>
+    <Entry>
+        <zType>MEMORYRELIGION_SUPPORTED_FAITH</zType>
+        <zText>**Roses per donar suport a la fe</zText>
+    </Entry>
+    <Entry>
+        <zType>MEMORYRELIGION_REFUSED_SUPPORT</zType>
+        <zText>Et vas negar a donar suport a la fe</zText>
+    </Entry>
+</Root>

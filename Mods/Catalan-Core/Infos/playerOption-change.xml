@@ -15,15 +15,17 @@
 		<zName>Desactivar Reproducció</zName>
 		<zDesc>El suport de Reproducció requereix una quantitat més gran de memòria disponible del sistema.</zDesc>
 	</Entry>
+	<!--
 	<Entry>
 		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
 		<zName>Joc de Rol</zName>
 		<zDesc>No hi ha ajuda emergent en prendre decisions narratives pels events.</zDesc>
 	</Entry>
+	-->
 	<Entry>
 		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
 		<zName>Tots els Candidats</zName>
-		<zDesc>Llistarà els candidats al Conseller, al Governador i al General encara que ja tinguin ocupació.</zDesc>
+		<zDesc>Llistarà els candidats a Conseller, Governador i a General encara que ja tinguin ocupació.</zDesc>
 	</Entry>
 	<Entry>
 		<zType>PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
@@ -43,7 +45,7 @@
 	<Entry>
 		<zType>PLAYEROPTION_MOVE_TO_FATIGUE</zType>
 		<zName>Moure fins a L'Esgotament</zName>
-		<zDesc>Si una unitat es mou més del límit de fatiga no no genera accions en cua.</zDesc>
+		<zDesc>Si una unitat es mou més del límit de fatiga genera accions en cua.</zDesc>
 	</Entry>
 	<Entry>
 		<zType>PLAYEROPTION_SHOW_ORDERS_COST</zType>

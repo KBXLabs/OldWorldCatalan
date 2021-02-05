@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_GAMEPLAY</zType>
+		<zName>Joc</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_CAMERA</zType>
+		<zName>Camera</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_NAVIGATION</zType>
+		<zName>Navegació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_OVERLAYS</zType>
+		<zName>Superposicions</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_SCREENS</zType>
+		<zName>Pantalles</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_POPUPS</zType>
+		<zName>Pop ups</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_TOOLTIPS</zType>
+		<zName>Ajudes</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_SAVES</zType>
+		<zName>Partides Desades</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_COMMUNICATION</zType>
+		<zName>Comunicació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_MAP_EDITOR</zType>
+		<zName>Editor de mapes</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_EVENT_BROWSER</zType>
+		<zName>Gestor d'events</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEYCLASS_DEBUG</zType>
+		<zName>Debug</zName>
+	</Entry>
+</Root>

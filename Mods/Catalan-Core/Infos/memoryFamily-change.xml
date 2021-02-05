@@ -1,0 +1,1235 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zText comment="Player-facing string describing the memory."/>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FOUNDED_CITY</zType>
+		<zText>Vas fundar una ciutat per a nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FOUNDED_FAMILY_SEAT</zType>
+		<zText>Vas fundar la nostra link(CONCEPT_FAMILY_SEAT)</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REGAINED_CITY</zType>
+		<zText>Ens vas fer recuperar una ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LOST_CITY</zType>
+		<zText>Ens vas fer perdre una ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GIVEN_CITY</zType>
+		<zText>Ens vas donar una ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GAVE_AWAY_CITY</zType>
+		<zText>Vas regalar la nostra ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_US_CITY</zType>
+		<zText>Et vas negar a donar-nos una ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_US_LUXURY</zType>
+		<zText>Et vas negar a donar-nos un article de luxe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PURSUED_AMBITION</zType>
+		<zText>Vas perseguir el nostre anhel</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_OUR_AMBITION</zType>
+		<zText>Vas assolir el nostre anhel</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_OUR_LEGACY</zType>
+		<zText>Vas completar el nostre llegat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DIVORCE</zType>
+		<zText>Et vas divorciar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BYPASSED_HEIR</zType>
+		<zText>Vas ignorar a l'hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REMOVED_LUXURY</zType>
+		<zText>Ens vas pendre un article de luxe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MARRIAGE_DECLINE</zType>
+		<zText>Vas refusar el matrimoni</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ASSASSINATION_EXPOSED</zType>
+		<zText>Vas exposar un assassinat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_GIFTS</zType>
+		<zText>Ens vas enviar regals</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MEMBER_EXILED</zType>
+		<zText>Vas exiliar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MEMBER_IMPRISONED</zType>
+		<zText>Vas empresonar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_LAW</zType>
+		<zText>Et vas negar a canviar la llei</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_THEOLOGY</zType>
+		<zText>Et vas negar a establir una teologia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUCCESSION_HONORED</zType>
+		<zText>Ens vas honrar durant la successió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HOSTED_CORONATION</zType>
+		<zText>Vas acollir una gran coronació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PLANNED_CORONATION</zType>
+		<zText>Vas preveure festes de coronació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SECURING_PEACE_SUICIDE</zType>
+		<zText>Vas forçar el suicidi</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SECURING_PEACE_MISUNDERSTANDING</zType>
+		<zText>Vas mantenir un infant segrestat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_WIFE_ASSASSINATED</zType>
+		<zText>Vas assassinar un membre de la nostra família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FOREIGN_DELEGATION_KILLED</zType>
+		<zText>Vas assassinar una delegació que portava regals</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ADOPT_HEIR_YES</zType>
+		<zText>Vas adoptar el nostre fill</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ADOPT_HEIR_NO</zType>
+		<zText>No ens vas adoptar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MURDEROUS_INTRIGUE</zType>
+		<zText>Vas conspirar per matar el propi hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REPRESSED_ASCETICS</zType>
+		<zText>Vas reprimir un moviment ascètic</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MONKEY_THIEF_KEPT</zType>
+		<zText>Et vas quedar les nostres coses robades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MONKEY_THIEF_RETURNED</zType>
+		<zText>Ens vas tornar les coses robades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MONKEY_DIPLOMAT_KEPT</zType>
+		<zText>Et vas quedar les nostres regalies robades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MONKEY_DIPLOMAT_RETURNED</zType>
+		<zText>Ens vas tornar les nostres regalies robades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_QUARREL_RETURN</zType>
+		<zText>Ens vas tornar a l'esposa fugida</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FORCED_MATCH</zType>
+		<zText>Ens vas obligar a casar-nos amb un bàrbar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HIDEOUS_MATCH</zType>
+		<zText>Ens vas escollir una esposa horrible</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_DIFF_NEGATIVE</zType>
+		<zText>Ens vas tractar d'idiotes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_DIFFERENT</zType>
+		<zText>Vas escoltar el nostre consell</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GENERAL_TRIUMPH</zType>
+		<zText>Vas fer triomfar al nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_OVERCROWDED_CITY</zType>
+		<zText>Vas superpoblar les nostres ciutats amb nens</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HIGH_PRIESTS</zType>
+		<zText>Vas obeïr els déus</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELIGIOUS_FREEDOM</zType>
+		<zText>Ens vas protegir dels grans sacerdots</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ANGRY_FAMILIES</zType>
+		<zText>Vas fer que ens sacrifiquessim</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_STRICTER_RULES</zType>
+		<zText>Vas fer enfadar als déus</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_WARNING</zType>
+		<zText>Vas ignorar els nostres avisos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_INITIATED_REFORMS</zType>
+		<zText>Vas iniciar reformes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_COUNCIL_GOVERNMENT</zType>
+		<zText>Vas formar un govern municipal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRISONED_FAMILY_ELDER</zType>
+		<zText>Vas empresonar al nostre ancià</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_FAMILY_ELDER</zType>
+		<zText>Vas matar el nostre ancià</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HEALED_RIFT</zType>
+		<zText>Vas estendre la mà per la pau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MURDERED_ALL_FAMILY</zType>
+		<zText>Vas assassinar a un membre de la línia de sang </zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CELEBRATED_GENERAL</zType>
+		<zText>El poble va celebrar pel general de la nostra família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_CELEBRATION</zType>
+		<zText>Et vas negar a celebrar pel general de la nostra família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NO_TRANSLATIONS</zType>
+		<zText>Et vas negar a traduir textos estrangers</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FEMALE_EDUCATION_NO</zType>
+		<zText>Vas mantenir les tradicions educatives</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DID_NOT_ATTACK</zType>
+		<zText>No va atacar els bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_WENT_TO_WAR</zType>
+		<zText>Vas seguir el nostre consell i va atacar als bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BORROWED_MONEY</zType>
+		<zText>Ens vas prestar diners</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FRUGAL_RULER</zType>
+		<zText>Vas romandre un governant pel poble</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NOT_FRUGAL_RULER</zType>
+		<zText>Vas donar exemple real</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FIRED_GENERAL</zType>
+		<zText>Vas desassignar un estimat general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ELEVATED_GENERAL</zType>
+		<zText>Vas elevar un general a la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_EXECUTED_OFFICER</zType>
+		<zText>Vas executar el nostre oficial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACTED_PARANOID</zType>
+		<zText>Vam ser dirigits per un governant paranoic</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_OVERLOOKED_GATHERINGS</zType>
+		<zText>Vas passar per alt les nostres reunions</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_APPROVED_FORCED_DEPORTATION</zType>
+		<zText>Vas aprovar la deportació del nostre poble</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RECRUITED_FOREIGNERS</zType>
+		<zText>Vas reclutar combatents estrangers</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NO_FOREIGN_FIGHTERS</zType>
+		<zText>Vas rebutjar a combatents estrangers</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DENIED_MERCHANT_GUILD</zType>
+		<zText>Vas denegar la sol·licitud per al gremi de comerciants</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_APPROVED_MERCHANT_GUILD</zType>
+		<zText>Vas aprovar la sol·licitud per al gremi de comerciants</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_MERCHANT_CITY_YES</zType>
+		<zText>Vas aprovar l'status de ciutat comercial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_EXECUTED_MERCHANT</zType>
+		<zText>Vas executar a un parent per la via judicial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_KEPT_RELATIVE_ON_COURT</zType>
+		<zText>Vas mantenir un parent com a mercader de la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_LET_RELATIVE_ESCAPE</zType>
+		<zText>Vas permetre que un familiar corrupte escapés</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_IMPRISONED_RIVAL</zType>
+		<zText>Vas empresaor a un membre de la cort rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_IMPRISONED_FAMILY</zType>
+		<zText>Vas empresonar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_PUNISHED_FAMILY</zType>
+		<zText>Vas castigar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_PUNISHED_RIVAL</zType>
+		<zText>Vas castigar a una família rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_RECUSED_LEADER</zType>
+		<zText>Vas ignorar la nostra petició de justícia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GIFTED_PRICELESS_ARTIFACTS</zType>
+		<zText>Vas regalar artefactes inestimables</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_APPEASED_BARBARIANS</zType>
+		<zText>Vas apaciar als bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HOMECOMING_FEAST</zType>
+		<zText>Vas assistir a una festa de tornada per a l'hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DENIED_RIVAL_FAMILY</zType>
+		<zText>Vas negar-se a una família rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELEASED_FANATICAL_PRIESTS</zType>
+		<zText>Vas alliberar sacerdots fanàtics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_FAMILY_MEMBER</zType>
+		<zText>Vas executar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_RELEASE</zType>
+		<zText>Vas denegar la sol·licitud d’alliberament d'un pres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELEASED_PRISONER</zType>
+		<zText>Vas alliberar a un pres polític</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACCEPTED_MISTHOPHORIA</zType>
+		<zText>Vas permetre el pagament per una obra pública</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REJECTED_MISTHOPHORIA</zType>
+		<zText>Vas rebutjar el pagament per una obra pública</zText>
+	</Entry>
+	<Entry beginGroup="Diplomacy">
+		<zType>MEMORYFAMILY_GRAVE_OFFENSE</zType>
+		<zText>Vas humiliar un ritual</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SECURING_PEACE_NO</zType>
+		<zText>Vas rebutjar la nostra oferta útil</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HUNTING_PARTY_IMPRISONED</zType>
+		<zText>Vas empresonar a la partida de caça</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HUNTING_PARTY_SCOLDED</zType>
+		<zText>Ens vas renyar després de rescatar la nostra partida de caça</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PROTECTED_OUR_HUNTING_PARTY</zType>
+		<zText>Vas protegir la nostra partida de caça durant una disputa exterior</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELIGION_DENOUNCE_NO</zType>
+		<zText>Et vas negar a defensar les nostres creences</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELIGION_WAR_NO</zType>
+		<zText>Et vas negar a lluitar per les nostres creences</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_DENOUNCE_NO</zType>
+		<zText>Et vas negar a defensar els nostres valors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_WAR_NO</zType>
+		<zText>Et vas negar a lluitar pels nostres valors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HELPED_COVER_UP</zType>
+		<zText>Vas ajudar a tapar la desaparició</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RELEASED_CAPTIVE</zType>
+		<zText>Vas alliberar al nostre pres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FIXED_MISUNDERSTANDING</zType>
+		<zText>Vas corregir el malentès sobre el pres</zText>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>MEMORYFAMILY_HONOR_AND_GLORY</zType>
+		<zText>Vas honrar al nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SAVED_TREASURES</zType>
+		<zText>Vas intentar rescatar nobles que fugien</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RAISED_ENEMY_LEADERSHIP</zType>
+		<zText>Vas incorporar un líder enemic a la cort</zText>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>MEMORYFAMILY_DELICIOUS_DRINKS_FRIEND</zType>
+		<zText>Ens vas insultar a la festa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CHILD_ROYAL_BIRTH_SEND</zType>
+		<zText>**Va rebre els regals per naixement reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_JOYOUS_WEDDING_ARISTOCRATS</zType>
+		<zText>Ens vas convidar al casament de l’hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HEIR_WEDDING_FAUX_PAS_NOTHING</zType>
+		<zText>**Faux pas at heir's wedding</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_PARTISANS_HELP</zType>
+		<zText>Vas ajudar a alguns dels nostres ciutadans furiosos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SABOTAGE_OK</zType>
+		<zText>Ens vas castigar per sabotatge</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_LAND_SUPPORTED</zType>
+		<zText>Vas estar d’acord amb nosaltres en una disputa sobre la terra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_LAND_OPPOSED</zType>
+		<zText>No va estar d’acord amb nosaltres en una disputa sobre la terra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_LAND_SEIZED</zType>
+		<zText>Vas confiscar una finca que reclamem</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_HONOR_GUARD_US</zType>
+		<zText>Ens vas permetre unir-nos a la guàrdia d’honor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_HONOR_GUARD_THEM</zType>
+		<zText>Vas permetre que el nostre rival s'unís a la guàrdia d’honor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_HONOR_GUARD_NO</zType>
+		<zText>Vas rebutjar al nostre candidat a guàrdia d'honor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_RUMORS_TOOK_BRIBE</zType>
+		<zText>Vas donar-nos suport en una disputa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_RUMORS_REJECTED</zType>
+		<zText>No va donar-nos suport en una disputa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_RUMORS_WASTED_BRIBE</zType>
+		<zText>Vas acceptar el nostre suborn i no va fer res</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_RUMORS_REFUSED_BRIBE</zType>
+		<zText>Et vas negar a donar-nos suport en una disputa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_INVITATIONS_US</zType>
+		<zText>Vas assistir a la nostra cerimònia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_INVITATIONS_THEM</zType>
+		<zText>Vas assistir a la cerimònia del nostre rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_SQUABBLE_INVITATIONS_NO</zType>
+		<zText>Et vas negar a assistir a la nostra cerimònia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_QUARREL_ALLOW</zType>
+		<zText>Vas permetre als amants escapar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_QUARREL_HELP</zType>
+		<zText>Vas ajudar a perseguir la dona que fugia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_GAMES</zType>
+		<zText>Vas organitzar uns jocs en honor nostre</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RADICAL_PHILOSOPHER_RID_FAMILY</zType>
+		<zText>Et vas desfer del nostre amic filòsof</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CONTEST_OF_RHETORIC_REFUSE</zType>
+		<zText>Et vas negar a debatre la vostra política</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPROPER_VASSAL_REPRIMAND</zType>
+		<zText>Ens vas recriminar la inadequació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPROPER_VASSAL_LET_GO</zType>
+		<zText>No va recriminar a altres vassalls</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HEATED_RIVALRY_REFUSE</zType>
+		<zText>Et vas negar a abandonar el suport a l'hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_NO</zType>
+		<zText>Et vas negar a cobrir els nostres costos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_FEAST_NO</zType>
+		<zText>Et vas negar a abastir la nostra festa</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_CEREMONY_OK_FAMILY_MAIN</zType>
+		<zText>Vas cimentar els nostres estrets llaços</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_CEREMONY_OK_FAMILY_OTHER</zType>
+		<zText>Vas afavorir descaradament altres vassalls</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_CEREMONY_COMPROMISE_FAMILY_MAIN</zType>
+		<zText>Et vas negar a presidir la nostra cerimònia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAVORED_VASSAL_CEREMONY_COMPROMISE_FAMILY_OTHER</zType>
+		<zText>Vas afavorir altres vassalls</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORFAMILYY_FAVORED_VASSAL_CEREMONY_NO</zType>
+		<zText>Vas rebutjar el nostre honor més sagrat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GP_MERCHANT_TOWN_NO</zType>
+		<zText>Vas rebutjat l'status de poble comerciant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_COMFORTED_GRIEVING_FAMILY</zType>
+		<zText>Vas reconfortar a una família en pena</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MADE_OTHER_GOVERNOR</zType>
+		<zText>Ens vas donar el govern de la seu de la ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_GOVERNORSHIP</zType>
+		<zText>No va donar el govern a un extranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_A_LITTLE_PUSHBACK_FAMILY</zType>
+		<zText>Vas rebutjar el nostre pretendent per al seu descendent</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_CENTRALIZATION</zType>
+		<zText>Et vas negar a adoptar la Centralització</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACCUSED_OF_CORRUPTION</zType>
+		<zText>Ens vas acusar de corrupció</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BURIED_INCRIMINATING_DOCUMENT</zType>
+		<zText>**Ens va portegir davant d'un document incriminador</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORY_HOSTED_FEAST</zType>
+		<zText>Vas organitzar una festa per a famílies nobles</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CHOSEN_HEIR_NO</zType>
+		<zText>Et vas negar a fer hereu a un de nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FOREIGN_FEAST</zType>
+		<zText>Vas allotjar a un dirigent estranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DELIVERED_RELATIVE_TO_FOREIGNER</zType>
+		<zText>Vas entregar a un parent al poder extranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_A_TOAST_MOTHERS_TOUCH_IGNORE</zType>
+		<zText>Vas permetre l'assassinat del nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_FUNERAL</zType>
+		<zText>Et vas negar a finançar funerals</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FUNDED_FUNERAL</zType>
+		<zText>Vas finançar el funeral familiar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RODE_IN_FUNERAL</zType>
+		<zText>Vas organtizar al funeral familiar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_INTERVENTION</zType>
+		<zText>Vas ignorar la intervenció de la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REPRIMANDED</zType>
+		<zText>Ens vas amonestar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PLEASED</zType>
+		<zText>Ens vas satisfer</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_RITUAL</zType>
+		<zText>Vas rebutjar un ritual religiós</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PARTICIPATED_IN_RITUAL</zType>
+		<zText>Vas participar en un ritual</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_INVITATION</zType>
+		<zText>Vas rebutjar la invitació bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_OVERLOOKED_LOST_TAXES</zType>
+		<zText>Vas passar per alt el nostre robatori d’impostos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DEMANDED_REPAYMENT</zType>
+		<zText>Vas exigir-nos un pagament pels impostos robats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TOLD_OF_PLOT</zType>
+		<zText>Et vas explicar la trama de la conspiració</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TURNED_AWAY_TRAVELER</zType>
+		<zText>Vas rebutjar el captaire viatger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MADE_EXCUSES_TO_BARBARIANS</zType>
+		<zText>Vas posar excuses als bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BIRTH_GIFT</zType>
+		<zText>Vas fer un regal de naixement a l'hereu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MONKEY_PAW_JEALOUS</zType>
+		<zText>**Gelós de gran renom</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DEFIED_BARBARIAN</zType>
+		<zText>Vas desafiar al líder bàrbar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ALLIED_WITH_BARBARIAN</zType>
+		<zText>Et vas aliar amb el líder bàrbar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACCEPTED_BARBARIAN_GIFTS</zType>
+		<zText>Vas rebre regals bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REJECTED_BARBARIAN_GIFTS</zType>
+		<zText>Vas rebutjar regals bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RECEIVED_BARBARIAN_GENERAL</zType>
+		<zText>Vas rebre al general bàrbar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HOSTED_BARBARIAN_RULER</zType>
+		<zText>Vas allotjar al governant bàrbar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SURRENDERED_REMAINS</zType>
+		<zText>Vas entregar les restes d'un familiar caigut</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_REMAINS</zType>
+		<zText>Vas negar les restes d’un familiar caigut</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_DISPLEASURE</zType>
+		<zText>Vas ignorar el malestar pel maltractament del cònjuge</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LET_LEGEND_GROW</zType>
+		<zText>Vas permetre que la llegenda de l’heroi creixés</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ROYAL_VISITOR</zType>
+		<zText>Vas acollir a un membre de la família reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RESPECT_FOR_FOLLOWER</zType>
+		<zText>Et vas guanyar el respecte dels acadèmics reials</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TROUBLES_MEDIATED</zType>
+		<zText>Vas tenir problemes amb el mediador rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DENIED_TRIBAL_HELP</zType>
+		<zText>Vas negar l'ajuda d'un intermediari tribal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PUNISHED_HEIR</zType>
+		<zText>Vas castigar a l’hereu per una baralla al carrer</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ALLOWED_AUTONOMY</zType>
+		<zText>Vas permetre una certa autonomia de la ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SHARED_THEIR_GRIEF</zType>
+		<zText>Vas compartir el seu dolor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DID_NOT_EXPEL_STUDENT</zType>
+		<zText>No va expulsar a un estudiant indisciplinat</zText>
+	</Entry>
+	<Entry beginGroup="Contact">
+		<zType>MEMORYFAMILY_FORCED_TO_KISS_FEET</zType>
+		<zText>En va obligar a besar els peus del líder estranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DID_NOT_PUNISH_FOREIGNER</zType>
+		<zText>Et vas negar a castigar els consellers estrangers</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_THE_FOOL</zType>
+		<zText>Es reburjar a l'idiota</zText>
+	</Entry>
+	<Entry beginGroup="Family">
+		<zType>MEMORYFAMILY_FAMILY_GIFT_YES</zType>
+		<zText>Ens vas enviar regals addicionals</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RECEIVED_GIFT</zType>
+		<zText>Vam rebre obsequis del líder</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GAVE_DONATION</zType>
+		<zText>Vas fer un donatiu a una causa digna</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_STATUE_DISPLAYED</zType>
+		<zText>Vas mostrar la nostra estàtua</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_BRIBE</zType>
+		<zText>Vas acusar el tron de suborns</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DID_NOT_ABDUCT_HEIR</zType>
+		<zText>No segrestaria a l'hereu estranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_HEIR</zType>
+		<zText>Vas ordenar l'assassinat de lhereu estranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUCCESSFUL_ABDUCTION</zType>
+		<zText>Vas realitzar un segrest amb èxit</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_EXPOSED_PLOT</zType>
+		<zText>Vas exposar la nostra conspiració</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_APOLOGIZED_FOR_SLANDER</zType>
+		<zText>Et vas disculpar per les calúmnies</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_STOOD_BY_ACCUSATIONS</zType>
+		<zText>Et vas mantenir al costat de les acusacions</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUSPECT_KIDNAPPING</zType>
+		<zText>Vas aprendre a témer el poder del líder</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FORCED_END_TO_HOSTING</zType>
+		<zText>Ens vas obligar a deixar d’allotjar successors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ATTENDED_FEAST_ALONE</zType>
+		<zText>Vas assistir sol a la festa tribal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_FESTIVAL_REQUEST</zType>
+		<zText>Vas ignorar la sol·licitud d'un festival</zText>
+	</Entry>
+	<Entry beginGroup="City">
+		<zType>MEMORYFAMILY_SENT_DOCTORS_TO_PLAGUED_CITY</zType>
+		<zText>Vas enviar metges a la ciutat per la pesta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BURNED_OUT_PLAGUE</zType>
+		<zText>Vas cremar zones per matar la pesta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ENCOURAGED_THE_POOR</zType>
+		<zText>Vas animar els pobres amb la religió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FREED_SLAVES</zType>
+		<zText>Vas alliberar els esclaus de la nació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REDIRECTED_FUNDS</zType>
+		<zText>Ens vas tractar generosament amb fons reials</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RUINS_GIFT_OF_VALUABLES</zType>
+		<zText>Ens vas donar tresors antics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRISONED_FIREBRAND</zType>
+		<zText>Vas empresonar als piròmans</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HEIR_EXPERTISE_ELDER_RECOGNITION</zType>
+		<zText>Vas utilitzar l'experiència professional dels nostres ancians</zText>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>MEMORYFAMILY_CEREMONIAL_OFFERING_NO</zType>
+		<zText>Et vas negar a fer cerimònies per a nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CEREMONIAL_OFFERING_REQUISITION</zType>
+		<zText>Vas requisar el subministraments per a les cerimònies</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PYRAMIDS_BLOODLINE</zType>
+		<zText>Vas immortalitzar la nostra línia de sang</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACROPOLIS_TREASURY</zType>
+		<zText>En vas concedir un tresor a l'Acròpoli</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NECROPOLIS_RITES</zType>
+		<zText>Vas realitzar un piadós funeral reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_QUESTIONABLE_CARVING_DISPLAY</zType>
+		<zText>Vas mostrar una talla qüestionable</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_COTTAGE_DECOR_BUSTS</zType>
+		<zText>Vas instal·lar busts ancestrals</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RUNAWAY_SLAVE_REPRIMAND</zType>
+		<zText>En va amonestar per crueltats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_RUNAWAY_SLAVE_BEAT</zType>
+		<zText>Vas recuperar a l'esclau fugit</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_EXOTIC_PETS_MONKEY_CHARM</zType>
+		<zText>Ens vas encantar el seu adorable mico</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUCCESSION_NO</zType>
+		<zText>Vas rebutjar els nostres canvis de successió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_WAYWARD_SUBJECT_FORGIVE</zType>
+		<zText>Vas perdonar el nostre capriciós membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_WAYWARD_SUBJECT_IMPRISON</zType>
+		<zText>Vas empresonar el nostre capriciós membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GEM_SEEKERS_YES</zType>
+		<zText>Ens vas permetre comprar gemmes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GEM_SEEKERS_GIFT</zType>
+		<zText>Ens vas regalar gemmes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GEM_SEEKERS_NO</zType>
+		<zText>Et vas negar a vendre'ns gemmes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NEW_AMBASSADOR_YES</zType>
+		<zText>Vas fer ambaixador al nostre familiar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NEW_AMBASSADOR_NO</zType>
+		<zText>Ens vas negar ambaixador al nostre familia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TOOK_CONTROL</zType>
+		<zText>Vas prendre el control de les finques</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_FAMILY_CONTROL</zType>
+		<zText>Vas deixar les finques soles</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_ADOPTED_TYRANNY</zType>
+		<zText>Vas adoptar la tirania</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_IMPRISONED_PATRIARCH</zType>
+		<zText>Vas empresonar al nostre patriarca</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_PROMOTED_FAMILY</zType>
+		<zText>Vas incorporar a un membre de la família a la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_ADOPTED_VOLUNTEERS</zType>
+		<zText>Vas adoptar el pla per a voluntaris</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_DENIED_DIVINITY</zType>
+		<zText>Vas denegar Regla divina</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_ADOPTED_DIVINE_RULE</zType>
+		<zText>Vas establir Regla divina</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_REFUSED_ASCETISM</zType>
+		<zText>Et vas negar a abraçar l'ascetisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_PAID_OUR_DEBT</zType>
+		<zText>Vas pagar el nostre deute extern</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LAW_REFUSED_TO_PAY_DEBT</zType>
+		<zText>Et vas negar a pagar eñl nostre deute</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_WONDER_INVITED_BATHS</zType>
+		<zText>Ens vas convidar als nous banys</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_MANICHAEISM</zType>
+		<zText>Vas ignorar l’interès pel maniqueisme</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_COUNCIL</zType>
+		<zText>Vas rebutjar la nostra elecció per al Consell</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BETRAYED_TO_FOREIGNERS</zType>
+		<zText>Ens vas trair al poder estranger</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLOT_HIDDEN</zType>
+		<zText>La trama internacional Et vas mantenir oculta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_PLEASURE_YACHTS</zType>
+		<zText>Ens vas construir vaixells de plaer</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REVEALED_TREACHERY</zType>
+		<zText>Vas revelar la nostra traïció</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SACKED_SCIENTIST</zType>
+		<zText>Vas acomiadar al científic irresponsable</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SEIZED_ARMOR</zType>
+		<zText>Vas incautar l'armadura del cavall de la familia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_EXECUTED_PLOTTERS</zType>
+		<zText>Vas executar la conspiració dels banys</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRISONED_RIVAL</zType>
+		<zText>Vas empresonar a un membre de la cort innocent</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRISONED_FAMILY_HEAD_UNJUST</zType>
+		<zText>Vas empresonar injustament a l'oligarca familiar </zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ALLY_WITH_LEADER</zType>
+		<zText>**Convençut a afavorir el nostre governant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_THREATENED_FAMILY</zType>
+		<zText>Vas donar un ultimàtum als {FAMILY-2,1}: uniu-vos a nosaltres o patiu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SACRIFICED_RELATIVE</zType>
+		<zText>Vas sacrificar un familiar al mar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_REQUEST_OF_TROOPS</zType>
+		<zText>Vas denegar la sol·licitud estrangera de tropes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ATTENDED_FOREIGN_FEAST</zType>
+		<zText>Vas assistir a una festa estrangera</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BLAMED_FOR_LAWS</zType>
+		<zText>Ens vas culpar per les dures lleis</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_FOREIGN_FRIENDSHIP</zType>
+		<zText>Et vas negar a continuar l'amistat estrangera</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUPPORTED_EXPEDITION</zType>
+		<zText>Vas donar suport als plans per a l'expedició al sud</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_DOMESTIC_ISSUES</zType>
+		<zText>Vas invertir en una expedició ridícula</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IGNORED_EXPEDITION</zType>
+		<zText>Et vas negar a donar suport a la nostra expedició al sud</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SUPPORTED_DOMESTIC_ISSUES</zType>
+		<zText>Vas donar suport a l’agenda nacional</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_COMPROMISED</zType>
+		<zText>Vas compendre a altres famílies sobre qüestions clau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORY_DEFIED_ACCUSATION</zType>
+		<zText>Vas desafiar la nostra acusació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORY_BELIEVED_ACCUSATION</zType>
+		<zText>Vas ostracitzar a un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_SAVED_ACCUSED</zType>
+		<zText>Vas demostrar la innocència del membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_BORING_LEADER</zType>
+		<zText>Tenim un líder avorrit</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_RUMORS</zType>
+		<zText>Et vas negar a atendre els rumors</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_ACCUSED_OF_MURDER</zType>
+		<zText>Ens vas acusar de tramar assassinat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRISONED_SPYMASTER</zType>
+		<zText>Vas empresonar al cap d'espionatge ineficaç</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_DID_NOT_PUNISH_SPYMASTER</zType>
+		<zText>Et vas negar a castigar al cap d'espionatge ineficaç</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CURRY_FAVOR</zType>
+		<zText>**Gràcies per obtenir l'aprovació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HONORED_FOR_INDIVIDUALS_ACT</zType>
+		<zText>Vas honrar-nos pel servei d'un membre de la família</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_STAGED_PLAY</zType>
+		<zText>**Staged play critical of court</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_CONSULAR_TRIBUNES</zType>
+		<zText>Vas concedir més potència militar a la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LIED</zType>
+		<zText>Vas mentir sobre les seves intencions</zText>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>MEMORYFAMILY_RAISED_MARBLE_PRICES</zType>
+		<zText>Vas fer pujar els preus del marbre</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GAVE_OLIVE_OIL</zType>
+		<zText>Vam rebre un obsequi d’oli d’oliva</zText>
+	</Entry>
+	<Entry beginGroup="Law">
+		<zType>MEMORYFAMILY_IMPRISONED_MEMBER</zType>
+		<zText>Vas empresonar a un membre de la família</zText>
+	</Entry>
+	<Entry beginGroup="Community">
+		<zType>MEMORYFAMILY_WATCHED_BABY_LEADER_CRY</zType>
+		<zText>Vas recordar quan perdies el nas i ploraves</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TWO_MOTHERS_WISELY</zType>
+		<zText>Vas jutjar amb justícia i saviesa en una disputa entre dues mares</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TWO_MOTHERS_MURDER</zType>
+		<zText>Vas assassinar un nen en una disputa entre dues mares</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TWO_MOTHERS_VICTORY</zType>
+		<zText>Vas decidir a favor nostre en una disputa entre dues mares</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_TWO_MOTHERS_DEFEAT</zType>
+		<zText>Vas decidir contra nosaltres en una disputa entre dues mares</zText>
+	</Entry>
+	<Entry>
+		<zType>RENOUNCED_OUR_DISLIKED_RELIGION</zType>
+		<zText>Vas renunciar a la religió que no ens agradava</zText>
+	</Entry>
+	<Entry>
+		<zType>ENLIGHTENED_US</zType>
+		<zText>Ens vas il·luminar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_NOBLES</zType>
+		<zText>Vas matar a nobles</zText>
+	</Entry>
+	<Entry>
+		<zType>DENOUNCED_ANTICHRIST</zType>
+		<zText>Vas denunciar l'Anticrist</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_APPOINTED_JUDGES</zType>
+		<zText>Ens vas nomenar jutges</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LEGAL_DISPUTE_AGAINST</zType>
+		<zText>No ens vas donar suport en una disputa legal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_LEGAL_DISPUTE_SUPPORT</zType>
+		<zText>Ens vas donar suport en una disputa legal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GAVE_BOARD_GAME</zType>
+		<zText>Vas presentar un popular joc de taula</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_IN_COLD_WATER_POS</zType>
+		<zText>Ens vas donar suport després dels assassinats als banys</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_IN_COLD_WATER_NEG</zType>
+		<zText>Ens vas acusar dels assassinats als banys</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_IN_COLD_WATER_LATER_POS</zType>
+		<zText>Ens vas donar suport després dels assassinats als banys</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_KILLED_IN_COLD_WATER_BODYGUARDS</zType>
+		<zText>Ens vas protegir durant una tempesta terrible</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GAVE_JEWELS</zType>
+		<zText>Ens vas donar belles joies</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_REFUSED_ANTICHRIST</zType>
+		<zText>Et vas negar a advertir-nos de l'Anticrist</zText>
+	</Entry>
+	<Entry>
+		<zType>REFORMED_RELIGION_ATENISM</zType>
+		<zText>Ens vas obligar a rendir culte a Aten</zText>
+	</Entry>
+	<Entry>
+		<zType>DESTROYED_TEMPLES_ATENISM</zType>
+		<zText>Vas destruir els temples en nom d'Aten</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_HONORED_GENERAL</zType>
+		<zText>Vas honrar al nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_GAVE_DELICIOUS_WINE</zType>
+		<zText>Ens vas donar delicioses begudes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_NONSENSE_SPEECH</zType>
+		<zText>Vas pronunciar un discurs vergonyosament absurd</zText>
+	</Entry>
+</Root>

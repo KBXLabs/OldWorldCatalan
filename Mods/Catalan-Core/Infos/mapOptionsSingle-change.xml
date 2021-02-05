@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zDescription/>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_MIRROR</zType>
+		<zDescription>Mapa simètric est-oest: es necessita un nombre parell d'equips </zDescription>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_SEASIDE_CENTER_BIAS</zType>
+		<zDescription>El jugador comença a prop del centre del mapa, només en un sol jugador </zDescription>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_CENTER_BIAS</zType>
+		<zDescription>Evitar començar a prop de les vores del mapa oest o est, només en un sol jugador </zDescription>
+	</Entry>
+</Root>

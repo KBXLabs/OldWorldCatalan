@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zNickname/>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HERO_ARCHETYPE</zType>
+		<zNickname>L'Heroi</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>
+		<zNickname>the Commander</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<zNickname>the Tactician</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
+		<zNickname>the Zealot</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
+		<zNickname>the Schemer</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
+		<zNickname>the Orator</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<zNickname>the Diplomat</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
+		<zNickname>the Judge</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BUILDER_ARCHETYPE</zType>
+		<zNickname>the Builder</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<zNickname>the Scholar</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_AFFABLE</zType>
+		<zNickname>the Affable</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ELOQUENT</zType>
+		<zNickname>the Eloquent</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_WARLIKE</zType>
+		<zNickname>the Warlike</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INSPIRING</zType>
+		<zNickname>the Inspiring</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INTELLIGENT</zType>
+		<zNickname>the Intelligent</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PROSPEROUS</zType>
+		<zNickname>the Prosperous</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FRUGAL</zType>
+		<zNickname>the Frugal</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_RIGHTEOUS</zType>
+		<zNickname>the Righteous</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CRUEL</zType>
+		<zNickname>the Cruel</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INTOLERANT</zType>
+		<zNickname>the Intolerant</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SLOTHFUL</zType>
+		<zNickname>the Slothful</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_UNCOUTH</zType>
+		<zNickname>the Uncouth</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FOOLISH</zType>
+		<zNickname>the Foolish</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EXTRAVAGANT</zType>
+		<zNickname>the Extravagant</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CORRUPT</zType>
+		<zNickname>the Corrupt</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DEBAUCHED</zType>
+		<zNickname>the Debauched</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ROBUST</zType>
+		<zNickname>the Robust</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_VIGILANT</zType>
+		<zNickname>the Vigilant</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STRICT</zType>
+		<zNickname>the Strict</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DRILLMASTER</zType>
+		<zNickname>the Drillmaster</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_KEEN</zType>
+		<zNickname>the Keen</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EQUESTRIAN</zType>
+		<zNickname>the Equestrian</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CARPENTER</zType>
+		<zNickname>the Carpenter</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ANGLER</zType>
+		<zNickname>the Angler</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PLANTER</zType>
+		<zNickname>the Planter</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FORESTER</zType>
+		<zNickname>the Forester</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DELVER</zType>
+		<zNickname>the Delver</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SMELTER</zType>
+		<zNickname>the Smelter</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HERDER</zType>
+		<zNickname>the Herder</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DEALMAKER</zType>
+		<zNickname>the Dealmaker</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_TRACKER</zType>
+		<zNickname>the Tracker</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SWIFT</zType>
+		<zNickname>the Swift</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MARKSMAN</zType>
+		<zNickname>the Marksman</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BESIEGER</zType>
+		<zNickname>the Besieger</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_TOUGH</zType>
+		<zNickname>the Tough</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BLOODTHIRSTY</zType>
+		<zNickname>the Bloodthirsty</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HECKLER</zType>
+		<zNickname>the Heckler</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STEADFAST</zType>
+		<zNickname>the Steadfast</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HERBALIST</zType>
+		<zNickname>the Herbalist</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HIGHLANDER</zType>
+		<zNickname>the Highlander</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_RANGER</zType>
+		<zNickname>the Ranger</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BRAVE</zType>
+		<zNickname>the Brave</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SHIELDBEARER</zType>
+		<zNickname>the Shieldbearer</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FIERCE</zType>
+		<zNickname>the Fierce</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HORSEBANE</zType>
+		<zNickname>Horsebane</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ENGINEER</zType>
+		<zNickname>the Engineer</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BOLD</zType>
+		<zNickname>the Bold</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_COWARDLY</zType>
+		<zNickname>the Cowardly</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_GRACIOUS</zType>
+		<zNickname>the Gracious</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_GREEDY</zType>
+		<zNickname>the Greedy</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CUNNING</zType>
+		<zNickname>the Cunning</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ROMANTIC</zType>
+		<zNickname>the Romantic</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EDUCATED</zType>
+		<zNickname>the Educated</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SUPERSTITIOUS</zType>
+		<zNickname>the Superstitious</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_COMPASSIONATE</zType>
+		<zNickname>the Compassionate</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_RUTHLESS</zType>
+		<zNickname>the Ruthless</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_LOYAL</zType>
+		<zNickname>the Loyal</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BITTER</zType>
+		<zNickname>the Bitter</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SPOILED</zType>
+		<zNickname>the Spoiled</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HONEST</zType>
+		<zNickname>the Honest</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DISHONEST</zType>
+		<zNickname>the Dishonest</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PIOUS</zType>
+		<zNickname>the Pious</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_WANTON</zType>
+		<zNickname>the Wanton</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HUMBLE</zType>
+		<zNickname>the Humble</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PROUD</zType>
+		<zNickname>the Proud</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HEARTBROKEN</zType>
+		<zNickname>the Heartbroken</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BEAUTIFUL</zType>
+		<zNickname>the Beautiful</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_WITTY</zType>
+		<zNickname>the Witty</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DRUNK</zType>
+		<zNickname>the Drunkard</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INSANE</zType>
+		<zNickname>the Insane</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STUDY_PHILOSOPHY</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STUDY_RHETORIC</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STUDY_TACTICS</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STUDY_COMMERCE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EXPLORING</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BLESSED</zType>
+		<zNickname>the Blessed</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CURSED</zType>
+		<zNickname>the Cursed</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ILL</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SEVERELY_ILL</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INCUBATED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_POISONER</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_POISONED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MISERABLE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SCARRED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CRIPPLED</zType>
+		<zNickname>the Crippled</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BLINDED</zType>
+		<zNickname>the Blind</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_IMPRISONED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FUGITIVE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MISSING</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_UNDER_ASYLUM</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ENEMY_OF_THE_STATE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ELOPED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CAPTURED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EXILED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DESERTER</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DOOMED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_GAY</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BASTARD</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ADOPTED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PREGNANT</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SLIGHTED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INFAMOUS</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CLAIMED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ARTIST</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FAMOUS</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_POPULAR_HERO</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ABDICATED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_REGENT</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_RIGHTFUL_HEIR</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EXOTIC</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EXCLUDED</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DIVINE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SOLDIER</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MOURNING</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PROPHET</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ARCHON</zType>
+		<zNickname>the Archon</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MYSTERIOUS_SWORD</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SWORD_OF_THE_GODS</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PET_FISH</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_PET_MONKEY</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MONKEY_ASSASSIN</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MONKEY_PAW</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DOG_OWNER</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_OVERSEER_OF_THE_FIELDS</zType>
+		<zNickname>the Overseer of the Fields</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_POSSESSOR_OF_VENERATION</zType>
+		<zNickname>the Possessor of Veneration</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_STEWARD_OF_THE_CHAMBER</zType>
+		<zNickname>the Steward of the Chamber</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_AMULET_OWNER_POSITIVE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_AMULET_OWNER_NEGATIVE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_GODS_CONSORT</zType>
+		<zNickname>God's Consort</zNickname>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DROUGHT_STRICKEN</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ASCETIC</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HORSE</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_AMARNA_REFORMER</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_BARRACKS_INSTRUCTOR</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_SAVIOR_OF_THE_THRONE</zType>
+		<zNickname>Savior of the Throne</zNickname>
+	</Entry>
+</Root>

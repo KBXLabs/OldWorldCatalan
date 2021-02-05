@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_AI_ONLY</zType>
+		<zName>Només IA</zName>
+		<zHelp>Els jugadors humans segueixen les mateixes regles que la IA.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_CHARACTERS</zType>
+		<zName>Sense Personatges</zName>
+		<zHelp>Els personatges i les famílies s’eliminen del partida.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_TRIBES</zType>
+		<zName>Sense tribus</zName>
+		<zHelp>Les tribus són substituïdes per link(TRIBE_BARBARIANS).</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_FOG_OF_WAR</zType>
+		<zName>Sense boira de guerra</zName>
+		<zHelp>El mapa comença completament revelat i es manté visible.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_TEAM_MOVEMENT</zType>
+		<zName>Sense moviment per equips</zName>
+		<zHelp>Els jugadors no poden moure les unitats dels seus companys d'Equip.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_LOCKED_SAVE</zType>
+		<zName>Protegir Desat</zName>
+		<zHelp>El fitxer desat es comprova amb un hash per evitar modificacions mitjançant un editor extern.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_UNDO</zType>
+		<zName>Sense desfer</zName>
+		<zHelp>El jugador no té permís per desfer una jugada realitzada.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_LOCK_PLAYER_OPTIONS</zType>
+		<zName>Bloquejar opcions de jugador</zName>
+		<zHelp>Un cop començada la partida, no es poden canviar les opcions de jugador</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_RANDOMIZE_FAMILIES</zType>
+		<zName>Famílies Aleatòries</zName>
+		<zHelp>Assigna aleatòriament la classe de cada família (savi, artesà, campió, etc).</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
+		<zName>Repte una sola Ciutat (OCC)</zName>
+		<zHelp>No es permet als jugadors controlar més d’una ciutat.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_MP_JOIN_AS_ANY_PLAYER</zType>
+		<zName>Unir-se com a jugador substitut</zName>
+		<zHelp>Permetre als jugadors unir-se a un partida multijugador en un espai reservat per a un altre jugador.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_ALLOW_OBSERVE</zType>
+		<zName>Permetre el mode d'observador</zName>
+		<zHelp>Els jugadors poden unir-se al partida com a observadors</zHelp>
+	</Entry>
+</Root>

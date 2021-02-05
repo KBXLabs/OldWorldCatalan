@@ -1,0 +1,430 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_NORTH</zType>
+		<zName>Mou cap al nord</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_WEST</zType>
+		<zName>Mou cap a l’oest</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_SOUTH</zType>
+		<zName>Mou cap al sud</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_EAST</zType>
+		<zName>Mou cap a l’est</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CAMERA_ZOOM_IN</zType>
+		<zName>Ampliar zoom</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CAMERA_ZOOM_OUT</zType>
+		<zName>Disminuir zoom</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_VEGETATION</zType>
+		<zName>Amagar la vegetació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_IMPROVEMENTS</zType>
+		<zName>Amagar les millores</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_UNITS</zType>
+		<zName>Amagar les unitats</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_ALL</zType>
+		<zName>Amagar-ho tot</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_ZOC</zType>
+		<zName>Mostrar la zona de control</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_DANGER_TILES</zType>
+		<zName>Mostrar zona de perill</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_TRADE_NETWORK</zType>
+		<zName>Mostar Xarxa Comercial</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_IDLE_UNITS</zType>
+		<zName>Mostrar les unitats en espera</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_TILE_YIELDS</zType>
+		<zName>Mostrar caselles de recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_HEX_GRID</zType>
+		<zName>Alternar la quadrícula hexagonal</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_UI</zType>
+		<zName>Amagar la interfície d’usuari</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_ROAD_TO</zType>
+		<zName>Alternar visió de ciutats connectades</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SPEND_TRAINING_FOR_ORDERS</zType>
+		<zName>Intercanviar Militar per Decrets</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PAUSE</zType>
+		<zName>Pausa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INCREASE_TURN_STYLE</zType>
+		<zName>Augmentar estil de torn</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DECREASE_TURN_STYLE</zType>
+		<zName>Disminuir estil de torn</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INCREASE_TURN_TIMER</zType>
+		<zName>Augmentar el temporitzador de torn</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DECREASE_TURN_TIMER</zType>
+		<zName>Disminueix el temporitzador de torn</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MUTE</zType>
+		<zName>Mutejar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CLEAR_SELECTION</zType>
+		<zName>Eliminar selecció</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_1</zType>
+		<zName>Següent unitat en espera 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_1</zType>
+		<zName>Següent/Passar unitat en espera 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_2</zType>
+		<zName>Següent unitat en espera 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_2</zType>
+		<zName>Següent/Passar unitat en espera 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_3</zType>
+		<zName>Següent unitat en espera 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_3</zType>
+		<zName>Següent/Passar unitat en espera 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_4</zType>
+		<zName>Següent unitat en espera 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_4</zType>
+		<zName>Següent/Passar unitat en espera 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_5</zType>
+		<zName>Següent unitat en espera 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_5</zType>
+		<zName>Següent/Passar unitat en espera 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_END_TURN</zType>
+		<zName>Tancar Any</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_END_TURN_FORCE</zType>
+		<zName>Tancar Any (Forçat)</zName>
+	</Entry>
+	<!-- 
+	<Entry>
+		<zType>HOTKEY_PREVIOUS_CITY</zType>
+		<zName>Ciutat anterior</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_NEXT_CITY</zType>
+		<zName>Següent Ciutat</zName>
+	</Entry>
+	-->
+	<Entry>
+		<zType>HOTKEY_PASS</zType>
+		<zName>Passar i següent unitat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SLEEP</zType>
+		<zName>Hivernar i següent unitat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SENTRY</zType>
+		<zName>Sentinella i següent unitat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_ALL</zType>
+		<zName>Següent Unitat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_ALL_REVERSE</zType>
+		<zName>Unitat Anterior (Reverse)</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNDO</zType>
+		<zName>Desfer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_REDO</zType>
+		<zName>Refer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PING</zType>
+		<zName>Ping</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CHAT</zType>
+		<zName>xat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_VICTORY_SCREEN</zType>
+		<zName>Mostrar pantalla de Victòria</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INHERITANCE_SCREEN</zType>
+		<zName>Mostrar pantalla de Succeció</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LAWS_SCREEN</zType>
+		<zName>Mostrar pantalla de Lleis</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LOG_SCREEN</zType>
+		<zName>Mostrar pantalla de Registre</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TECH_SCREEN</zType>
+		<zName>Mostrar arbre de Tecnologies</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CITY_LIST</zType>
+		<zName>Mostrar llista de Ciutats</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_SCREEN</zType>
+		<zName>Mostrar Mapa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HELP_SCREEN</zType>
+		<zName>Mostrar pantalla d'Ajuda </zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_GAME_EDITOR</zType>
+		<zName>Editor de partida</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CONSOLE</zType>
+		<zName>Consola</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CLOSE_POPUP</zType>
+		<zName>Tancar Popup</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_EXPAND_TOOLTIP</zType>
+		<zName>Ampliar Tooltip</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LOCK_TOOLTIP</zType>
+		<zName>Fixar Tooltip</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_FREEZE_TOOLTIP</zType>
+		<zName>Fixar Tooltip</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SAVE</zType>
+		<zName>Desar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_QUICK_LOAD</zType>
+		<zName>Carregar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_AUTO_LOAD</zType>
+		<zName>Carregar Autoguardat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DEBUG_MENU</zType>
+		<zName>Alternar menú de Debug</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_REVEAL_MAP</zType>
+		<zName>Revelar el mapa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_FULLY_REVEAL_MAP</zType>
+		<zName>Revelar el mapa Totalment</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNLOCK_NEXT_TECH</zType>
+		<zName>Desbloquejar següent Tecnologia</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNLOCK_ALL_TECHS</zType>
+		<zName>Desbloqueja totes les Tecnologies</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_RELOAD_INFOS</zType>
+		<zName>Recarregar informació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_GRANT_RESOURCES</zType>
+		<zName>Concedir recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_FLYING_CAMERA</zType>
+		<zName>Alternar la càmera de vol</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_TOP_DOWN_CAMERA</zType>
+		<zName>Alternar càmera cenital</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TEST_LOAD_SAVE_CONSISTENCY</zType>
+		<zName>Testejar la  consistència de càrrega / desat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_AUTOPLAY</zType>
+		<zName>Alternar la reproducció automàtica</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MENU_DEBUG_OPTIONS</zType>
+		<zName>Opcions de debug</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_PAINT</zType>
+		<zName>Pintar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_FILL</zType>
+		<zName>Reomplir</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_ERASE</zType>
+		<zName>Borrar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_TERRAIN</zType>
+		<zName>Pinzell</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_HEIGHT</zType>
+		<zName>Alçada</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_RESOURCES</zType>
+		<zName>Recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_VEGETATION</zType>
+		<zName>Vegetació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_UNDO</zType>
+		<zName>Desfer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_REDO</zType>
+		<zName>Refer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_SAVE</zType>
+		<zName>Desar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_INCREASE_SIZE</zType>
+		<zName>Augmenta la mida del pinzell</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_DECREASE_SIZE</zType>
+		<zName>Disminueix la mida del pinzell</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_UTILITIES_PANEL</zType>
+		<zName>Alternar panell d’utilitat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_INFO_PANEL</zType>
+		<zName>Alternar panel d'informació</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_PROJECTOR</zType>
+		<zName>Alternar projector d'imatges</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_FLYING_CAMERA</zType>
+		<zName>Alternar càmera voladora</zName>
+	</Entry>
+	<!--Event Browser-->
+	<Entry>
+		<zType>HOTKEY_EVENT_BROWSER_NEXT_INPUT</zType>
+		<zName>Anar a la següent entrada </zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_EVENT_BROWSER_PREVIOUS_INPUT</zType>
+		<zName>Anar a l'anterior entrada</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_1</zType>
+		<zName>Cicle Player 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_2</zType>
+		<zName>Cycle Player 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_3</zType>
+		<zName>Cycle Player 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_4</zType>
+		<zName>Cycle Player 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_5</zType>
+		<zName>Cycle Player 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_6</zType>
+		<zName>Cycle Player 6</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_7</zType>
+		<zName>Cycle Player 7</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_8</zType>
+		<zName>Cycle Player 8</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_9</zType>
+		<zName>Cycle Player 9</zName>
+	</Entry>
+</Root>

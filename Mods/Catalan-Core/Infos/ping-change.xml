@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>PING_GENERIC</zType>
+		<zName>Atenció</zName>
+	</Entry>
+	<Entry>
+		<zType>PING_ATTACK</zType>
+		<zName>Atac</zName>
+	</Entry>
+	<Entry>
+		<zType>PING_RETREAT</zType>
+		<zName>Retirada</zName>
+	</Entry>
+	<Entry>
+		<zType>PING_USE</zType>
+		<zName>Ús</zName>
+	</Entry>
+	<Entry>
+		<zType>PING_FOUND</zType>
+		<zName>Trobar</zName>
+	</Entry>
+	<Entry>
+		<zType>PING_NOTE</zType>
+		<zName>Notar</zName>
+	</Entry>
+</Root>

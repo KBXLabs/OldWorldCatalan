@@ -29,7 +29,7 @@
 		<Translation>Milícia~una Milícia~Milícies</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_UNIT_LEVY</zType>
+		<zType>TEXT_UNIT_CONSCRIPT</zType>
 		<Translation>Recluta~un Recluta~Reclutes</Translation>
 	</Entry>
 	<Entry>
@@ -38,7 +38,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_AXEMAN</zType>
-		<Translation>Axeman~an Axeman~Axemen</Translation>
+		<Translation>Destraler~un Destraler~Destralers</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SPEARMAN</zType>
@@ -58,7 +58,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SLINGER</zType>
-		<Translation>Foner~un Foner~Foners</Translation>
+		<Translation>Llençador~un Llençador~Llençadors</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_ARCHER</zType>
@@ -154,7 +154,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_KUSHITE_CAVALRY</zType>
-		<Translation>Cavalleria kuixita~un Cavalleria kuixita~Cavalleries kuixites</Translation>
+		<Translation>Cavalleria Kuixita~un Cavalleria Kuixita~Cavalleries Kuixites</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_HOPLITE</zType>
@@ -186,7 +186,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_1</zType>
-		<Translation>Skirmisher~a Skirmisher~Skirmishers</Translation>
+		<Translation>Combatent~un Combatent~Combatents</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_1</zType>
@@ -194,7 +194,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
-		<Translation>Nomad Skirmisher~a Nomad Skirmisher~Nomad Skirmishers</Translation>
+		<Translation>Combatent errant~un Combatent errant~Combatents errants</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MARAUDER_2</zType>
@@ -202,7 +202,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_2</zType>
-		<Translation>Elite Skirmisher~an Elite Skirmisher~Elite Skirmishers</Translation>
+		<Translation>Combatent d'elit~un Combatent d'elit~Combatents d'elit</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_2</zType>
@@ -210,7 +210,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
-		<Translation>Elite Nomad Skirmisher~an Elite Nomad Skirmisher~Elite Nomad Skirmishers</Translation>
+		<Translation>Combatent d'elit errant~un Combatent d'elit errant~Combatents d'elit errants</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_1</zType>

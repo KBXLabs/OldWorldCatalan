@@ -5,41 +5,4 @@
         <English>Catalan</English>
         <Translation>Català</Translation>
     </Entry>
-    <!-- LINKS INEXISTENTS -->
-    <Entry>
-        <zType>TEXT_CONCEPT_AMBITION</zType>
-        <Translation>Anhel~Anhels~un Anhel~</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_ANCHOR</zType>
-        <Translation>Ancorar~Ancorat~Ancorats</Translation>
-    </Entry>
-     <Entry>
-        <zType>TEXT_CONCEPT_CHANCELLOR</zType>
-        <Translation>Canceller~Cancellers~un Canceller</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_SPECIALIST</zType>
-        <Translation>Especialista~Especialistes~un Especialista</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_IMPROVEMENT</zType>
-        <Translation>Millora~Millores~una Millora</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_COGNOMEN</zType>
-        <Translation>Títol~Títols~un Títol</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_RELIGION</zType>
-        <Translation>Religió~Religions~una Religió</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_STATE_RELIGION</zType>
-        <Translation>Religió Estatal~Religions Estatals~una Religió Estatal</Translation>
-    </Entry>
-    <Entry>
-        <zType>TEXT_CONCEPT_DISCIPLE</zType>
-        <Translation>Deixeble~Deixebles</Translation>
-    </Entry>
 </Root>

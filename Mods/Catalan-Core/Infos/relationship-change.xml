@@ -7,54 +7,54 @@
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_LOVER_OF</zType>
-		<zName>Amant de</zName>
+		<zName>és Amant de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_ALLIED_WITH</zType>
-		<zName>Aliat amb</zName>
+		<zName>està Aliat amb</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_IN_LOVE_WITH</zType>
-		<zName>Enamorat de</zName>
+		<zName>està Enamorat de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_ENDEARED_TO</zType>
-		<zName>Estimació per</zName>
+		<zName>se sent Estimat per</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_OBLIGED_TO</zType>
-		<zName>En Deute amb</zName>
+		<zName>està en Deute amb</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_JEALOUS_ABOUT</zType>
-		<zName>Jelós de</zName>
+		<zName>està Jelós de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_SUSPICIOUS_OF</zType>
-		<zName>Desconfiat de</zName>
+		<zName>Desconfia de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_DISAPPOINTED_WITH</zType>
-		<zName>Decebut amb</zName>
+		<zName>està Decebut amb</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_ESTRANGED_FROM</zType>
-		<zName>Allunyat de</zName>
+		<zName>se sent Allunyat de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_VENGEFUL_AGAINST</zType>
-		<zName>Venjatiu contra</zName>
+		<zName>es vol Venjar de</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_PLOTTING_AGAINST</zType>
-		<zName>Conspirant contra</zName>
+		<zName>està Conspirant contra</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_BYPASSED_BY</zType>
-		<zName>Ignorat per</zName>
+		<zName>se sent Ignorat per</zName>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_DIVORCED_BY</zType>
-		<zName>Divorciat de</zName>
+		<zName>s'ha Divorciat de</zName>
 	</Entry>
 </Root>

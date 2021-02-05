@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zText comment="Player-facing string describing the memory."/>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RAID</zType>
+		<zText>Incursió bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_PEACE</zType>
+		<zText>Pau bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRUCE</zType>
+		<zText>Treva bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_WAR</zType>
+		<zText>Guerra bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_OFFER</zType>
+		<zText>Oferta bàrbara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_OFFER_ALL</zType>
+		<zText>Oferta bàrbara (totes)</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_REMOVED_LUXURY</zType>
+		<zText>Luxe eliminat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_CONVERT_RELIGION</zType>
+		<zText>Bàrbara Converteix la religió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_PLAYER_TRIBE_WAR</zType>
+		<zText>Una Nació va convèncer per que ens declarés la guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ATTACKED_UNIT</zType>
+		<zText>Van atacar les nostres unitats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ATTACKED_SETTLEMENT</zType>
+		<zText>Van atacar els nostres emplaçaments</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DECLARED_WAR</zType>
+		<zText>Ens va declarar la guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_EXECUTION</zType>
+		<zText>Van executar els nostres presoners</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DESECRATION</zType>
+		<zText>Les nostres tombes van ser profanades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RESPECT</zType>
+		<zText>Les nostres tombes van ser respectades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DENIED_SPOILS</zType>
+		<zText>Ens van negar el botí del nostre rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_SALTED_FIELDS</zType>
+		<zText>Ens van cremar el botí i van salar els nostres camps</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_SHARED_SPOILS</zType>
+		<zText>Van compartir el botí del rival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ZEALOTS_OPPRESSED</zType>
+		<zText>Van sotmetre els nostres guerrers fanàtics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DISREGARDED_KNOWLEDGE</zType>
+		<zText>Van ignorar els nostres coneixements</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RETURNED_HOSTAGE</zType>
+		<zText>Van retornar l'ostatge reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_KEPT_HOSTAGE</zType>
+		<zText>Va mantenir un guardia real com a ostatge</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DOOMED_HOSTAGE</zType>
+		<zText>Van condemnar el nostre ostatge reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_MURDERED_QUEEN</zType>
+		<zText>Van assassinar la nostra reina</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_INSULTED_CUSTOMS</zType>
+		<zText>Va insultar els nostres costums</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ACCEPTED_CUSTOMS</zType>
+		<zText>Van acceptar els nostres costums</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RETURNED_FAMILY</zType>
+		<zText>Va tornar la família reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_STOLE_FAMILY</zType>
+		<zText>Van segrestar la família reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_MET_OUR_DELEGATION</zType>
+		<zText>Van coneixer la nostra delegació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_SENT_A_PROXY</zType>
+		<zText>Van enviar un representant per conèixer la nostra delegació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ATTACKED_DELEGATION</zType>
+		<zText>Va atacar la nostra delegació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ANNEXED_LAND</zType>
+		<zText>Van tenir previst annexionar la nostra terra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_REFUSED_ANNEXATION</zType>
+		<zText>No van annexionar la nostra terra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_AVOIDED_RUINS</zType>
+		<zText>Es van evitar les ruïnes antigues</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_DESECRATED_RUINS</zType>
+		<zText>Van profanar les ruïnes antigues</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TREATED_WITH_LEADER</zType>
+		<zText>Van negociar amb el nostre líder</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RESTRICTED_PIRACY</zType>
+		<zText>Es va tornar a reactivar la pirateria tribal</zText>
+	</Entry>
+	<Entry beginGroup="Contact">
+		<zType>MEMORYTRIBE_TRIBE_WAR_AMBASSADOR_IF</zType>
+		<zText>Van ofendre el nostre ambaixador</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRIBE_CONTACT_AGGRESSION</zType>
+		<zText>Van actuar de manera agressiva en el primer contacte</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRIBE_CONTACT_GAVE_GIFTS</zType>
+		<zText>Van donar regals al primer contacte</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRIBE_CONTACT_RANSOM</zType>
+		<zText>Van pagar un rescat per la seva unitat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRIBE_CONTACT_TOOK_HOSTAGE</zType>
+		<zText>Van prendre com a ostatge la nostra unitat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_FEASTED_IN_OUR_HONOR</zType>
+		<zText>Van festejar en honor nostre</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_TRIBE_CONTACT_CULTURAL_DELEGATION_NO</zType>
+		<zText>Es va rebutjar a la nostra delegació cultural</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_REFUSED_OUR_ENEMIES</zType>
+		<zText>Es va rebutjar l'ajuda als nostres enemics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_STRANGE_ENCOUNTER</zType>
+		<zText>Van respectar el nostre terreny sagrat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RUMOR_HAS_IT_SAVED</zType>
+		<zText>Van respectar les nostres serps</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_LAW_FREED_CAPTIVES</zType>
+		<zText>Van alliberar els nostres captius</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RUINS_RESTORED_CITY</zType>
+		<zText>Van restaurar la nostra antiga capital</zText>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>MEMORY_IGNORED_PROPOSAL</zType>
+		<zText>Van rebutjar la proposta de rei </zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORY_WOOED_BARBARIAN_KING</zType>
+		<zText>Van cortejar el nostre rei</zText>
+	</Entry>
+	<Entry beginGroup="Marriage">
+		<zType>MEMORYTRIBE_MARRIAGE_OFFER_NO</zType>
+		<zText>Van rebutjar la proposta de matrimoni </zText>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>MEMORYTRIBE_SMUGGLED_SPIES</zType>
+		<zText>Espies de contraban</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ASSISTED_IN_MONSOON</zType>
+		<zText>Ens van ajudar en un monsó</zText>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>MEMORYTRIBE_REBUKED_US</zType>
+		<zText>Van retreure la nostra relació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_REFUSED_INVITATION</zType>
+		<zText>Van rebutjar la nostra invitació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_GAVE_JUSTICE</zType>
+		<zText>Van executar els que profanar les ruïnes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_REFUSED_JUSTICE</zType>
+		<zText>Es va negar a fer pau als bàrbars</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_EXPLAINED_MISTAKE</zType>
+		<zText>Van justificar la profanació accidental</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_ACCEPTED_GENERAL</zType>
+		<zText>Van acceptar el nostre general veterà</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_PRESERVED_PIRACY</zType>
+		<zText>Es va preservar la pirateria com a professió viable</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_MEDIATOR</zType>
+		<zText>Una altra tribu va mediar en nom nostre</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_COURTIER_WED</zType>
+		<zText>Un membre de la cort casat amb núvia bàrbara</zText>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>MEMORYTRIBE_GIFT_OF_CAMELS</zType>
+		<zText>Rebut obsequi de camells</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYTRIBE_RETURNED_SHEPHERD</zType>
+		<zText>Jove pastor retornat</zText>
+	</Entry>
+	<Entry beginGroup="Diplomacy">
+		<zType>MEMORYTRIBE_SENT_SPIES</zType>
+		<zText>Van enviar agents a sembrar el malestar</zText>
+	</Entry>
+</Root>

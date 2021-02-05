@@ -15,7 +15,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<Translation>Tàctic~Tàctica</Translation>
+		<Translation>Estrateg~Estratega</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
@@ -23,7 +23,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<Translation>Maquinador~Maquinadora</Translation>
+		<Translation>Conspirador~Conspiradora</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
@@ -35,11 +35,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
-		<Translation>Contructor~Constructora</Translation>
+		<Translation>Constructor~Constructora</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Erudit~Erudita</Translation>
+		<Translation>Acadèmic~Acadèmica</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -227,7 +227,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE</zType>
-		<Translation>**Horsebane</Translation>
+		<Translation>Anti-cavalleria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER</zType>
@@ -322,20 +322,20 @@
 		<Translation>Enginyós~Enginyosa</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
+		<Translation>Estudiant de Filosofia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
+		<Translation>Estudiant de retòrica</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS</zType>
 		<Translation>Estudiant de tàctica~Estudiant de tàctica</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
-		<Translation>Estudiant d'oratòria~Estudiant d'oratòria</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
 		<Translation>Estudiant de comerç~Estudiant de comerç</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
-		<Translation>Estudiant de filosofia~Estudiant de filosofia</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED</zType>
@@ -438,8 +438,12 @@
 		<Translation>Aclamat~Aclamada</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_PRIEST</zType>
-		<Translation>Sacerdot~Sacerdotesa</Translation>
+		<zType>TEXT_TRAIT_CLERGY</zType>
+		<Translation>Sacerdot</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ASCETIC</zType>
+		<Translation>Ascètic</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARTIST</zType>
@@ -568,10 +572,6 @@
 	<Entry>
 		<zType>TEXT_TRAIT_DROUGHT_STRICKEN</zType>
 		<Translation>Afectat per la sequera~Afectada per la sequera</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_TRAIT_ASCETIC</zType>
-		<Translation>Ascètic~Ascètica</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSE</zType>

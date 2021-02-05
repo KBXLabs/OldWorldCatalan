@@ -372,7 +372,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
-		<Translation>les Piràmides</Translation>
+		<Translation>Les Piràmides</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
@@ -384,7 +384,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
-		<Translation>El Jardins Penjants</Translation>
+		<Translation>Els Jardins Penjants</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
@@ -396,7 +396,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Translation>El far</Translation>
+		<Translation>El Gran Far</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_APADANA</zType>

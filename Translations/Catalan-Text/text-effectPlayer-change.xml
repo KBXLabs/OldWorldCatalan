@@ -211,11 +211,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Líder Erudit</Translation>
+		<Translation>Líder Acadèmic</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
-		<Translation>**Petició Capital</Translation>
+		<Translation>Assajos Científics a la Capital</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
@@ -223,7 +223,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<Translation>Líder Maquinador</Translation>
+		<Translation>Líder Conspirador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>

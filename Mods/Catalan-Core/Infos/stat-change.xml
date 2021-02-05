@@ -66,7 +66,7 @@
 	</Entry>
 	<Entry>
 		<zType>STAT_COURTIER_ADDED</zType>
-		<zName>Cortesans incorporats</zName>
+		<zName>Nous membres a la cort</zName>
 	</Entry>
 	<Entry>
 		<zType>STAT_IMPROVEMENT_FINISHED</zType>
@@ -82,7 +82,7 @@
 	</Entry>
 	<Entry>
 		<zType>STAT_LANDMARK_NAMED</zType>
-		<zName>Lloc d'Interés Renombrats</zName>
+		<zName>Llocs d'interés</zName>
 	</Entry>
 	<Entry>
 		<zType>STAT_NATION_FOUNDED</zType>
@@ -101,7 +101,7 @@
 		<zName>Restes Explorades</zName>
 	</Entry>
 	<Entry>
-		<zType>STAT_SPECIALIST_TRAINED</zType>
+		<zType>STAT_SPECIALIST_PRODUCED</zType>
 		<zName>Especialistes Formats</zName>
 	</Entry>
 	<Entry>

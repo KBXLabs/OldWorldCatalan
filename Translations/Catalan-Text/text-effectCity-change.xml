@@ -68,7 +68,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
-		<Translation>Gemes del link(FAMILYCLASS_PATRONS)</Translation>
+		<Translation>Gemmes del link(FAMILYCLASS_PATRONS)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
@@ -84,7 +84,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
-		<Translation>Tints dels link(FAMILYCLASS_ARTISANS)</Translation>
+		<Translation>Colorants dels link(FAMILYCLASS_ARTISANS)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
@@ -116,7 +116,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
-		<Translation>En Desenvolupament</Translation>
+		<Translation>En Progrés</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
@@ -424,11 +424,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
-		<Translation>Gemes</Translation>
+		<Translation>Gemmes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
-		<Translation>Gemes de Luxe</Translation>
+		<Translation>Gemmes de Luxe</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GOLD</zType>
@@ -564,7 +564,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RESOURCE_GRAIN</zType>
-		<Translation>Grà</Translation>
+		<Translation>Gra</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
@@ -721,13 +721,5 @@
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
 		<Translation>Líder link(TRAIT_HERDER)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ASCETIC</zType>
-		<Translation>link(TRAIT_ASCETIC)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_PRIEST</zType>
-		<Translation>link(TRAIT_PRIEST)</Translation>
 	</Entry>
 </Root>

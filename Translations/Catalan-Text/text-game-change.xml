@@ -114,11 +114,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
-		<Translation><![CDATA[Han arribat noves de l'extranger sobre la mort <if_meta_0=a>de <if_meta=an>d'<end>{0_oldLeader}. {1_newLeader} ha pujat al tron.]]></Translation>
+		<Translation>Han arribat noves de l'extranger sobre la mort {G0:del:de la} {0_oldLeader}. {1_newLeader} ha pujat al tron.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
-		<Translation><![CDATA[Han arribat noves de l'extranger sobre la mort <if_meta_0=a>de <if_meta=an>d'<end>{0_oldLeader}. {1_newLeader} ara dirigeix als {2_tribe}.]]></Translation>
+		<Translation>Han arribat noves de l'extranger sobre la mort {G0:del:de la} {0_oldLeader}. {1_newLeader} ara dirigeix als {2_tribe}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
@@ -238,7 +238,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LANDMARK_NAMED</zType>
-		<Translation>Ets el primer en descobrir aquest lloc de referència. Com el vols anomenar?</Translation>
+		<Translation><![CDATA[Ets el primer en descobrir aquest lloc de referència.<br>Com el vols anomenar?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RAID_WARNING</zType>
@@ -323,8 +323,12 @@
 		<Translation>{0_subject}: {1_memory}, {2_value} d'opinió</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT_TURNS</zType>
+		<Translation> ({0_turns} {1_turnScale})</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
-		<Translation>{0_subject}: **Cancel·la el deute {1_memory}, {2_value} d'opinió</Translation>
+		<Translation>{0_subject}: Cancel·la el deute {1_memory}, {2_value} d'opinió</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
@@ -416,7 +420,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
-		<Translation><![CDATA[{0_value}<singular_0>Casella frontarera<plural>Caselles frontereres<end>]]></Translation>
+		<Translation><![CDATA[{0_value} <singular_0>Casella frontarera<plural>Caselles frontereres<end>]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
@@ -468,15 +472,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RANDOM_RELATIONSHIP_LEADER</zType>
-		<Translation>{0_character} **ara és {1_relationship} {2_leader}</Translation>
+		<Translation>{0_character} ara {1_relationship} {2_leader}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
-		<Translation>Esdevé {0}</Translation>
+		<Translation>esdevé {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOSES</zType>
-		<Translation>Ja no és {0}</Translation>
+		<Translation>ja no esdevé {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
@@ -544,7 +548,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
-		<Translation>És triat com hereu</Translation>
+		<Translation>És escollit com hereu</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
@@ -556,15 +560,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD</zType>
-		<Translation><![CDATA[És {0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
+		<Translation><![CDATA[{0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
-		<Translation>{0} (Ja no està {1_list})</Translation>
+		<Translation>{0} (Ja no {1_list})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
-		<Translation><![CDATA[**Ja no és {0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
+		<Translation><![CDATA[Ja no {0_relationship} <if_meta_0=a>de <if_meta=an>d'<end>{1_character}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_XP</zType>
@@ -704,7 +708,7 @@
 		<Translation>Lloc desconegut</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_TILE_IMPROVEMENT_UPGRADE</zType>
+		<zType>TEXT_GAME_TILE_IMPROVEMENT_DEVELOP</zType>
 		<Translation>({0_name}: {1_turns})</Translation>
 	</Entry>
 	<Entry>
@@ -770,7 +774,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION</zType>
-		<Translation>La link(CONCEPT_CARAVAN_MISSION) amb {0_player} ha estat completada: {1_money}</Translation>
+		<Translation>link(CONCEPT_CARAVAN_MISSION) amb {0_player} completada: {1_money} ({2_memory})</Translation>
 	</Entry>
 	<!--City-->
 	<Entry>
@@ -816,11 +820,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
-		<Translation>***link(DIPLOMACY_WAR) declarada a {0_strength} {1}</Translation>
+		<Translation>link(DIPLOMACY_WAR) declarada a {0_strength} {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
-		<Translation>***link(DIPLOMACY_TRUCE) declarada amb {0_strength} {1}</Translation>
+		<Translation>link(DIPLOMACY_TRUCE) declarada amb {0_strength} {1}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>

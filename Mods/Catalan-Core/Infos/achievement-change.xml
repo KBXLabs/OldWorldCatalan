@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_NO_UNDO</zType>
+		<zName>Partida guanyada sense desfer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES</zType>
+		<zName>Partida guanyada amb famílies aleatòries</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_ROLE_PLAYING</zType>
+		<zName>Partida guanyada jugant en mode narratiu</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE</zType>
+		<zName>Partida guanyada en mode Repte d'Una Sola Ciutat (OCC)</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_POINTS</zType>
+		<zName>Partida guanyada per punts de Victòria</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_DOUBLE</zType>
+		<zName>Partida guanyada per Victòria Doble</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_AMBITION</zType>
+		<zName>Partida guanyada per Anhels</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_TIME</zType>
+		<zName>Partida guanyada per Temps</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_CONQUEST</zType>
+		<zName>Partida guanyada per Conquesta</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_EVENTLEVEL_HIGH</zType>
+		<zName>Partida guanyada amb alta freqüència d'events</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_MORTALITY_REALISTIC</zType>
+		<zName>Partida guanyada amb Mortalitat Realista</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_ABLE</zType>
+		<zName>Partida guanyada amb nivell de dificultat l'Apte</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_JUST</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Just</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GOOD</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Benevolent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_STRONG</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Forçut</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_NOBLE</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Noble</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GLORIOUS</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Gloriós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_MAGNIFICENT</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Magnificent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GREAT</zType>
+		<zName>Partida guanyada amb nivell de dificultat el Gran</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_ASSYRIA</zType>
+		<zName>Partida guanyada com Assyria</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_BABYLONIA</zType>
+		<zName>Partida guanyada com Babylonia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_CARTHAGE</zType>
+		<zName>Partida guanyada com Carthage</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_EGYPT</zType>
+		<zName>Partida guanyada com Egypt</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_GREECE</zType>
+		<zName>Partida guanyada com Greece</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_PERSIA</zType>
+		<zName>Partida guanyada com Persia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_ROME</zType>
+		<zName>Partida guanyada com Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WARRIOR</zType>
+		<zName>Esdevé el Warrior</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BRAVE</zType>
+		<zName>Esdevé el Instructor de Maniobres</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_VALIANT</zType>
+		<zName>Esdevé el Valent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MIGHTY</zType>
+		<zName>Esdevé el Poderós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_VICTORIOUS</zType>
+		<zName>Esdevé el Victoriós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LION</zType>
+		<zName>Esdevé el Lleó</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INVINCIBLE</zType>
+		<zName>Esdevé el Invencible</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_CAPABLE</zType>
+		<zName>Esdevé el Competent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_READY</zType>
+		<zName>Esdevé el Preparat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_DESTROYER</zType>
+		<zName>Esdevé el Destructor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_AVENGER</zType>
+		<zName>Esdevé el Venjatiu</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WHITE_DEATH</zType>
+		<zName>Esdevé la Mort Blanca</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INTERCESSOR</zType>
+		<zName>Esdevé l’Intercessor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_PEACEMAKER</zType>
+		<zName>Esdevé el Pacificador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_CONQUEROR</zType>
+		<zName>Esdevé el Conqueridor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SUBJUGATOR</zType>
+		<zName>Esdevé el Subjugador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_RESTORER</zType>
+		<zName>Esdevé el Restaurador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LIBERATOR</zType>
+		<zName>Esdevé l'Alliberador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SETTLER</zType>
+		<zName>Esdevé el Colonitzador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_PIONEER</zType>
+		<zName>Esdevé el Pioner</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_AMBITIOUS</zType>
+		<zName>Esdevé el Ambiciós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BRILLIANT</zType>
+		<zName>Esdevé el Brilliant</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BELOVED</zType>
+		<zName>Esdevé l'Amat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_REBUILDER</zType>
+		<zName>Esdevé el Reconstructor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SURVEYOR</zType>
+		<zName>Esdevé l’Aparellador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MASON</zType>
+		<zName>Esdevé el Masó</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ARCHITECT</zType>
+		<zName>Esdevé l'Arquitecte</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_KEYSTONE</zType>
+		<zName>Esdevé la Pedra Angular</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_FOUNDER</zType>
+		<zName>Esdevé el Fundador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_DEVOUT</zType>
+		<zName>Esdevé el Devot</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_HOLY</zType>
+		<zName>Esdevé el Sant</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_EXPLORER</zType>
+		<zName>Esdevé l'Explorador</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INTREPID</zType>
+		<zName>Esdevé l'Intrèpid</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LEARNED</zType>
+		<zName>Esdevé l'Alliçonat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ENLIGHTENED</zType>
+		<zName>Esdevé l'Il·luminat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WISE</zType>
+		<zName>Esdevé el Savi</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_OLD</zType>
+		<zName>Esdevé el Vell</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ANCIENT</zType>
+		<zName>Esdevé l'Ancià</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ABLE</zType>
+		<zName>Esdevé l'Apte</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_JUST</zType>
+		<zName>Esdevé el Just</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GOOD</zType>
+		<zName>Esdevé el Benevolent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_STRONG</zType>
+		<zName>Esdevé el Forçut</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_NOBLE</zType>
+		<zName>Esdevé el Noble</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GLORIOUS</zType>
+		<zName>Esdevé el Gloriós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MAGNIFICENT</zType>
+		<zName>Esdevé el Magnificent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GREAT</zType>
+		<zName>Esdevé el Gran</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_ZOROASTRIANISM</zType>
+		<zName>Has fundat el Zoroastrisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_JUDAISM</zType>
+		<zName>Has fundat el Judaisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_CHRISTIANITY</zType>
+		<zName>Has fundat el Cristianisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_MANICHAEISM</zType>
+		<zName>Has fundat el Maniqueisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA</zType>
+		<zName>Has fundat el Paganisme Assiri</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA</zType>
+		<zName>Has fundat el Paganisme Babiloni</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE</zType>
+		<zName>Has fundat el Paganisme Cartaginés</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_EGYPT</zType>
+		<zName>Has fundat el Paganisme Egipci</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_GREECE</zType>
+		<zName>Has fundat el Paganisme Grec</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_ROME</zType>
+		<zName>Has fundat el Paganisme Romà</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_PERSIA</zType>
+		<zName>Has fundat el Paganisme Persa</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_MYTHOLOGY</zType>
+		<zName>Has establert la Mitologia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_VENERATION</zType>
+		<zName>Has establert la Veneració</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_LEGALISM</zType>
+		<zName>Has establert el Legalisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_REVELATION</zType>
+		<zName>Has establert la Revelació</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_GNOSTICISM</zType>
+		<zName>Has establert l'Gnosticisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_REDEMPTION</zType>
+		<zName>Has establert la Redempció</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_DUALISM</zType>
+		<zName>Has establert el Dualisme</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</zType>
+		<zName>Has establert la Il·luminació</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<zName>Has construit el Adur Burzen-Mihr</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<zName>Has construit el Temple de Solomó</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<zName>Has construit l'Esglèsia del Sant Sepulcre</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<zName>Has construit el Cao'an</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_PYRAMIDS</zType>
+		<zName>Has construit les Piràmides</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<zName>Has construit el Gran Ziggurat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ORACLE</zType>
+		<zName>Has construit l'Oracle</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<zName>Has construit els Jardins Penjants</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_NECROPOLIS</zType>
+		<zName>Has construit la Necropoli</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<zName>Has construit la Porta d'Ixtar</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<zName>Has construit el Gran Far</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_APADANA</zType>
+		<zName>Has construit l'Apadana</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM</zType>
+		<zName>Has construit el Mausoleu</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ACROPOLIS</zType>
+		<zName>Has construit l'Acropoli</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_COLOSSUS</zType>
+		<zName>Has construit el Colós</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_MUSAEUM</zType>
+		<zName>Has construit el Musaeum</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<zName>Has construit el Circus Maximus</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_PANTHEON</zType>
+		<zName>Has construit el Pantheon</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<zName>Has construit la Santa Sofia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+		<zName>Has construit la Via Recta Souk</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_POLITICAL_REFORM</zType>
+		<zName>Has descovert la Reforma Política</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_MILITARY_REFORM</zType>
+		<zName>Has descovert la Reforma Militar</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_ECONOMIC_REFORM</zType>
+		<zName>Has descovert la Reforma Econòmica</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_SIEGE_TOWER</zType>
+		<zName>Has creat una unitat Torre de Setge</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER</zType>
+		<zName>Has creat una unitat Arquer Cimmerià</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_TURRETED_ELEPHANT</zType>
+		<zName>Has creat una unitat d'Elefant amb Torreta</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_KUSHITE_CAVALRY</zType>
+		<zName>Has creat una unitat de Cavalleria Kuixita</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_PHALANGITE</zType>
+		<zName>Has creat una unitat Falangita</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER</zType>
+		<zName>Has creat una unitat Arquer Catafracte</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_LEGIONARY</zType>
+		<zName>Has creat una unitat Legionari</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_DEVELOPING</zType>
+		<zName>Has aconseguit 3 Ciutats en progrés</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_STRONG</zType>
+		<zName>Has aconseguit 3 Ciutats egemòniques</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_LEGENDARY</zType>
+		<zName>Has aconseguit 3 Ciutats llegendàries</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED</zType>
+		<zName>Has capturat 10 (en una partida)</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME</zType>
+		<zName>Has anomenat 10 Llocs d'interés (en una partida)</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_SEVEN_WONDERS</zType>
+		<zName>Has construit 7 Meravelles (en una partida)</zName>
+	</Entry>
+</Root>

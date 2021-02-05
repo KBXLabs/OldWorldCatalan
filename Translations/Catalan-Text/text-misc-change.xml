@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_ADJECTIVE</zType>
+		<Translation>{0,1_TribeAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SITE</zType>
+		<Translation>Emplaçament {0,1_TribeAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_SITE</zType>
+		<Translation>Emplaçament {0,1_NationAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PLAYER_NUMBER</zType>
+		<Translation>Jugador {0_number}</Translation>
+	</Entry>
+	<!-- HotKeys -->
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+		<Translation>{0_key} + {1_key}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
+		<Translation>{0_key}+{1_key}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+		<Translation>[Click dret]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+		<Translation>[CTRL+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+		<Translation>[SHIFT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_ALT_CLICK</zType>
+		<Translation>[ALT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+		<Translation>[CTRL+SHIFT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+		<Translation>[CTRL+ALT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_SHIFT</zType>
+		<Translation>[SHIFT]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL</zType>
+		<Translation>[CTRL]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_ALT</zType>
+		<Translation>[ALT]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+		<Translation>Densitat de recursos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+		<Translation>Rotar el Mapa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+		<Translation>Recursos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+		<Translation>Extensió de l'aigua</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+		<Translation>Localització del'aigua</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+		<Translation>Localització d'inici del jugador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TRIBES</zType>
+		<Translation>Tribus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+		<Translation>Variació del tipus de terreny</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+		<Translation>Localització de terres tribals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+		<Translation>Tipus de terreny extrem</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
+		<Translation>Centrar Biaix</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+		<Translation>Continents</Translation>
+	</Entry>
+</Root>

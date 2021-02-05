@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT</zType>
+		<Translation>Culte a l'espasa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+		<Translation>Tarifa pel Culte a l'espasa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+		<Translation>Guarnició hostil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+		<Translation>Mural públic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TRIUMPH</zType>
+		<Translation>Triomf</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULTURAL_APPROPRIATION</zType>
+		<Translation>Apropiació cultural</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
+		<Translation>Tint porpre</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROPAGANDA</zType>
+		<Translation>Propaganda</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
+		<Translation>Explotació infantil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+		<Translation>Reforma contra la corrupció</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+		<Translation>Inscripcions reials</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+		<Translation>Necrópoli imperial</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+		<Translation>Deportacions forçades</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GLADIATORS</zType>
+		<Translation>Gladiadors</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PLAYS</zType>
+		<Translation>Obres de teatre</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+		<Translation>Ciutat mercantil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OUTBREAK</zType>
+		<Translation>Brot</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MIDWIFERY</zType>
+		<Translation>Obstetricia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+		<Translation>Delicies de luxe</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+		<Translation>Festa anual pels convidats persas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+		<Translation>Mitosforia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+		<Translation>Subsidi gratuit de gra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+		<Translation>Lluitadors extrangers</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+		<Translation>Consell de guerra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+		<Translation>Drenatge</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
+		<Translation>Enfortiment de la caixa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+		<Translation>Pous de Turpan</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+		<Translation>Festa nacional</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+		<Translation>Mètode científic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+		<Translation>Edictes de protecció</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HORREUM</zType>
+		<Translation>Horreum de grano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+		<Translation>Tresor d'Avesta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+		<Translation>Ciutadans malalts</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+		<Translation>Santuari Zigurat al Amor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+		<Translation>Santuari Zigurat a la Sabiessa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+		<Translation>Santuari Zigurat a la Guerra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+		<Translation>Tribunals consulars</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
+		<Translation>Confucionisme</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+		<Translation>Producció de sal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MANUAL_OF_RHETORIC</zType>
+		<Translation>Manual de retòrica</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOCAL_ASCETIC</zType>
+		<Translation>Ascètica local</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
+		<Translation>Regla autònoma</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONUMENTAL_GATE</zType>
+		<Translation>Porta monumental</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LEVIATHAN</zType>
+		<Translation>Crani de Leviatan</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
+		<Translation>Culte al consort de Déu</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LABYRINTH</zType>
+		<Translation>Laberint</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WORK_OF_ART</zType>
+		<Translation>Obra d'art</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PIRACY_SUPPRESSION</zType>
+		<Translation>Supresió de la pirateria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COHORTES</zType>
+		<Translation>Cohorts urbanes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_KILLER</zType>
+		<Translation>Cacera als assassins</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_STATUE_OF_DIONYSUS</zType>
+		<Translation>Estatua de Dionis</Translation>
+	</Entry>
+</Root>

@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<azVolcanoNames/>
+		<azMountainRangeNames/>
+		<azPeakNames/>
+		<azRiverNames/>
+		<azForestNames/>
+		<azHeathNames/>
+		<azPlainNames/>
+		<azDesertNames/>
+		<azPlateauNames/>
+		<azValleyNames/>
+		<azOceanNames/>
+		<azSeaNames/>
+		<azBayNames/>
+		<azLakeNames/>
+		<azIslandNames/>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_GENERIC</zType>
+		<azVolcanoNames>
+			<zValue>kilimanjaro</zValue>
+			<zValue>Mont Elbrus</zValue>
+			<zValue>Mont Kazbek</zValue>
+			<zValue>Mont Pico</zValue>
+			<zValue>Mont Mel</zValue>
+			<zValue>Mont Karisimbi</zValue>
+			<zValue>Mont Muhabura</zValue>
+			<zValue>Mont Aragats</zValue>
+			<zValue>Nabro</zValue>
+			<zValue>Mont Kenya</zValue>
+			<zValue>Mont Giluwe</zValue>
+			<zValue>Kabargin Oth</zValue>
+			<zValue>Dar-Alages</zValue>
+			<zValue>Cresta Ghegam</zValue>
+			<zValue>Tousside</zValue>
+			<zValue>Vakak</zValue>
+			<zValue>Tarso Voon</zValue>
+			<zValue>Porak</zValue>
+			<zValue>Mont Longonot</zValue>
+			<zValue>Mont Suswa</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Muntanyes del Caucas</zValue>
+			<zValue>Pirineus</zValue>
+			<zValue>Muntanyes dels Balcans</zValue>
+			<zValue>Muntanyes de Kunlun</zValue>
+			<zValue>Muntanyes dels Carpats</zValue>
+			<zValue>Muntanyes dels Urals</zValue>
+			<zValue>Hindú Kush</zValue>
+			<zValue>Muntanyes Parasan</zValue>
+			<zValue>Muntanyes Pòntiques</zValue>
+			<zValue>Serralada Vindhya</zValue>
+			<zValue>Muntanyes Arakan</zValue>
+			<zValue>Karakoram</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Mont Korab</zValue>
+			<zValue>Bazarduzu</zValue>
+			<zValue>Monte Rosa</zValue>
+			<zValue>Pic Moldoveanu</zValue>
+			<zValue>Jebel Toubkal</zValue>
+			<zValue>Punta La Marmora</zValue>
+			<zValue>Jabal Sawda</zValue>
+			<zValue>Dinara</zValue>
+			<zValue>Mont Tahat</zValue>
+			<zValue>Grossglockner</zValue>
+			<zValue>Bikku Bitti</zValue>
+			<zValue>Mulhacen</zValue>
+			<zValue>Rysy</zValue>
+			<zValue>Mont Hermon</zValue>
+			<zValue>Shkhara</zValue>
+			<zValue>Kekes</zValue>
+			<zValue>Jabal Umm ad Dami</zValue>
+			<zValue>Triglav</zValue>
+			<zValue>Mont Sannine</zValue>
+			<zValue>Jabal an Nabi Shu'ayb</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>El Danubi</zValue>
+			<zValue>Riu Kura</zValue>
+			<zValue>Riu Tajo</zValue>
+			<zValue>Riu Jordà</zValue>
+			<zValue>Riu Dnieper</zValue>
+			<zValue>Riu Vístula</zValue>
+			<zValue>Riu Sakarya</zValue>
+			<zValue>Amu Darya</zValue>
+			<zValue>Riu Roine</zValue>
+			<zValue>Oued Sebou</zValue>
+			<zValue>Riu Aras</zValue>
+			<zValue>Riu Oder</zValue>
+			<zValue>Riu Mondego</zValue>
+			<zValue>Riu Kizilirmak</zValue>
+			<zValue>Riu Mure</zValue>
+			<zValue>Oued Tensift</zValue>
+			<zValue>Riu Tisza</zValue>
+			<zValue>Riu Shannon</zValue>
+			<zValue>Riu Gediz</zValue>
+			<zValue>Oued Draa</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Bosc de Bialowieza</zValue>
+			<zValue>Bosc primitiu de Boubin</zValue>
+			<zValue>Fageda de Lagodekhi</zValue>
+			<zValue>Bosc de Belgrad</zValue>
+			<zValue>El Joglland</zValue>
+			<zValue>Zona volcànica de la Garrotxa </zValue>
+			<zValue>Bosc d’avets Irati</zValue>
+			<zValue>Bosc de coníferes anatòliques</zValue>
+			<zValue>Bosc de Retezat</zValue>
+			<zValue>Fageda dels Carpats</zValue>
+			<zValue>Bosc d’Ordesa</zValue>
+			<zValue>Bosc de Sauwald</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Trillemarka Taiga</zValue>
+			<zValue>Bosc de Pyha-Hakki</zValue>
+			<zValue>Alcarria Heath</zValue>
+			<zValue>Bosc de Bedolls Ovre Dividal</zValue>
+			<zValue>Bosc de la plana inundable d’Acarlar</zValue>
+			<zValue>Bosc de cedres de Gouraud</zValue>
+			<zValue>Arbreda de ginebre cirenaica</zValue>
+			<zValue>Boscos De Viena</zValue>
+			<zValue>Pineda de Monterey</zValue>
+			<zValue>Boscos de Catalunya</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Bugulma-Belebey Upland</zValue>
+			<zValue>Plana d’Europa de l’Est</zValue>
+			<zValue>Gran plana europea</zValue>
+			<zValue>Hummocks kazakhs</zValue>
+			<zValue>Plana de Masòvia</zValue>
+			<zValue>Planuria d'Ovce</zValue>
+			<zValue>Plana de Pankrac</zValue>
+			<zValue>Plana Panònica</zValue>
+			<zValue>Plana Danubiana</zValue>
+			<zValue>Plana Campidano</zValue>
+			<zValue>Plana de Mesaoria</zValue>
+			<zValue>Plana de Crau</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Desert del Sàhara</zValue>
+			<zValue>Desert d'Aràbia</zValue>
+			<zValue>Desert de Namibia</zValue>
+			<zValue>Desert del Kalahari</zValue>
+			<zValue>Desert de Taklamakan</zValue>
+			<zValue>Desert de Kyzylkum</zValue>
+			<zValue>Desert del Gobi</zValue>
+			<zValue>Desert de Thar</zValue>
+			<zValue>Gran desert de la Victòria</zValue>
+			<zValue>Gran desert de Sorra</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Altiplà de Barnim</zValue>
+			<zValue>Creu de Scaille</zValue>
+			<zValue>Altiplà de Dumre</zValue>
+			<zValue>Altiplà d’Elenydd</zValue>
+			<zValue>Altiplà d’Engstligenalp</zValue>
+			<zValue>Altiplà de Krivosije</zValue>
+			<zValue>Altiplà del Perdedor</zValue>
+			<zValue>Altiplà de Ludogorie</zValue>
+			<zValue>Altiplà Plateau</zValue>
+			<zValue>Altiplà de Caestert</zValue>
+			<zValue>Rownia pod Sniezka</zValue>
+			<zValue>Cresta Wardija</zValue>
+			<zValue>Windmill Hill Flats</zValue>
+			<zValue>Altiplà Katharo</zValue>
+			<zValue>Campo Imperatore</zValue>
+			<zValue>Campo Felice</zValue>
+			<zValue>Altiplà d'Assy</zValue>
+			<zValue>Altiplà Canjuers</zValue>
+			<zValue>Altiplà d’Aintab</zValue>
+			<zValue>Altiplà d’Alep</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Vall d’Aatal</zValue>
+			<zValue>Vall del Rin alpí</zValue>
+			<zValue>Vall de Bjelopavlici</zValue>
+			<zValue>Vall de Csanyik</zValue>
+			<zValue>Vall de Diber</zValue>
+			<zValue>Vall de Dischma</zValue>
+			<zValue>Vall de Gauss</zValue>
+			<zValue>Vall d’Intal</zValue>
+			<zValue>Vall de Kaiserbach</zValue>
+			<zValue>Vall de Leithen</zValue>
+			<zValue>Vall de Madriu-Perafita-Claror</zValue>
+			<zValue>Vall de Schams</zValue>
+			<zValue>Vall de Sofia</zValue>
+			<zValue>Vall de Takanyo</zValue>
+			<zValue>Vall de la Porta de Turingia</zValue>
+			<zValue>Vall de Torne</zValue>
+			<zValue>Vall de Val Vignum</zValue>
+			<zValue>Vall d’Eisch</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Oceà Índic</zValue>
+			<zValue>Oceà Atlantic</zValue>
+			<zValue>Oceà Pacífic</zValue>
+			<zValue>Oceà Àrtic</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Mar Bàltic</zValue>
+			<zValue>Mar d'Azov</zValue>
+			<zValue>Mar del Nord</zValue>
+			<zValue>Mar Celta</zValue>
+			<zValue>Mar Blanc</zValue>
+			<zValue>Mar Lacadiu</zValue>
+			<zValue>Mar d’Andaman</zValue>
+			<zValue>Mar de Java</zValue>
+			<zValue>Mar de Celebes</zValue>
+			<zValue>Mar de Banda</zValue>
+			<zValue>Mar de Filipines</zValue>
+			<zValue>Mar de Timor</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Badia de Cadis</zValue>
+			<zValue>Badia de Ceuta</zValue>
+			<zValue>Badia de Palma</zValue>
+			<zValue>Anse de Sablettes</zValue>
+			<zValue>Badia dels Trepasses</zValue>
+			<zValue>Liscia di Vacca</zValue>
+			<zValue>Badia d’Augusta</zValue>
+			<zValue>Badia de Mirabello</zValue>
+			<zValue>Badia de Thymnias</zValue>
+			<zValue>Badia de Suvla</zValue>
+			<zValue>Badia de Xwejni</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Llac Vanern</zValue>
+			<zValue>Llac Sevan</zValue>
+			<zValue>Llac Inari</zValue>
+			<zValue>Llac Balkhash</zValue>
+			<zValue>Llac de Constança</zValue>
+			<zValue>Llac Issyk-Kul</zValue>
+			<zValue>Llac Balaton</zValue>
+			<zValue>Llac Ginebra</zValue>
+			<zValue>Llac Sarigamish</zValue>
+			<zValue>Loch Neagh</zValue>
+			<zValue>Llac Pielinen</zValue>
+			<zValue>Gowd-e-Zereh</zValue>
+			<zValue>Llac Alakol</zValue>
+			<zValue>Markermeer</zValue>
+			<zValue>Llac Suvasavesi</zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue>Bahrain</zValue>
+			<zValue>Madagascar</zValue>
+			<zValue>Irlanda</zValue>
+			<zValue>Illa de Man</zValue>
+			<zValue>Creta</zValue>
+			<zValue>Còrsega</zValue>
+			<zValue>Xipre</zValue>
+			<zValue>Illa de Palma</zValue>
+			<zValue>Tasmània</zValue>
+			<zValue>Illa de Pasqua</zValue>
+			<zValue>Islàndia</zValue>
+			<zValue>Illa Jana</zValue>
+			<zValue>Illa de Wight</zValue>
+			<zValue>Illa de Madeira</zValue>
+			<zValue>Sicília</zValue>
+			<zValue>Sardenya</zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_ASSYRIA</zType>
+		<azVolcanoNames>
+			<zValue>Mont Ararat</zValue>
+			<zValue>Mont Suphan</zValue>
+			<zValue>Mont Nipur</zValue>
+			<zValue>Mont Tendurek</zValue>
+			<zValue>Mont Nemrut</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Muntanyes Sinjar</zValue>
+			<zValue>Muntanyes de Taure</zValue>
+			<zValue>Muntanyes Kackar</zValue>
+			<zValue>Muntanyes Cilo-Sat</zValue>
+			<zValue>Muntanyes de Zagros</zValue>
+			<zValue>Muntanyes Jabal Maqlub</zValue>
+			<zValue>Muntanyes d’Amanus</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Jabal Zambar</zValue>
+			<zValue>Mont Alfaf</zValue>
+			<zValue>Gir-e Kumar</zValue>
+			<zValue>Mont Abdulaziz</zValue>
+			<zValue>Jabal Abu Rujmayn</zValue>
+			<zValue>Muntanya Zawiya</zValue>
+			<zValue>Jabal Musa</zValue>
+			<zValue>Jabal ar Ruwaq</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>Riu Eufrates</zValue>
+			<zValue>Riu Tigris</zValue>
+			<zValue>Gran riu Zab</zValue>
+			<zValue>Petit riu Zab</zValue>
+			<zValue>Nahr Al Uzaym</zValue>
+			<zValue>Wadi Ath Tharthar</zValue>
+			<zValue>Riu Rubar Atrus</zValue>
+			<zValue>Riu Hosr</zValue>
+			<zValue>Riu Tublias</zValue>
+			<zValue>Riu Diyala</zValue>
+			<zValue>Riu Khabur</zValue>
+			<zValue>Riu Orontes</zValue>
+			<zValue>Riu Hazir</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Bosc de pins de Bassit</zValue>
+			<zValue>Bosc d’alzines de Baer</zValue>
+			<zValue>Bosc de pins turcs</zValue>
+			<zValue>Bosc d’Akkar</zValue>
+			<zValue>Bosc de Taure</zValue>
+			<zValue>Bosc de Hermel</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Boscos Kurd-Dagh</zValue>
+			<zValue>Bosc de Hermel</zValue>
+			<zValue>Bosc de Matolls Dennieh</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Plana de Nínive</zValue>
+			<zValue>Plana d’Urmia</zValue>
+			<zValue>Plana Sinjar</zValue>
+			<zValue>Plana de Qu'e</zValue>
+			<zValue>Plana Harir</zValue>
+			<zValue>Plana Dohan</zValue>
+			<zValue>Plana Alqos</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Desert de Síria</zValue>
+			<zValue>Desert de Karakum</zValue>
+			<zValue>Desert Àrab</zValue>
+			<zValue>Desert de Babilònia</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Altiplà anatòlic</zValue>
+			<zValue>Altiplà d’Aribi</zValue>
+			<zValue>Alts del Golan</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Vall de Munzur</zValue>
+			<zValue>Vall de Diyala</zValue>
+			<zValue>Vall de Beqaa</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Oceà Índic</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Mar Negre</zValue>
+			<zValue>Mar Mediterrani</zValue>
+			<zValue>Mar Roig</zValue>
+			<zValue>Mar Caspi</zValue>
+			<zValue>Mar Amarg</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Badia de Turkmenbashi</zValue>
+			<zValue>Golf de Tahanroz'ka</zValue>
+			<zValue>Golf d’Aqaba</zValue>
+			<zValue>Golf d'Aden</zValue>
+			<zValue>Golf de Marratu</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Llac Tharthar</zValue>
+			<zValue>Llac Habbaniyah</zValue>
+			<zValue>Van Golu</zValue>
+			<zValue>Hazar Golu</zValue>
+			<zValue>Llac Hamrin</zValue>
+			<zValue>Llac Urmia</zValue>
+			<zValue>Llac Sevan</zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue>Xipre</zValue>
+			<zValue>Marmara Adasi</zValue>
+			<zValue>Illa de Lesvos</zValue>
+			<zValue>Illa de Kefken</zValue>
+			<zValue>Illa de Samos</zValue>
+			<zValue>Illa Oreke</zValue>
+			<zValue>Anat</zValue>
+			<zValue>Illa Tilmun</zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_BABYLONIA</zType>
+		<azVolcanoNames>
+			<zValue>Mont Hasan</zValue>
+			<zValue>Mont Erciyes</zValue>
+			<zValue>Monte Nemrut</zValue>
+			<zValue>Monte Tendurek</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Muntanyes Hamrin</zValue>
+			<zValue>Muntanyes de Qandil</zValue>
+			<zValue>Muntanyes de Zagros</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Muntanya Qamar</zValue>
+			<zValue>Jabal Birah Magrun</zValue>
+			<zValue>Cheekha Dar</zValue>
+			<zValue>Mont Korek</zValue>
+			<zValue>Jabal Sanam</zValue>
+			<zValue>Kuhe Haji Ebrahim</zValue>
+			<zValue>Al Matla</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>Riu Tigris</zValue>
+			<zValue>Riu Eufrates</zValue>
+			<zValue>Riu Coron</zValue>
+			<zValue>Nahr Al Diyala</zValue>
+			<zValue>Petit riu Zab</zValue>
+			<zValue>Gran riu Zab</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Bosc d’alzines de Ninevah</zValue>
+			<zValue>Bosc de pins de Bassit</zValue>
+			<zValue>Bosc d’alzines de Baer</zValue>
+			<zValue>Bosc de pins turcs</zValue>
+			<zValue>Bosc d’Akkar</zValue>
+			<zValue>Bosc de Taure</zValue>
+			<zValue>Bosc de Hermel</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Bosc de matolls d'Akhrash</zValue>
+			<zValue>Boscos Kurd-Dagh</zValue>
+			<zValue>Bosc d'Hermel</zValue>
+			<zValue>Bosc de matolls de Dennieh</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Plana de Caldea</zValue>
+			<zValue>Plana d'Edin</zValue>
+			<zValue>Plana de Nínive</zValue>
+			<zValue>Plana d’Urmia</zValue>
+			<zValue>Plana Sinjar</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Desert de Síria</zValue>
+			<zValue>Desert de Karakum</zValue>
+			<zValue>Desert àrab</zValue>
+			<zValue>Desert de Babilònia</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Altiplà de Susiana</zValue>
+			<zValue>Altiplà persa</zValue>
+			<zValue>Altiplà d’Aribi</zValue>
+			<zValue>Alts del Golan</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Vall de l’Eufrates</zValue>
+			<zValue>Vall de Diyala</zValue>
+			<zValue>Vall de Beqaa</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Oceà Índic</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Mar d’Aràbia</zValue>
+			<zValue>Mar Caspi</zValue>
+			<zValue>Mar Negre</zValue>
+			<zValue>Mar Mediterrani</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Golf Pèrsic</zValue>
+			<zValue>Golf d’Aqaba</zValue>
+			<zValue>Golf d'Oman</zValue>
+			<zValue>Golf d'Aden</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Llac Hamrin</zValue>
+			<zValue>Llac Darbandikhan</zValue>
+			<zValue>Llac Dukan</zValue>
+			<zValue>Llac Razazza</zValue>
+			<zValue>Llac Urmia</zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue>Illa Warbah</zValue>
+			<zValue>Illa de Bubiyan</zValue>
+			<zValue>Illa Failaka</zValue>
+			<zValue>Bahrain</zValue>
+			<zValue>Illa Miskan</zValue>
+			<zValue>Illa Karuh</zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_CARTHAGE</zType>
+		<azVolcanoNames>
+			<zValue>Waw an Namus</zValue>
+			<zValue>Emi Koussi</zValue>
+			<zValue>Mont Camerun</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Muntanyes d’Aures</zValue>
+			<zValue>Muntanyes de l’Atles</zValue>
+			<zValue>Muntanyes Mogod</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Jebel Boukornine</zValue>
+			<zValue>Jebel Ressas</zValue>
+			<zValue>Jebel Serj</zValue>
+			<zValue>Jebel ech Chambi</zValue>
+			<zValue>Jebel Orbata</zValue>
+			<zValue>Jebel Dahar</zValue>
+			<zValue>Tembaine</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>Oued Meliane</zValue>
+			<zValue>Oued Medjerda</zValue>
+			<zValue>Oued Zeroud</zValue>
+			<zValue>Oued Sejenane</zValue>
+			<zValue>Oued El Melah</zValue>
+			<zValue>Oued Nebhana</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Bosc d'alzines sureres</zValue>
+			<zValue>Bosc Remel</zValue>
+			<zValue>Bosc de Nebeur</zValue>
+			<zValue>Bosc de Kesra</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Boscos d’Alzinar</zValue>
+			<zValue>Boscos de Berberia de Thuya</zValue>
+			<zValue>Bosc de pins i ginebre Xeric</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Plana de Bagradas</zValue>
+			<zValue>Plana de Zama</zValue>
+			<zValue>Plana del Sahel</zValue>
+			<zValue>Plana de Gefara</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Desert del Sàhara</zValue>
+			<zValue>Desert de Tabernas</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Altiplà Nefusa</zValue>
+			<zValue>Altiplà del Hamra</zValue>
+			<zValue>Altiplà d'Hautes</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Vall de Majardah</zValue>
+			<zValue>Vall de Mides</zValue>
+			<zValue>Vall de Medjerda</zValue>
+			<zValue>Vall de Melah</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Oceà Atlantic</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Mar Mediterrani</zValue>
+			<zValue>Mar d’Alboran</zValue>
+			<zValue>Mar Balear</zValue>
+			<zValue>Mar Tirreno</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Golf de Tunis</zValue>
+			<zValue>Golf de Hammamet</zValue>
+			<zValue>Golf de Gabes</zValue>
+			<zValue>Golf de Bejaia</zValue>
+			<zValue>Badia d'Alger</zValue>
+			<zValue>Golf d’Arzew</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Llac de Tunis</zValue>
+			<zValue>Llac Bizerte</zValue>
+			<zValue>Llac Ichkeul</zValue>
+			<zValue>Llac de Fetzara</zValue>
+			<zValue>Llac Oubeira</zValue>
+			<zValue>Llac Mellah</zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue>Illa de Malta</zValue>
+			<zValue>Pantelleria</zValue>
+			<zValue>Illa Sharqi</zValue>
+			<zValue>Illa de Palma</zValue>
+			<zValue>Illa Ponza</zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_EGYPT</zType>
+		<azVolcanoNames>
+			<zValue>Wonchi</zValue>
+			<zValue>Dendi</zValue>
+			<zValue>Ayalu</zValue>
+			<zValue>Kone</zValue>
+			<zValue>Mont Zuqualla</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue>Muntanyes Marrah</zValue>
+			<zValue>Muntanyes Simien</zValue>
+			<zValue>Muntanyes de Nuba</zValue>
+			<zValue>Muntanyes d’Atbay</zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Jabal Musa</zValue>
+			<zValue>Al-Qurn</zValue>
+			<zValue>Mokattam</zValue>
+			<zValue>Shaiyb al-Banat</zValue>
+			<zValue>Gabal Tingar</zValue>
+			<zValue>Mont Edmonstone</zValue>
+			<zValue>Jabal Sufr al Milahah</zValue>
+			<zValue>Muntanyes de Cristall</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue>El Nil</zValue>
+			<zValue>Nil Blanc</zValue>
+			<zValue>Nil Blau</zValue>
+			<zValue>Riu Sobat</zValue>
+			<zValue>Riu Atbara</zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue>Wadi El Rayan</zValue>
+			<zValue>Bosc de cedres fenicis</zValue>
+			<zValue>Bosc d’avets fenicis</zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Bosc Kafa-Yayu</zValue>
+			<zValue>Hamata Mangroves</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue>Plana Sudd</zValue>
+			<zValue>Delta del Nil</zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Desert del Sàhara</zValue>
+			<zValue>Desert del Sinaí</zValue>
+			<zValue>Desert d’Eritrea</zValue>
+			<zValue>Desert Blanc</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue>Altiplà Gefir Kebir</zValue>
+			<zValue>Altiplà El Mokattam</zValue>
+			<zValue>Altiplà libi</zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue>Vall del Nil</zValue>
+			<zValue>Vall Ta sekhet Maat</zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue>Oceà Índic</zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue>Mar Roig</zValue>
+			<zValue>Mar Mediterrani</zValue>
+			<zValue>Mar d’Aràbia</zValue>
+			<zValue>Mar Egeu</zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue>Golf de Suez</zValue>
+			<zValue>Golf d’Aqaba</zValue>
+			<zValue>Golf d'Aden</zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue>Llac Karun</zValue>
+			<zValue>Llacs Toshka</zValue>
+			<zValue>Gran Llac Amarg</zValue>
+			<zValue> Llac Burullus </zValue>
+			<zValue> Llac Bardawil </zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue> Illa de Tiran </zValue>
+			<zValue> Illa Sanafir </zValue>
+			<zValue> Illa Farasan </zValue>
+			<zValue> Xipre </zValue>
+			<zValue> Creta </zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_GREECE</zType>
+		<azVolcanoNames>
+			<zValue>Oros</zValue>
+			<zValue>Methana</zValue>
+			<zValue>Milos</zValue>
+			<zValue>Thera</zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue> Muntanyes de Pindos </zValue>
+			<zValue> Muntanyes de Taygetos </zValue>
+			<zValue> Lefka Ori </zValue>
+			<zValue> Muntanyes Rodope </zValue>
+			<zValue> Muntanyes Pierianes </zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue> Muntanya Pentelikon </zValue>
+			<zValue> Mont Parnon </zValue>
+			<zValue> Mont Olympos </zValue>
+			<zValue> Mont Helicon </zValue>
+			<zValue> Mont Aroania </zValue>
+			<zValue> Mont Cyllene </zValue>
+			<zValue> Mont Varnous </zValue>
+			<zValue> Mont Erymanthos </zValue>
+			<zValue> Muntanya Othrys </zValue>
+			<zValue> Mont Ida </zValue>
+			<zValue> Mont Athos </zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue> Riu Haliacmon </zValue>
+			<zValue> Riu Evros </zValue>
+			<zValue> Riu Strymon </zValue>
+			<zValue> Riu Axios </zValue>
+			<zValue> Riu Achelous </zValue>
+			<zValue> Riu Pineios </zValue>
+			<zValue> Riu Hermos </zValue>
+			<zValue> Riu Aoös </zValue>
+			<zValue> Riu Nestos </zValue>
+			<zValue> Riu Thyamis </zValue>
+			<zValue> Riu Cephissos </zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue> Bosc de Dadia </zValue>
+			<zValue> Roureda de Foloi </zValue>
+			<zValue> Bosc de Skiritida </zValue>
+			<zValue> Bosc d'Aianteio </zValue>
+			<zValue> Bosc Chaintous </zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Peloponnesian Maquis</zValue>
+			<zValue>Bosc Vai Palm</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue> Plana Drama </zValue>
+			<zValue> Plana de Messara </zValue>
+			<zValue> Argó Pedió </zValue>
+			<zValue> Plana de Kydonia </zValue>
+			<zValue> Plana Lelantina </zValue>
+			<zValue> Plana de Tessàlia </zValue>
+			<zValue> Plana beòtica </zValue>
+			<zValue> Pelagonia </zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue>Sorres Deliblato</zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue> Altiplà de Lasithi </zValue>
+			<zValue> Altiplà d’Omalos </zValue>
+			<zValue> Altiplà de Nidha </zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue> Vale of Tempe </zValue>
+			<zValue> Vall de Spercheios </zValue>
+			<zValue> Vall d'Amari </zValue>
+			<zValue> Vall de Drino </zValue>
+		</azValleyNames>
+		<azSeaNames>
+			<zValue> Mar Egeu </zValue>
+			<zValue> Mar Icarià </zValue>
+			<zValue> Myrtoan Sea </zValue>
+			<zValue> Mar de Creta </zValue>
+			<zValue> Mar de Tràcia </zValue>
+			<zValue> Mar Jònic </zValue>
+			<zValue> Mar Negre </zValue>
+			<zValue> Mar de Màrmara </zValue>
+			<zValue> Livikon Pelagos </zValue>
+			<zValue> Mar dels Carpats </zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue> Golf de Corint </zValue>
+			<zValue> Golf de Lacònia </zValue>
+			<zValue> Golf Argòlic </zValue>
+			<zValue> Golf Sarònic </zValue>
+			<zValue> Golf Thermaic </zValue>
+			<zValue> Golf d’Eubea </zValue>
+			<zValue> Golf Pagasetic </zValue>
+			<zValue> Golf Ambracià </zValue>
+			<zValue> Golf Messini </zValue>
+			<zValue> Golf de Megara </zValue>
+			<zValue> Golf de Mali </zValue>
+			<zValue> Golf d'Alkyonides </zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue> Llac Hylike </zValue>
+			<zValue> Llac Trephia </zValue>
+			<zValue> Llac Trichonis </zValue>
+			<zValue> Llac Brygeis </zValue>
+			<zValue> Llac Bolbe </zValue>
+			<zValue> Llac Pamvotis </zValue>
+			<zValue> Llac Koroneia </zValue>
+			<zValue> Llac Estilfàlia </zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue> Creta </zValue>
+			<zValue> Rodes </zValue>
+			<zValue> Xipre </zValue>
+			<zValue> Illa de Delos </zValue>
+			<zValue> Illa Egina </zValue>
+			<zValue> Illa de Naxos </zValue>
+			<zValue> Illa de Samos </zValue>
+			<zValue> Illa de Lesvos </zValue>
+			<zValue> Illa de Limnos </zValue>
+			<zValue> Illa de Kos </zValue>
+			<zValue> Illa Andros </zValue>
+			<zValue> Illa de Sifnos </zValue>
+			<zValue> Illa Serifos </zValue>
+			<zValue> Eubea </zValue>
+			<zValue> Illa Skyros </zValue>
+			<zValue> Illa Skiathos </zValue>
+			<zValue> Illa Skopelos </zValue>
+			<zValue> Illa de Kythnos </zValue>
+			<zValue> Illa de Milos </zValue>
+			<zValue> Illa Kea </zValue>
+			<zValue> Illa Ios </zValue>
+			<zValue> Illa Icaria </zValue>
+			<zValue> Illa Salamis </zValue>
+			<zValue> Illa Ithaki </zValue>
+			<zValue> Illa de Zakynthos </zValue>
+			<zValue> Illa de Thasos </zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_PERSIA</zType>
+		<azVolcanoNames>
+			<zValue> Mont Damavand </zValue>
+			<zValue> Sabalan </zValue>
+			<zValue> Taftan </zValue>
+			<zValue> Sahand </zValue>
+			<zValue> Bazman </zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue> Muntanyes de Zagros </zValue>
+			<zValue> Muntanyes d'Elburz </zValue>
+			<zValue> Muntanyes de Qaflankuh </zValue>
+			<zValue> Muntanyes Bashagard </zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue>Shir Kuh</zValue>
+			<zValue>Mont Dena</zValue>
+			<zValue>Zard Kuh</zValue>
+			<zValue>Tash Kuh</zValue>
+			<zValue>Alvand</zValue>
+			<zValue>Sialan</zValue>
+			<zValue>Kabir Kuh</zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue> Riu Aras </zValue>
+			<zValue> Riu Karun </zValue>
+			<zValue> Riu Karkheh </zValue>
+			<zValue> Riu Atrek </zValue>
+			<zValue> Riu Sefid-Rud </zValue>
+			<zValue> Riu Zayanderud </zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue> Estepa forestal de la cordillera de Elburz </zValue>
+			<zValue> Bosc d'Hircà del Caspi </zValue>
+			<zValue> Bosc de Nur </zValue>
+			<zValue> Bosc de Sorkheh Hesar </zValue>
+			<zValue> Bosc de Sohanak </zValue>
+			<zValue> Bosc de Barajin </zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue>Mangrove Forest of Qeshm</zValue>
+			<zValue>Bosc mixt del Caucas</zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue> Plana Avarayr </zValue>
+			<zValue> Plana de Gorgan </zValue>
+			<zValue> Plana de Khuzestan </zValue>
+			<zValue> Plana Nisaean </zValue>
+			<zValue> Plana Urmia </zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue> Gran desert de sal </zValue>
+			<zValue> Desert del botí </zValue>
+			<zValue> Desert de Maranjab </zValue>
+			<zValue> Desert de Polond </zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue> Altiplà de Kalat-e Naderi </zValue>
+			<zValue> Altiplà persa </zValue>
+			<zValue> Altiplà de Hazaran </zValue>
+			<zValue> Altiplà de Jebal Barez </zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue> Vall Estalah-kaftah </zValue>
+			<zValue> Vall de Kool Kherson </zValue>
+			<zValue> Vall d’Alamut </zValue>
+			<zValue> Vall de Lar </zValue>
+			<zValue> Vall de Shamkhal </zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue> Oceà Índic </zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue> Mar Caspi </zValue>
+			<zValue> Mar d'Aràbia </zValue>
+			<zValue> Mar Roig </zValue>
+			<zValue> Mar Negre </zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue> Golf Pèrsic </zValue>
+			<zValue> Golf d'Oman </zValue>
+			<zValue> Golf Gorgan </zValue>
+			<zValue> Golf Turkmenbashi </zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue> Llac Maharloo </zValue>
+			<zValue> Llac Taixk </zValue>
+			<zValue> Llac Bakhtegan </zValue>
+			<zValue> Llac Namak </zValue>
+			<zValue> Llac Urmia </zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue> Illa Qeshm </zValue>
+			<zValue> Illa Lavan </zValue>
+			<zValue> Illa Kish </zValue>
+			<zValue> Illa Hendorabi </zValue>
+			<zValue> Illa Larak </zValue>
+			<zValue> Illa Hormuz </zValue>
+		</azIslandNames>
+	</Entry>
+	<Entry>
+		<zType>MAP_ELEMENT_NAMES_FOR_ROME</zType>
+		<azVolcanoNames>
+			<zValue> Mont Vesuvi </zValue>
+			<zValue> Mont Etna </zValue>
+			<zValue> Colli Albani </zValue>
+			<zValue> Monte Vulture </zValue>
+			<zValue> Monte Amiata </zValue>
+		</azVolcanoNames>
+		<azMountainRangeNames>
+			<zValue> Muntanyes Apenins </zValue>
+			<zValue> Els Alps </zValue>
+			<zValue> Muntanyes de Nebrodi </zValue>
+			<zValue> Muntanyes Dinarides </zValue>
+		</azMountainRangeNames>
+		<azPeakNames>
+			<zValue> Mont Velho </zValue>
+			<zValue> Mont Corno </zValue>
+			<zValue> Mont Amaro </zValue>
+			<zValue> Mont Vettore </zValue>
+			<zValue> Mont Cimone </zValue>
+			<zValue> Mont Pollino </zValue>
+			<zValue> Mont Alto </zValue>
+		</azPeakNames>
+		<azRiverNames>
+			<zValue> Riu Tíber </zValue>
+			<zValue> Riu Po </zValue>
+			<zValue> Riu Adige </zValue>
+			<zValue> Riu Arno </zValue>
+			<zValue> Riu Piave </zValue>
+			<zValue> Riu Alcantara </zValue>
+			<zValue> Riu Salso </zValue>
+			<zValue> Riu Triso </zValue>
+		</azRiverNames>
+		<azForestNames>
+			<zValue> Bosc de Ciminian </zValue>
+			<zValue> Bosc de Cansiglio </zValue>
+			<zValue> Bosc d'Arsian </zValue>
+			<zValue> Bosc de Pollino </zValue>
+			<zValue> Bosc de Casentinesi </zValue>
+		</azForestNames>
+		<azHeathNames>
+			<zValue> Bosc d'Arbustos de Macchia </zValue>
+			<zValue> Bosc del delta de l’Ebre </zValue>
+		</azHeathNames>
+		<azPlainNames>
+			<zValue> Po Plain </zValue>
+			<zValue> Plana de Catània </zValue>
+			<zValue> Campidano Plain </zValue>
+			<zValue> Pla de Padan </zValue>
+			<zValue> Plana del Piemont </zValue>
+		</azPlainNames>
+		<azDesertNames>
+			<zValue> Desert de Tabernas </zValue>
+			<zValue> Desert d'Accona </zValue>
+		</azDesertNames>
+		<azPlateauNames>
+			<zValue> Altiplà d'Argimusco </zValue>
+			<zValue> Altiplà delle Murge </zValue>
+			<zValue> Altiplà càrstic </zValue>
+			<zValue> Altiplà de la Sila </zValue>
+			<zValue> Altiplà de Campo Imperatore </zValue>
+		</azPlateauNames>
+		<azValleyNames>
+			<zValue> Vall del Po </zValue>
+			<zValue> Vall d'Itria </zValue>
+			<zValue> Vall del Laci </zValue>
+			<zValue> Vall Del Belice </zValue>
+			<zValue> Vall de Piscinamanna </zValue>
+		</azValleyNames>
+		<azOceanNames>
+			<zValue> Oceà Atlàntic </zValue>
+		</azOceanNames>
+		<azSeaNames>
+			<zValue> Mar Tirreno </zValue>
+			<zValue> Mar Adriàtic </zValue>
+			<zValue> Mar Jònic </zValue>
+			<zValue> Mar de Ligúria </zValue>
+			<zValue> Mar Mediterrani </zValue>
+		</azSeaNames>
+		<azBayNames>
+			<zValue> Golf de Nàpols </zValue>
+			<zValue> Golf de Trieste </zValue>
+			<zValue> Golf de Manfredonia </zValue>
+			<zValue> Llacuna de Marano </zValue>
+			<zValue> Llacuna Veneciana </zValue>
+			<zValue> Rada di Alghero </zValue>
+		</azBayNames>
+		<azLakeNames>
+			<zValue> Lago di Bracciano </zValue>
+			<zValue> Lago di Vico </zValue>
+			<zValue> Lago di Bolsena </zValue>
+			<zValue> Lago Trasimeno </zValue>
+			<zValue> Lago di San Giuliano </zValue>
+			<zValue> Lago di Lentini </zValue>
+			<zValue> Lago di Mulargia </zValue>
+		</azLakeNames>
+		<azIslandNames>
+			<zValue> Sicília </zValue>
+			<zValue> Sardenya </zValue>
+			<zValue> Illa Eòlia </zValue>
+			<zValue> Còrsega </zValue>
+			<zValue> Illa d'Elba </zValue>
+			<zValue> Arcipelago Toscano </zValue>
+		</azIslandNames>
+	</Entry>
+</Root>

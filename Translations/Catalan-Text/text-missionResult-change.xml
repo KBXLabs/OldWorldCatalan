@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_HUMAN_DESCRIPTION</zType>
+		<Translation>Has enviat un emisari per a una proposta d'link(CONCEPT_ALLIANCE_PLAYER).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_HUMAN_DESCRIPTION</zType>
+		<Translation>Has enviat un emisari per a una proposta de link(DIPLOMACY_PEACE).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_HUMAN_DESCRIPTION</zType>
+		<Translation>Has enviat un emisari per a una proposta de link(DIPLOMACY_TRUCE).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RALLY_TROOPS_DESCRIPTION</zType>
+		<Translation>Has reunit als militars i ha augmentat la moral i la disciplina.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFLUENCE_DESCRIPTION</zType>
+		<Translation>Has exercit amb èxit la teva influència sobre {CHARACTER-TARGET}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} s'ha infiltrat amb èxit al territori rival.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} s'ha infiltrat amb èxit al territori rival, però s'ha exposat durant el procés.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha difamat amb èxit al teu oponent.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha difamat amb èxit al teu oponent, però s'ha exposat durant el procés.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha robat amb èxit la investigació del teu oponent.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha robat amb èxit la investigació del teu oponent, però s'ha exposat durant el procés.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
+		<Translation>Has assassinat amb èxit a {CHARACTER-TARGET} i sembla que ningú sospita res...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
+		<Translation>Els teus assassins han eliminat amb èxit a {CHARACTER-TARGET}, però hi ha evidències que condueixen a tu.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
+		<Translation>Els teus assassins han fallat en l'intent d'eliminar a {CHARACTER-TARGET}. Però encara pitjor, ja que la teva innoble intenció ha quedat patent.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha debilitat amb èxit les defenses de la ciutat.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_FAILURE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} no ha pogut debilitar les defenses de la ciutat.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INSURRECTION_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha iniciat amb èxit una rebel·lió local.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INSURRECTION_FAILURE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} no ha pogut iniciar una rebel·lió local.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
+		<Translation>La família vasalla aprecia els regals que el teu link(COUNCIL_CHANCELLOR) {CHARACTER-SUBJECT} els hi ha donat de la teva part.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
+		<Translation>a família vasalla aprecia els regals que el teu {CHARACTER-SUBJECT} els hi ha donat, però els demés veuen aquest gest com un signe de debilitat.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha escoltat les queixes dels governants de la ciutat i ha reduit la link(YIELD_DISCONTENT).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha escoltat les queixes dels governants de la ciutat i ha reduit la link(YIELD_DISCONTENT), però això ha debilitat la teva reputació.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-TARGET} ha sigut <masculine_CHARACTER-SUBJECT>empresonat<feminine>empresonada<end> per càrrec que generalment es consideren justos.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-TARGET} ha sigut <masculine_CHARACTER-SUBJECT>empresonat<feminine>empresonada<end> per càrrecs descaradament falsos. Alguns t'acusen de tirania.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-TARGET} ha escapat de l'arrest i ara està fugint!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-SUBJECT} ha sigut <masculine_CHARACTER-SUBJECT>alliberat<feminine>alliberada<end> de la presó. <masculine_CHARACTER-SUBJECT>Agraït<feminine>Agraïda<end> per ser lliure novament, ha perdonat els teus desaires passats contra <masculine_CHARACTER-SUBJECT>ell<feminine>ella<end>.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-SUBJECT} ha sigut <masculine_CHARACTER-SUBJECT>alliberat<feminine>alliberada<end> de la presó, però segueix tenint un amarg resentiment contra teu per l'empresonament.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-SUBJECT} ha sigut <masculine_CHARACTER-SUBJECT>alliberat<feminine>alliberada<end> de la presó i no ha tingut reserves en quixar-se sobre el seu injust empresonament.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
+		<Translation>Els teus esforços per capturar a {CHARACTER-SUBJECT} han tingut èxit i s'ha rendit. Ara està en captivitat.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
+		<Translation><![CDATA[{CHARACTER-SUBJECT} s'ha negat a rendir-se a la partida que vas enviar per <masculine_CHARACTER-SUBJECT>capturar-lo<feminine>capturar-la<end> i ha decidit morir abans que anar a la presó.]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha eludit als teus rastrejadors i ha escapat del país. Ara s'amaga en algún lloc fora del teu abast...</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PAY_RANSOM_DESCRIPTION</zType>
+		<Translation><![CDATA[Has pagat el recat de {CHARACTER-SUBJECT} i has assegurat el seu alliberament!]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
+		<Translation>Bones noticies: {CHARACTER-TARGET} ha acceptat la teva proposta de matrimoni. Enhorabona!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-TARGET} ha acceptat el teu acord de divorci.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_WISDOM_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha instruit a {CHARACTER-TARGET}, millorant la seva link(RATING_WISDOM).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_CHARISMA_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha instruit a {CHARACTER-TARGET}, millorant la seva link(RATING_CHARISMA).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_COURAGE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha instruit a {CHARACTER-TARGET}, millorant el seu link(RATING_COURAGE).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_DISCIPLINE_DESCRIPTION</zType>
+		<Translation>{CHARACTER-SUBJECT} ha instruit a {CHARACTER-TARGET}, millorant la seva link(RATING_DISCIPLINE).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_EVENT_DESCRIPTION</zType>
+		<Translation>La missió de {CHARACTER-SUBJECT} ha provocat nous events...</Translation>
+	</Entry>
+	<!--Result Name-->
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
+		<Translation>link(COUNCIL_AMBASSADOR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
+		<Translation>link(COUNCIL_CHANCELLOR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
+		<Translation>link(COUNCIL_SPYMASTER)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_EVENT</zType>
+		<Translation>Event d'link(CONCEPT_ALLIANCE_PLAYER)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_HUMAN_EVENT</zType>
+		<Translation>Event de link(CONCEPT_ALLIANCE_PLAYER)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_OFFER_EVENT</zType>
+		<Translation>Oferiment de tributs per la link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_NO_EVENT</zType>
+		<Translation>Sol·licitut de link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_DEMAND_EVENT</zType>
+		<Translation>Demanda de tributs per la link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_HUMAN_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_OFFER_EVENT</zType>
+		<Translation>Oferiment de tributs per una link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_NO_EVENT</zType>
+		<Translation>Sol·licitut de link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_DEMAND_EVENT</zType>
+		<Translation>Demanda de tributs per una link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_HUMAN_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
+		<Translation>Declaració de link(DIPLOMACY_WAR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_HUMAN_EVENT</zType>
+		<Translation>Declaració de link(DIPLOMACY_WAR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
+		<Translation>Trencament de la link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
+		<Translation>Fi de l'alianza</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
+		<Translation>Cancel·lación dels tractes comercials</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_ALLIANCE_EVENT</zType>
+		<Translation>Event d'alianza</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_PEACE_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_TRUCE_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_TRUCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_DECLARE_WAR_EVENT</zType>
+		<Translation>Declaració de link(DIPLOMACY_WAR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_BREAK_PEACE_EVENT</zType>
+		<Translation>Trencament de la link(DIPLOMACY_PEACE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_END_ALLIANCE_EVENT</zType>
+		<Translation>Fi de l'alianza</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT_RELIGION_EVENT</zType>
+		<Translation>Adoptar religió</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_MARRIAGE_EVENT</zType>
+		<Translation>Matrimoni extranger</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_MARRIAGE_EVENT</zType>
+		<Translation>Matrimoni tribal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
+		<Translation>Matrimoni familiar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RALLY_TROOPS</zType>
+		<Translation>Tropes reunides</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RALLY_TROOPS_EVENT</zType>
+		<Translation>Evento de concentración de tropas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ABDICATE</zType>
+		<Translation>Abdicació</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFLUENCE</zType>
+		<Translation>Influència exercida</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFLUENCE_EVENT</zType>
+		<Translation>Event d'influència</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT</zType>
+		<Translation>Adopció</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT_EVENT</zType>
+		<Translation>Event d'adopción</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
+		<Translation>Legitimizació</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LEGITIMIZE_EVENT</zType>
+		<Translation>Event de legitimizació</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
+		<Translation>Hereu escullit</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR_EVENT</zType>
+		<Translation>Event d'elecció de l'hereu</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
+		<Translation>Infiltració territorial</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED</zType>
+		<Translation>Infiltració territorial, esforç exposat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT</zType>
+		<Translation>Event d'infiltració</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS</zType>
+		<Translation>Difusió de la calumnia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
+		<Translation>Difusió de difamació, esforç exposat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SLANDER_EVENT</zType>
+		<Translation>Event de calumnia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS</zType>
+		<Translation>Investigació robada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED</zType>
+		<Translation>Investigació robada, esforç exposat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_EVENT</zType>
+		<Translation>Event de robatori d'investigación</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
+		<Translation>Objetiu assassinat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
+		<Translation>Objetiu mort, trama exposada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
+		<Translation>El objetivo sobrevive, trama expuesta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
+		<Translation>Event d'assassinat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_SUCCESS</zType>
+		<Translation>La traició triomfa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_FAILURE</zType>
+		<Translation>La traició fracasa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TREACHERY_EVENT</zType>
+		<Translation>Event de traició</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INSURRECTION_SUCCESS</zType>
+		<Translation>La insurrecció triomfa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INSURRECTION_FAILURE</zType>
+		<Translation>La insurrecció fracasa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INSURRECTION_EVENT</zType>
+		<Translation>Event d'insurrecció</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
+		<Translation>Event de missió comercial</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
+		<Translation>Els regals complauen a la família</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
+		<Translation>Els regals exposes les nostres debilitats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
+		<Translation>Event de regal familiar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS</zType>
+		<Translation>Pacificació exitosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN</zType>
+		<Translation>La pacificació exposa les nostres debilitats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PACIFY_CITY_EVENT</zType>
+		<Translation>Event de pacificación de la ciudad</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
+		<Translation>Objetiu link(TRAIT_IMPRISONED) justament</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
+		<Translation>Objetiu link(TRAIT_IMPRISONED) injustament</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
+		<Translation>L'objetiu s'escapa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_EVENT</zType>
+		<Translation>Event d'empresonament</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
+		<Translation>L'objetiu està agraït</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
+		<Translation>L'objetiu segueix amargat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
+		<Translation>Alliberament considerat injust</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
+		<Translation>L'objetiu es rendeix</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
+		<Translation>Objetiu mort per resistir-se a la captura</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
+		<Translation>L'objetiu fuig del país</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PAY_RANSOM</zType>
+		<Translation>Rescat pagat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
+		<Translation>Matrimoni</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE</zType>
+		<Translation>Divorci</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_EVENT</zType>
+		<Translation>Event de divorci</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_WISDOM</zType>
+		<Translation>Millorar la Saviesa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_CHARISMA</zType>
+		<Translation>Millorar el Carisma</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_COURAGE</zType>
+		<Translation>Millorar el Coratge</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_DISCIPLINE</zType>
+		<Translation>Millorar la Disciplina</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TUTOR_EVENT</zType>
+		<Translation>Event de tutor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRIBE_PLAYER_WAR_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_WAR): Bàrbars contra Jugador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRIBE_WAR_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_WAR): Jugador contra Bàrbars</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
+		<Translation>Event de link(DIPLOMACY_WAR): Jugador contra Jugador</Translation>
+	</Entry>
+</Root>

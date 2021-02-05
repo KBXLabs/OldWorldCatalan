@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
 <Root>
 	<Entry>
 		<zType/>
@@ -86,6 +85,26 @@
 		<zName>Nisibis</zName>
 	</Entry>
 	<Entry>
+		<zType>CITYNAME_RESEN</zType>
+		<zName>Resen</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KAR_SULMANU_ASAREDU</zType>
+		<zName>Kar-Sulmanu-Asaredu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MALIDIYA</zType>
+		<zName>Malidiya</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HAMAT</zType>
+		<zName>Hamata</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_QADESH</zType>
+		<zName>Qadesh</zName>
+	</Entry>
+	<Entry>
 		<zType>CITYNAME_BABYLON</zType>
 		<zName>Babilònia</zName>
 	</Entry>
@@ -170,44 +189,12 @@
 		<zName>Cartago</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BYBLOS</zType>
-		<zName>Byblos</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TYRE</zType>
-		<zName>Tyre</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_SIDON</zType>
-		<zName>Sidon</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARWAD</zType>
-		<zName>Arwad</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_UTICA</zType>
 		<zName>Utica</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CADIZ</zType>
-		<zName>Cadiz</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_BERYTOS</zType>
-		<zName>Berytos</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_LEBNAN</zType>
-		<zName>Líban</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ADONIS</zType>
-		<zName>Adonis</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ISHTARA</zType>
-		<zName>Ishtara</zName>
+		<zName>Gadir</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HIPPO_REGIUS</zType>
@@ -266,10 +253,6 @@
 		<zName>Nora</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_KARTEIA</zType>
-		<zName>Karteia</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_SABRATA</zType>
 		<zName>Sabrata</zName>
 	</Entry>
@@ -278,12 +261,32 @@
 		<zName>Lixus</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BYRSA</zType>
-		<zName>Byrsa</zName>
+		<zType>CITYNAME_CARTHAGO_NOVA</zType>
+		<zName>Carthago Nova</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BAALBECK</zType>
-		<zName>Baalbeck</zName>
+		<zType>CITYNAME_MALACA</zType>
+		<zName>Malaca</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CARTENNA</zType>
+		<zName>Cartenna</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SALDAE</zType>
+		<zName>Saldae</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SICCA</zType>
+		<zName>Sicca</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THAENAE</zType>
+		<zName>Thaenae</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ARAE_PHILAENORUM</zType>
+		<zName>Arae Philaenorum</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_WASET</zType>
@@ -330,10 +333,6 @@
 		<zName>Avaris</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_GIZA</zType>
-		<zName>Giza</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_BUSIRIS</zType>
 		<zName>Busiris</zName>
 	</Entry>
@@ -354,44 +353,261 @@
 		<zName>Pelusium</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_ASWAN</zType>
-		<zName>Aswan</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_CAIRO</zType>
-		<zName>El Caire</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_DAMIETTA</zType>
-		<zName>Damietta</zName>
+		<zName>Tamiat</zName>
 	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHEM</zType>
+		<zName>Khem</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_YAMU</zType>
+		<zName>Yamu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHITO</zType>
+		<zName>Khito</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PTKHEKA</zType>
+		<zName>Ptkheka</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_WADJET</zType>
+		<zName>Per-Wadjet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHASUT</zType>
+		<zName>Khasut</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TIMINHOR</zType>
+		<zName>Timinhor</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PIEMRO</zType>
+		<zName>Piemro</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THONIS</zType>
+		<zName>Thonis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MENOUTHIS</zType>
+		<zName>Menouthis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PIKUAT</zType>
+		<zName>Pikuat</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_ATUM</zType>
+		<zName>Per-Atum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HUT_HERY_IB</zType>
+		<zName>Hut-hery-ib</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TAREMU</zType>
+		<zName>Taremu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SETENNU</zType>
+		<zName>Setennu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJEBNUTJER</zType>
+		<zName>Tjebnutjer</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PACHNAMUNIS</zType>
+		<zName>Pachnamunis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJARU</zType>
+		<zName>Tjaru</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_AMUN</zType>
+		<zName>Per-Amun</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_WEPREHWY</zType>
+		<zName>Weprehwy</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DJEDET</zType>
+		<zName>Djedet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SEMABEHDET</zType>
+		<zName>Semabehdet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_BAST</zType>
+		<zName>Per-Bast</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_SOPDU</zType>
+		<zName>Per-Sopdu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SWENETT</zType>
+		<zName>Swenett</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NUBT</zType>
+		<zName>Nubt</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BEHDET</zType>
+		<zName>Behdet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NEKHEB</zType>
+		<zName>Nekheb</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TE_SENET</zType>
+		<zName>Ta-senet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_HATHOR</zType>
+		<zName>Per-Hathor</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUNY</zType>
+		<zName>Iuny</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SUMENU</zType>
+		<zName>Sumenu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DJERTY</zType>
+		<zName>Djerty</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MADU</zType>
+		<zName>Madu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUSHENSHEN</zType>
+		<zName>Iushenshen</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GESY</zType>
+		<zName>Gesy</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GEBTU</zType>
+		<zName>Gebtu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SESHESH</zType>
+		<zName>Seshesh</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJENU</zType>
+		<zName>Tjenu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IPU</zType>
+		<zName>Ipu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HUT_REPYT</zType>
+		<zName>Hut-Repyt</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJEBU</zType>
+		<zName>Tjebu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SHASHOTEP</zType>
+		<zName>Shashotep</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_NEMTY</zType>
+		<zName>Per-Nemty</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ZAWTY</zType>
+		<zName>Zawty</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_QIS</zType>
+		<zName>Qis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHMUN</zType>
+		<zName>Khmun</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HERWER</zType>
+		<zName>Herwer</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HEBENU</zType>
+		<zName>Hebenu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MER_NEFER_ET</zType>
+		<zName>Mer-nefer-et</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SAKA</zType>
+		<zName>Saka</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TAYU_DJAYET</zType>
+		<zName>Tayu-djayet</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_MEDJED</zType>
+		<zName>Per-Medjed</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HENEN_NESUT</zType>
+		<zName>Henen-nesut</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TEPIHU</zType>
+		<zName>Tepihu</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CHENEM_WASET</zType>
+		<zName>Chenem-Waset</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IKEN</zType>
+		<zName>Iken</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BUHEN</zType>
+		<zName>Buhen</zName>
+	</Entry>
+
 	<Entry>
 		<zType>CITYNAME_ATHENS</zType>
-		<zName>Atenes</zName>
+		<zName>Athenai</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SPARTA</zType>
-		<zName>Esparta</zName>
+		<zName>Sparta</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CORINTH</zType>
-		<zName>Corint</zName>
+		<zName>Corinth</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THEBES</zType>
-		<zName>Tebes</zName>
+		<zName>Thebes</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARGOS</zType>
 		<zName>Argos</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ELIS</zType>
-		<zName>Elis</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_MESSENE</zType>
-		<zName>Messene</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ERETRIA</zType>
@@ -415,11 +631,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_EPHESUS</zType>
-		<zName>Efes</zName>
+		<zName>Ephesus</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CYRENE</zType>
-		<zName>Cirene</zName>
+		<zName>Cyrene</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HALICARNASSUS</zType>
@@ -427,51 +643,31 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERGAMON</zType>
-		<zName>Pèrgam</zName>
+		<zName>Pergamon</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYZANTIUM</zType>
-		<zName>Bizanci</zName>
+		<zName>Byzantium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THESSALONIKE</zType>
+		<zName>Thessalonike</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PELLA</zType>
 		<zName>Pella</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_THESSALONIKI</zType>
-		<zName>Thessaloniki</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_PATRAS</zType>
 		<zName>Patras</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_CYPRUS</zType>
-		<zName>Xipre</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ILLYRIA</zType>
-		<zName>Il·líria</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_CHAERONE</zType>
-		<zName>Chaerone</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_PHILIPPI</zType>
-		<zName>Filipus</zName>
+		<zName>Philippi</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_AMPHIPOLIS</zType>
-		<zName>Amfípolis</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_PYDNA</zType>
-		<zName>Pydna</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_METHONI</zType>
-		<zName>Methoni</zName>
+		<zName>Amphipolis</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_OLYNTHUS</zType>
@@ -482,36 +678,100 @@
 		<zName>Potidaea</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_MAGNESIA</zType>
-		<zName>Magnesia</zName>
+		<zType>CITYNAME_DION</zType>
+		<zName>Dion</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_THERMOPYLAE</zType>
-		<zName>Thermopylae</zName>
+		<zType>CITYNANE_CHALKIS</zType>
+		<zName>Chalkis</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_DELPHI</zType>
-		<zName>Delfos</zName>
+		<zType>CITYNANE_MYTILENE</zType>
+		<zName>Mytilene</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_RHODES</zType>
-		<zName>Rodes</zName>
+		<zType>CITYNANE_PYLOS</zType>
+		<zName>Pylos</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_AEGEA</zType>
-		<zName>Egeu</zName>
+		<zType>CITYNANE_GORTYN</zType>
+		<zName>Gortyn</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_DIUM</zType>
-		<zName>Dium</zName>
+		<zType>CITYNANE_CROTON</zType>
+		<zName>Croton</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_HEBRUS</zType>
-		<zName>Hèbrus</zName>
+		<zType>CITYNANE_RHEGION</zType>
+		<zName>Rhegion</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_EUBOEA</zType>
-		<zName>Eubea</zName>
+		<zType>CITYNANE_ALEXANDRIA</zType>
+		<zName>Alexandria</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IALYSUS</zType>
+		<zName>Ialysus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LINDOS</zType>
+		<zName>Lindos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KARYSTOS</zType>
+		<zName>Karystos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HERACLEA</zType>
+		<zName>Heraclea</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LYCTOS</zType>
+		<zName>Lyctos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_APOLLONIA</zType>
+		<zName>Apollonia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PHOCAEA</zType>
+		<zName>Phocaea</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MEGARA</zType>
+		<zName>Megara</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_EPIDAMNOS</zType>
+		<zName>Epidamnos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ATTALEIA</zType>
+		<zName>Attaleia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ASPALATHOS</zType>
+		<zName>Aspalathos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NICODMEDIA</zType>
+		<zName>Nicomedia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NICAEA</zType>
+		<zName>Nicaea</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TRAPEZUS</zType>
+		<zName>Trapezus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ANTIOCHEIA</zType>
+		<zName>Antiocheia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MASSALIA</zType>
+		<zName>Massalia</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERSEPOLIS</zType>
@@ -574,44 +834,72 @@
 		<zName>Shiraz</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_ISFAHAN</zType>
-		<zName>Isfahan</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_HAMADAN</zType>
-		<zName>Hamadan</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_KERMANSHAH</zType>
 		<zName>Kermanshah</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARDABIL</zType>
-		<zName>Ardabil</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TABRIZ</zType>
-		<zName>Tabriz</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PTERIA</zType>
 		<zName>Pteria</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_MEDEA</zType>
-		<zName>Medea</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_PERSIS</zType>
-		<zName>Persis</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_THYMBRA</zType>
-		<zName>Timbra</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_HYRBA</zType>
 		<zName>Hyrba</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CYRESCHATE</zType>
+		<zName>Cyreschate</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ORTOSPANA</zType>
+		<zName>Ortospana</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PAHRAH</zType>
+		<zName>Pahrah</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PROPHTHASIA</zType>
+		<zName>Prophthasia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ARTACOANA</zType>
+		<zName>Artacoana</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TUS</zType>
+		<zName>Tus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ZADRACARTA</zType>
+		<zName>Zadracarta</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SADDARVAZEH</zType>
+		<zName>Saddarvazeh</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_RHAGES</zType>
+		<zName>Rhages</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GABAE</zType>
+		<zName>Gabae</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_YAZD</zType>
+		<zName>Yazd</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CARMANIA</zType>
+		<zName>Carmania</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HORMIRZAD</zType>
+		<zName>Hormirzad</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TEREDON</zType>
+		<zName>Teredon</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ROMA</zType>
@@ -619,27 +907,15 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ANTIUM</zType>
-		<zName>Antinm</zName>
+		<zName>Antium</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_OSTIA</zType>
 		<zName>Ostia</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BENEVENTUM</zType>
-		<zName>Benevent</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARRETIUM</zType>
-		<zName>Arretium</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_CAPUA</zType>
 		<zName>Capua</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_BRUNDISIUM</zType>
-		<zName>Brundisium</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NEAPOLIS</zType>
@@ -666,24 +942,12 @@
 		<zName>Salernum</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_TUSCULUM</zType>
-		<zName>Tusculum</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_AQUILEIA</zType>
 		<zName>Aquileia</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_CIRCEII</zType>
-		<zName>Circeii</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_BONONIA</zType>
 		<zName>Bononia</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TICINUM</zType>
-		<zName>Ticinum</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CUMAE</zType>
@@ -692,5 +956,225 @@
 	<Entry>
 		<zType>CITYNAME_FLORENTIA</zType>
 		<zName>Florentia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BERYTUS</zType>
+		<zName>Berytus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SERDICA</zType>
+		<zName>Serdica</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CELEIA</zType>
+		<zName>Celeia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BELUM</zType>
+		<zName>Belum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TARRACO</zType>
+		<zName>Tarraco</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ITALICA</zType>
+		<zName>Italica</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MODICIA</zType>
+		<zName>Modicia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_FORUM_LIVII</zType>
+		<zName>Forum Livii</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_REGIUM_LEPIDI</zType>
+		<zName>Regium Lepidi</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CORDUBA</zType>
+		<zName>Corduba</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ASCRIVIUM</zType>
+		<zName>Ascrivium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VALENTIA</zType>
+		<zName>Valentia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SCALABIS</zType>
+		<zName>Scalabis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VILLA_EURACINI</zType>
+		<zName>Villa Euracini</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MASSA</zType>
+		<zName>Massa</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PISTORIA</zType>
+		<zName>Pistoria</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GERUNDA</zType>
+		<zName>Gerunda</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_POMPALEO</zType>
+		<zName>Pompaleo</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NAISSUS</zType>
+		<zName>Naissus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VESONTIO</zType>
+		<zName>Vesontio</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LUTETIA</zType>
+		<zName>Lutetia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HISPALIS</zType>
+		<zName>Hispalis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LUGDUNUM</zType>
+		<zName>Lugdunum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SISCIA</zType>
+		<zName>Siscia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AUGUSTA_TREVERORUM</zType>
+		<zName>Augusta Treverorum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CASTRA_LEGIONIS</zType>
+		<zName>Castra Legionis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AUGUSTA_TAURINORUM</zType>
+		<zName>Augusta Taurinorum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NOVAESIUM</zType>
+		<zName>Novaesium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_OVILAVA</zType>
+		<zName>Ovilava</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUVAVUM</zType>
+		<zName>Iuvanum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TURICUM</zType>
+		<zName>Turicum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_POMPEII</zType>
+		<zName>Pompeii</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VOLUBILIS</zType>
+		<zName>Volubilis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BARIUM</zType>
+		<zName>Barium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BRIXIA</zType>
+		<zName>Brixia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_COMUM</zType>
+		<zName>Comum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THERANDA</zType>
+		<zName>Theranda</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HADRIANOPOLIS</zType>
+		<zName>Hadrianopolis</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DUROVIGUTUM</zType>
+		<zName>Durovigutum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PONUS_AELIUS</zType>
+		<zName>Ponus Aelius</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AQUINCUM</zType>
+		<zName>Aquincum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CIBALAE</zType>
+		<zName>Cibalae</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SALONA</zType>
+		<zName>Salona</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AEMINIUM</zType>
+		<zName>Aeminium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LENTIA</zType>
+		<zName>Lentia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NIDA</zType>
+		<zName>Nida</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SUMELOCENNA</zType>
+		<zName>Sumelocenna</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CALLEVA_ATREBATUM</zType>
+		<zName>Calleva Atrebatum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CAMULODUNUM</zType>
+		<zName>Camulodunum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VIMINACIUM</zType>
+		<zName>Viminacium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LONDINIUM</zType>
+		<zName>Londinium</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AVENTICUM</zType>
+		<zName>Aventicum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_FAVENTIA</zType>
+		<zName>Faventia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MOGONTIACUM</zType>
+		<zName>Mogontiacum</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SIRMIUM</zType>
+		<zName>Sirmium</zName>
 	</Entry>
 </Root>

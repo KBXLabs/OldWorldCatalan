@@ -162,7 +162,7 @@
 	<!-- Misc -->
 	<Entry>
 		<zType>TEXT_CHARACTER_DEAD</zType>
-		<Translation><![CDATA[<icon>skull</icon> {0_name}]]></Translation>
+		<Translation><![CDATA[<icon>DeathSkull</icon> {0_name}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>

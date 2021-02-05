@@ -4,234 +4,266 @@
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
-		<English>Combat I</English>
+		<Translation>Combat I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
-		<English>Combat II</English>
+		<Translation>Combat II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
-		<English>Combat III</English>
+		<Translation>Combat III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
-		<English>Defensa I</English>
+		<Translation>Defensa I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
-		<English>Defensa II</English>
+		<Translation>Defensa II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
-		<English>Defensa III</English>
+		<Translation>Defensa III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
-		<English>Concentració I</English>
+		<Translation>Concentració I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
-		<English>Concentració II</English>
+		<Translation>Concentració II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
-		<English>Concentració III</English>
+		<Translation>Concentració III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO</zType>
-		<English>Heroi</English>
+		<Translation>Heroi</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERO_LEADER</zType>
-		<English>Heroi (Líder)</English>
+		<Translation>Heroi (Líder)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO_MELEE</zType>
+		<Translation>Hero (link(UNITTRAIT_MELEE))</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
-		<English>Comandant</English>
+		<Translation>Comandant</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY</zType>
+		<Translation>Comandant (link(UNITTRAIT_INFANTRY))</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
-		<English>Tàctic</English>
+		<Translation>Tàctic</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER</zType>
-		<English>Tàctic (Líder)</English>
+		<Translation>Tàctic (Líder)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
-		<English>Fanátic</English>
+		<Translation>Fanátic</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ZEALOT_LEADER</zType>
+		<Translation>Fanátic (Líder)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
-		<English>Rastrejador</English>
+		<Translation>Rastrejador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
-		<English>Ágil</English>
+		<Translation>Àgil</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HARDY</zType>
-		<English>Resistent</English>
+		<Translation>Resistent</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
-		<English>Visió d'àliga</English>
+		<Translation>Visió d'àliga</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
-		<English>Tirador</English>
+		<Translation>Tirador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS</zType>
-		<English>Amfibi</English>
+		<Translation>Amfibi</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
-		<English>Setjador</English>
+		<Translation>Setjador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
-		<English>Guarnició</English>
+		<Translation>Guarnició</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_TOUGH</zType>
-		<English>Dur</English>
+		<Translation>Dur</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
-		<English>Sanguinari</English>
+		<Translation>Sanguinari</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HECKLER</zType>
-		<English>Objector</English>
+		<Translation>Objector</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEADFAST</zType>
-		<English>Ferm</English>
+		<Translation>Ferm</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HERBALIST</zType>
-		<English>Herborista</English>
+		<Translation>Herborista</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HEALER</zType>
-		<English>Sanador</English>
+		<Translation>Sanador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
-		<English>Errant</English>
+		<Translation>Errant</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COLD</zType>
-		<English>Fred</English>
+		<Translation>Fred</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
-		<English>Muntanyenc</English>
+		<Translation>Muntanyenc</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER</zType>
-		<English>A distància</English>
+		<Translation>A distància</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
-		<English>Valent</English>
+		<Translation>Valent</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
-		<English>Escuder</English>
+		<Translation>Escuder</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
-		<English>Feroç</English>
+		<Translation>Feroç</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
-		<English>Anticavalleria</English>
+		<Translation>Anticavalleria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
-		<English>Enginyer</English>
+		<Translation>Enginyer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
-		<English>Metralla</English>
+		<Translation>Metralla</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>
+		<Translation>Cockswain</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GRAPPLER</zType>
+		<Translation>Grappler</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SEABORN</zType>
+		<Translation>Seaborn</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OVERWHELM</zType>
+		<Translation>Overwhelm</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIRESHIP</zType>
+		<Translation>Fireship</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROUT</zType>
-		<English>Recluta</English>
+		<Translation>Carregar</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PANIC</zType>
-		<English>Pànic</English>
+		<Translation>Pànic</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
-		<English>Sigilós</English>
+		<Translation>Sigilós</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
-		<English>Assalt</English>
+		<Translation>Assalt</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
-		<English>Formació</English>
+		<Translation>Formació</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_MANEUVERS</zType>
-		<English>Maniobres</English>
+		<Translation>Maniobres</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_CRIPPLED</zType>
-		<English>Lisiat</English>
+		<Translation>Lisiat</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_VALOR</zType>
-		<English>Valor</English>
+		<Translation>Valor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
-		<English>Ingenuïtat</English>
+		<Translation>Ingenuïtat</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
-		<English>Genet</English>
+		<Translation>Genet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SNIPING</zType>
-		<English>Franctirador</English>
+		<Translation>Franctirador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PATHFINDER</zType>
-		<English>Pioner</English>
+		<Translation>Pioner</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
-		<English>Família rabiosa</English>
+		<Translation>Família rabiosa</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
-		<English>Família molesta</English>
+		<Translation>Família molesta</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
-		<English>Família disgustada</English>
+		<Translation>Família disgustada</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
-		<English>Família agraïda</English>
+		<Translation>Família agraïda</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
-		<English>Família amistosa</English>
+		<Translation>Família amistosa</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
-		<English>L'espasa dels Déus</English>
+		<Translation>L'espasa dels Déus</Translation>
 	</Entry>
 </Root>

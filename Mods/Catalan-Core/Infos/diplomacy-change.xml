@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>DIPLOMACY_TEAM</zType>
+		<zName>Equip</zName>
+	</Entry>
+	<Entry>
+		<zType>DIPLOMACY_PEACE</zType>
+		<zName>pau</zName>
+	</Entry>
+	<Entry>
+		<zType>DIPLOMACY_TRUCE</zType>
+		<zName>treva</zName>
+	</Entry>
+	<Entry>
+		<zType>DIPLOMACY_WAR</zType>
+		<zName>guerra</zName>
+	</Entry>
+</Root>

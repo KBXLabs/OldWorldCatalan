@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>MAPSIZE_DUEL</zType>
+		<zName>Duel</zName>
+	</Entry>
+	<Entry>
+		<zType>MAPSIZE_SMALL</zType>
+		<zName>Petit</zName>
+	</Entry>
+	<Entry>
+		<zType>MAPSIZE_MEDIUM</zType>
+		<zName>Mitjà</zName>
+	</Entry>
+	<Entry>
+		<zType>MAPSIZE_LARGE</zType>
+		<zName>Gran</zName>
+	</Entry>
+	<Entry>
+		<zType>MAPSIZE_HUGE</zType>
+		<zName>Enorme</zName>
+	</Entry>
+</Root>

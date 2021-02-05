@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_HUMAN_DIPLOMACY_NOT_FOUND</zType>
+		<zName>Contacte mutu i sense missió diplomàtica</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_ALLIANCE_VALID</zType>
+		<zName>Estar en link(DIPLOMACY_PEACE) i com a mínim link(OPINIONPLAYER_FRIENDLY)</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MAX_ANGRY</zType>
+		<zName>Molest com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MAX_UPSET</zType>
+		<zName>Disgustat com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MAX_CAUTIOUS</zType>
+		<zName>Cautelós com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MAX_PLEASED</zType>
+		<zName>Satisfet com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MIN_ANGRY</zType>
+		<zName>Molest com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MIN_UPSET</zType>
+		<zName>Disgustat com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MIN_CAUTIOUS</zType>
+		<zName>Cautelós com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MIN_PLEASED</zType>
+		<zName>Satisfet com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_ANGRY_PLEASED</zType>
+		<zName>de Molest a Satisfet</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_ANGRY_CAUTIOUS</zType>
+		<zName>de Molest a Cautelós</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_ANGRY_UPSET</zType>
+		<zName>de Molest a Disgustat</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_UPSET_PLEASED</zType>
+		<zName>de Disgustat a Satisfet</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_UPSET_CAUTIOUS</zType>
+		<zName>de Disgustat a Cautelós</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_CAUTIOUS_PLEASED</zType>
+		<zName>de Cautelós a Satisfet</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_MIN_PLEASED_NO_WARS</zType>
+		<zName>Satisfet com a mínim i no estar en Guerra</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NO_ADOPTED_RELIGION</zType>
+		<zName>No haver adoptat una Religió recentment</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</zType>
+		<zName>Han de passar int(MIN_TREATY_TURNS) anys des de l'última link(DIPLOMACY_WAR)</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS_HUMAN</zType>
+		<zName>Han de passar int(MIN_TREATY_TURNS) anys des de l'última link(DIPLOMACY_WAR)</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_ALLIANCE_VALID</zType>
+		<zName>Estar en link(DIPLOMACY_PEACE) i com a mínim link(OPINIONTRIBE_FRIENDLY)</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MAX_ANGRY</zType>
+		<zName>Molest com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MAX_UPSET</zType>
+		<zName>Disgustat com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MAX_CAUTIOUS</zType>
+		<zName>Cautelós com a màxim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MIN_CAUTIOUS</zType>
+		<zName>Cautelós com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MIN_PLEASED</zType>
+		<zName>Satisfet com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRIBE_MIN_FRIENDLY</zType>
+		<zName>Amistosa com a mínim</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_SCHEMER</zType>
+		<zName>Líder Maquinador</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEADER_DIPLOMAT</zType>
+		<zName>Líder diplomàtic</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NO_JOB</zType>
+		<zName>Sense feina</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_AMBASSADOR</zType>
+		<zName>Ambaixador</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHANCELLOR</zType>
+		<zName>Canceller</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_SPYMASTER</zType>
+		<zName>Mestre d'Espies</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_STUDY_ANY</zType>
+		<zName>Estudiant</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_RELIGIOUS</zType>
+		<zName>Religiós</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_RELIGIOUS</zType>
+		<zName>Ateu</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_GOOD</zType>
+		<zName>Benevolent</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_GOOD</zType>
+		<zName>No Benevolent</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_BAD</zType>
+		<zName>Malvat</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_BAD</zType>
+		<zName>No Malvat</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_STRONG</zType>
+		<zName>Forçut</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_STRONG</zType>
+		<zName>No Forçut</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_WEAK</zType>
+		<zName>Feble</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_WEAK</zType>
+		<zName>No Feble</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_TRADITIONAL</zType>
+		<zName>Tradicional</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_TRADITIONAL</zType>
+		<zName>No tradicional</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_CARNAL</zType>
+		<zName>Carnal</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_CARNAL</zType>
+		<zName>No Carnal</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_TERRIFYING</zType>
+		<zName>Aterridor</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_TERRIFYING</zType>
+		<zName>No Aterridor</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_SEVEN_SINS</zType>
+		<zName>7 Pecats capitals</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_SEVEN_VIRTUES</zType>
+		<zName>7 Virtuts</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_INQUISITIVE</zType>
+		<zName>Inquisitiu</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_INQUISITIVE</zType>
+		<zName>No Inquisitiu</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_MARTIAL</zType>
+		<zName>Marcial</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_MARTIAL</zType>
+		<zName>No marcial</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_PARANOID</zType>
+		<zName>Paranoic</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_PARANOID</zType>
+		<zName>No Paranoic</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_AMBASSADOR_CANDIDATE</zType>
+		<zName>Candidat a Ambaixador</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_CHANCELLOR_CANDIDATE</zType>
+		<zName>Candidat a Canceller</zName>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_SPYMASTER_CANDIDATE</zType>
+		<zName>Candidat a Mestre d'Espies</zName>
+	</Entry>
+</Root>

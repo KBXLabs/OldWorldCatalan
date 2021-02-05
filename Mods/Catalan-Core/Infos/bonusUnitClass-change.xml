@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_LEVY</zType>
+		<zName>Recluta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_HEAVY_INFANTRY</zType>
+		<zName>Infanteria Pesada</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_POLEARM_INFANTRY</zType>
+		<zName>Infanteria astada</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_RANGED_INFANTRY</zType>
+		<zName>Infanteria a distància</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_MELEE_CAVALRY</zType>
+		<zName>Cavalleria cos a cos</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_RANGED_CAVALRY</zType>
+		<zName>Cavalleria a distància</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_SIEGE</zType>
+		<zName>Asedi</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_SHIP</zType>
+		<zName>Naval</zName>
+	</Entry>
+</Root>

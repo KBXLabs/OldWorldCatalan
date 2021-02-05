@@ -27,7 +27,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_ROUT</zType>
-		<zName>per Retirada</zName>
+		<zName>**per Retirada</zName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_ATTACK</zType>
@@ -54,7 +54,7 @@
 		<zName>per afegir Zona Urbana</zName>
 	</Entry>
 	<Entry>
-		<zType>COOLDOWN_RAISED_IMPROVEMENT</zType>
+		<zType>COOLDOWN_UPGRADED_IMPROVEMENT</zType>
 		<zName>per Actualitzar una Millora</zName>
 	</Entry>
 	<Entry>

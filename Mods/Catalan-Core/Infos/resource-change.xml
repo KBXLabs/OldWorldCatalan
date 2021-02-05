@@ -19,7 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_GEM</zType>
-		<zName>Gemes</zName>
+		<zName>Gemmes</zName>
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_GOLD</zType>
@@ -59,7 +59,7 @@
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_SORGHUM</zType>
-		<zName>Sorgu</zName>
+		<zName>Sorgo</zName>
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_CAMEL</zType>
@@ -71,7 +71,7 @@
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_GAME</zType>
-		<zName>Daina</zName>
+		<zName>Daines</zName>
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_FUR</zType>
@@ -103,7 +103,7 @@
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_DYE</zType>
-		<zName>Tints</zName>
+		<zName>Colorants</zName>
 	</Entry>
 	<Entry>
 		<zType>RESOURCE_PEARL</zType>

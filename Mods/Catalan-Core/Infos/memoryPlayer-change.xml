@@ -1,0 +1,547 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zText comment="Player-facing string describing the memory."/>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HUMAN_DIPLOMACY</zType>
+		<zText>**Diplomàcia humana</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_BROKE_PEACE</zType>
+		<zText>Vas trencar un tractat de pau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SLANDER</zType>
+		<zText>Ens vas calumniat públicament</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_STEAL_RESEARCH</zType>
+		<zText>Ens vas robar tecnologia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ADOPTED_RELIGION</zType>
+		<zText>Vas adoptar una religió d'estat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_STARTED_LAW</zType>
+		<zText>Vas canviar una llei</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_CHOSE_AMBITION</zType>
+		<zText>Vas triar una ambició</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DIVORCE</zType>
+		<zText>Et vas divorce</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REMOVED_LUXURY</zType>
+		<zText>Ens vas retirar un article Luxe</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_TRADE_DEAL</zType>
+		<zText>Vas fer un nou acord comercial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_TRUCE</zType>
+		<zText>**Vas fer una Treva</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PEACE</zType>
+		<zText>Vas signar la Pau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_WAR</zType>
+		<zText>Vas declarar la Guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_OFFER</zType>
+		<zText>Ens vas fer una oferta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_OFFER_ALL</zType>
+		<zText>Ens vas fer una oferta (a Tots)</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ATTACKED_UNIT</zType>
+		<zText>Vas atacar les nostres Unitats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ATTACKED_CITY</zType>
+		<zText>Vas atacar les nostres Ciutats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_CAPTURED_CITY</zType>
+		<zText>Vas capturar les nostres Ciutats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_POACHED_CITY</zType>
+		<zText>Vas capturar una ciuatat que estavem atacant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ATTACKED_ENEMY</zType>
+		<zText>Vas atacar al nostre enemic</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GIFTED_CITY</zType>
+		<zText>Ens vas regalar una Ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GIFTED_UNIT</zType>
+		<zText>Ens vas regalar una Unitat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GIFTED_YIELD</zType>
+		<zText>Ens vas regalar bens</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GAVE_FAVOR</zType>
+		<zText>Ens vas concedir un favor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HOLD_HOSTAGE</zType>
+		<zText>Vas retindre com a ostatge un noble</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_KILLED_NOBLE_HOSTAGE</zType>
+		<zText>Vas matar un ostatge</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_NOBLE_DEFECT</zType>
+		<zText>Vas convèncer a un noble a desertar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_CANCELLED_TRADE</zType>
+		<zText>Vas cancel·lar un tracte amb nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DECLARED_WAR</zType>
+		<zText>Ens vas declarar la Guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_TRIBE_PLAYER_WAR</zType>
+		<zText>Vas convèncer a una Tribu per què ens declares la Guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_PLAYER_WAR</zType>
+		<zText>Vas convèncer a una Nació per què ens declares la Guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PEACEMAKER_BAD</zType>
+		<zText>Vas aconsellar en contra dels nostres acords</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PEACEMAKER_GOOD</zType>
+		<zText>Vas desaconsellar acords intrusius</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_CONTACT_GIFT</zType>
+		<zText>Ens vas fer un present en el nostres primer contacte</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_NEIGHBORS_ROME_PRIDE</zType>
+		<zText>Ens vas plantar cara!</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_NEIGHBORS_HUMBLE</zType>
+		<zText>Ens va impressionar amb la vostra humilitat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_NEIGHBORS_FRIENDLY</zType>
+		<zText>La teva gent ens va semblar amable</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_NEIGHBORS_PRIDEFUL</zType>
+		<zText>Ens vas parlar amb valentia quan ens vam conèixer</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_MADE_CONTACT</zType>
+		<zText>Va establir contacte amb la vostra gent</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_EVENTOPTION_TRADE_MISSION_YES_FAIL</zType>
+		<zText>Ens va fer un regal per millorar les relacions</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DECLARE_WAR_DEMAND_YES</zType>
+		<zText>Vam acordem declarar la guerra al nostre enemic</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DECLARE_WAR_DEMAND_NO</zType>
+		<zText>Et vas negar a declarar la guerra al nostre enemic</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_JUSTICE</zType>
+		<zText>Vas dispensar justícia a petició nostra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY</zType>
+		<zText>La Justicia aplaçada no és justicia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_WEAK</zType>
+		<zText>Els nostres ciutadans perjudicats no van rebre justícia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_INJUSTICE</zType>
+		<zText>La representació de la justicia per part del vostre líder es una farsa!</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_JUSTICE</zType>
+		<zText>Ens vas permetre dispensar justícia a la nostra manera</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_PLEASED_SOLVED</zType>
+		<zText>Vas resoldre els nostres greuges</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_PLEASED_IGNORED</zType>
+		<zText>Vas ignorar les nostres queixes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ACCUSED_OF_PLOTTING</zType>
+		<zText>Ens vas acusar de tramar</zText>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>MEMORYPLAYER_HONORED_RULER</zType>
+		<zText>Vas honorar el nostre governant mort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SUPPORTED_WAR</zType>
+		<zText>Vas donar suport a la nostra guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_TO_FIRE_COURTIER</zType>
+		<zText>Et vas negar a acomiadar un membre de la cort privilegiat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_IMPRESSED_BY_HEIR</zType>
+		<zText>Et vas impressionar pel jove estudiant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ESCORTED_RULER</zType>
+		<zText>Ens vas proporcionar escorta pel governant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_RETURNED_HEIR</zType>
+		<zText>Ens vas retornar l'Hereu després de l'incident</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_THE_OLYMPIAD</zType>
+		<zText>Et vas impressionar per la nostra Olimpíada</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_MEDDLED_IN_AFFAIRS</zType>
+		<zText>Et vas immiscir en els nostres assumptes</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_RECEIVED_BRIBE</zType>
+		<zText>Vam rebre regals de suborn</zText>
+	</Entry>
+	<Entry beginGroup="Diplomacy">
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_GIFT</zType>
+		<zText>Ens vas enviar un petit regal</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE</zType>
+		<zText>Estem interessats en el teu suggeriment d'un acord d'invetigació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PAID_TRIBUTE</zType>
+		<zText>Ens vas pagar tributs</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_TO_PAY_TRIBUTE</zType>
+		<zText>Et vas negar a pagar-nos tributs</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_RESEARCH</zType>
+		<zText>El nostre acord d'invetigació garanteix la vostra seguretat per ara</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_WAR</zType>
+		<zText>La teva feble oferta va provocar-nos ganes de conflicte</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_PLEASED_CONSTRUCTION</zType>
+		<zText>L'experiència dels teus constructors ens va ajudar a millorar la nostra producció d'aliments</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_PLEASED_TECHNOLOGY</zType>
+		<zText>La teva experiència tecnològica ens va ajudar a millorar la nostra producció d'aliments</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_CAUTIOUS</zType>
+		<zText>Ens estem preparant per atacar-te</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_CAUTIOUS_LEADER4_THREATEN</zType>
+		<zText>Les teves amenaces han estat persuasives</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_CAUTIOUS_LEADER4_PREPARE</zType>
+		<zText>Sembla que et prepares per a la guerra</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_BUILDER_CAUTIOUS_LEADER4_WAR</zType>
+		<zText>Sabíem que no es podia confiar en tu</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ANGRY_SOLUTION</zType>
+		<zText>Vas resoldre un dels motius pels quals estàvem enfadats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ANGRY_DELAY</zType>
+		<zText>Ens vas lligar en nusos diplomàtics</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_UPSET_PEACE</zType>
+		<zText>Vas reparar el nostre greuge principal i vas signar un tractat de pau</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_UPSET_BUILDUP</zType>
+		<zText>La teva acumulació militar és una provocació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_MATERIALS</zType>
+		<zText>Ens vas regalar materials amb pocs recursos</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_ZEALOT_ARCHETYPE_GRAND_MISSION</zType>
+		<zText>La teva missió religiosa a les nostres terres ha agradat al nostre poble</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_ZEALOT_MINOR_MISSION</zType>
+		<zText>La teva missió religiosa a la nostra capital no va ser impressionant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_ANGRY</zType>
+		<zText>Sospitem que planegeu malifetes contra nosaltres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_PLEASED</zType>
+		<zText>Estem agraïts de tenir un amic de confiança com la teva nació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_EVENTOPTION_PLAYER_PEACE_END_OPINION</zType>
+		<zText>Ens vas demanar una segona oportunitat per la link(DIPLOMACY_PEACE)</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_EVENTOPTION_PLAYER_DIPLO_MARRIAGE_NO</zType>
+		<zText>Et vas negar a casar-te amb el nostre succesor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DENOUNCED_US</zType>
+		<zText>Ens vas denunciar públicament</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GAVE_TECH</zType>
+		<zText>Ens va regalar de tecnologia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_TECH</zType>
+		<zText>Et vas negar a compartir una tecnologia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_COMPLIMENTED_GENERAL</zType>
+		<zText>Vas elogiar el nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DENIED_OUR_GENERAL</zType>
+		<zText>Vas insultar el nostre general</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_EXCAVATION</zType>
+		<zText>Vas rebutjar l'excavació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_COVERED_UP_PRISONER</zType>
+		<zText>Vas encubrir la desaparició</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_FREED_CAPTIVE</zType>
+		<zText>Vas alliberar el nostre ambaixador</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_FIXED_MISUNDERSTANDING</zType>
+		<zText>Vas corregir el malentès sobre el pres</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_INTERVENED_IN_LOVE</zType>
+		<zText>Vas intervenir en una història d’amor hereva</zText>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>MEMORYPLAYER_DELIVERED_ASSASSINS</zType>
+		<zText>Ens vas entregar uns assassins</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ACCEPTED_EXCUSE</zType>
+		<zText>Vas acceptar la solució diplomàtica</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SENT_UNIT</zType>
+		<zText>Vas enviar una unitat a una altra nació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_FOREIGN_INTRUSION</zType>
+		<zText>Vas patir una intrusió estrangera</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_WARNED_AGAINST_MEDDLING</zType>
+		<zText>Ens vas advertir contra la intromissió</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HELPED_FREE_SLAVES</zType>
+		<zText>Vas ajudar a alliberar els nostres esclaus jueus</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HELD_CELEBRATION</zType>
+		<zText>No et vas convertir</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_FREED_PRISONER</zType>
+		<zText>Vas alliberar al presoner reial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SHARED_FAITH</zType>
+		<zText>Vas prohibir les nostres reunions</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_RETURNED_TRAITOR</zType>
+		<zText>Vas retornar a l'hereu traïdor</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_INSULTED_DIPLOMAT</zType>
+		<zText>Vas insultar al diplomàtic visitant</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DISMISSED_RUMORS</zType>
+		<zText>Vas rebutjar qualsevol relació amb els assassinats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DENIED_RANSOM</zType>
+		<zText>Et vas negar al rescat dels espies capturats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_WORKED_TOGETHER</zType>
+		<zText>Vam treballar junts per difamar la nació rival</zText>
+	</Entry>
+	<Entry beginGroup="Contact">
+		<zType>MEMORYPLAYER_HELPED_CARAVAN</zType>
+		<zText>Vas ajudar a la nostra caravana de subministraments</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SACKED_CARAVAN</zType>
+		<zText>Vas saquejar la nostra caravana</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DID_NOT_INTERFERE</zType>
+		<zText>No vas interferir amb el pres polític</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_FOUGHT_FOR_PRISONER</zType>
+		<zText>Vas alliberar al pres polític</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_MADE_FOOL_LABORER</zType>
+		<zText>Vas fer del nostre idiota un treballador</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_ACCEPTED_FOOD</zType>
+		<zText>Vas acceptar el nostre gest amable</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_FOOD</zType>
+		<zText>Vas rebutjar la nostra amable oferta</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_THREATENED</zType>
+		<zText>Ens vas acusar d'intoxicació</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HOSTED_COUNSEL</zType>
+		<zText>Vas allotjar el nostre conseller de la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_COUNSEL</zType>
+		<zText>Et vas negar al nostre advocat judicial</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DISCOURTEOUS_RULER</zType>
+		<zText>Vas estar descortès a la cort</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_EXECUTED_OUR_AGENT</zType>
+		<zText>Vas executar al nostre agent diplomàtic</zText>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>MEMORYPLAYER_GIFT_OF_GEMS</zType>
+		<zText>Vam rebre gemmes recol·lectades</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_GAVE_OLIVE_OIL</zType>
+		<zText>Vam rebre un obsequi d’oli d’oliva</zText>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>MEMORYPLAYER_EXECUTED_GOVERNORS</zType>
+		<zText>Vas executar el lideratge de la nostra ciutat conquerida</zText>
+	</Entry>
+	<Entry beginGroup="Community">
+		<zType>MEMORYPLAYER_TROOPS_RANSACK</zType>
+		<zText>Vas saquejar la nostra ciutat</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_INFILTRATED_US</zType>
+		<zText>Et vas infiltrar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_EXPOSED_INFILTRATORS</zType>
+		<zText>Vas ajudar a exposar infiltrats estrangers</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_APOLOGY</zType>
+		<zText>Et vas negar a demanar disculpes per un incident internacional</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_LOST_IN_TRANSLATION_POS</zType>
+		<zText>Vas resoldre una controvèrsia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_LOST_IN_TRANSLATION_NEG</zType>
+		<zText>Vas estar en desacord en una controvèrsia</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SENT_DELICACIES</zType>
+		<zText>Ens vas enviar algunes delícies</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_SENT_DELICACIES_EXOTIC</zType>
+		<zText>Ens vas enviar delícies exòtiques</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_DECLINED_INVITATION</zType>
+		<zText>Vas rebutjar la nostra invitació a un festival</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HELD_LECTURE</zType>
+		<zText>Vas celebrar una conferència en una de les nostres ciutats</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_HELD_TRAINING</zType>
+		<zText>vas entrenar als nostres soldats personalment</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_INSULTED_BY_AMBASSADOR</zType>
+		<zText>El teu ambaixador ens va insultar</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_TOOK_CARE_PILGRIMS</zType>
+		<zText>Vas cuidar dels nostres pelegrins</zText>
+	</Entry>
+	<Entry>
+		<zType>MEMORYPLAYER_REFUSED_PILGRIMS</zType>
+		<zText>Vas rebutjar l'entrada als nostres pacífics pelegrins</zText>
+	</Entry>
+</Root>

@@ -6,18 +6,30 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
-		<zName>Soldat de la Cort</zName>
+		<zName>Soldat</zName>
+		<azNicknames>
+			<zValue>[ Soldat ]</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MINISTER</zType>
-		<zName>Ministre de la Cort</zName>
+		<zName>Ministre</zName>
+		<azNicknames>
+			<zValue>[ Ministre ]</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MERCHANT</zType>
-		<zName>Mercader de la Cort</zName>
+		<zName>Mercader</zName>
+		<azNicknames>
+			<zValue>[ Mercader ]</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SCIENTIST</zType>
-		<zName>Erudit de la Cort</zName>
+		<zName>Acadèmic</zName>
+		<azNicknames>
+			<zValue>[ Científic ]</zValue>
+		</azNicknames>
 	</Entry>
 </Root>

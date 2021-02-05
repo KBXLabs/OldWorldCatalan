@@ -6,51 +6,51 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN</zType>
-		<Translation>Paganisme~Pagà~un Pagà~Pagans</Translation>
+		<Translation>Paganisme~pagana~un Pagà~Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ASSYRIA</zType>
-		<Translation>Paganisme Asiri~Asiri Pagà~un Asiri Pagà~Asiris Pagans</Translation>
+		<Translation>Paganisme Asiri~asiria pagana~un Asiri Pagà~Asiris Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_BABYLONIA</zType>
-		<Translation>Paganisme Babiloni~Babiloni Pagà~un Babiloni Pagà~Babilonis Pagan</Translation>
+		<Translation>Paganisme Babiloni~babilònia pagana~un Babiloni Pagà~Babilonis Pagan</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_CARTHAGE</zType>
-		<Translation>Paganisme Cartaginès~Cartaginès Pagà~un Cartaginès Pagà~Cartaginesos Pagans</Translation>
+		<Translation>Paganisme Cartaginès~cartaginesa pagana~un Cartaginès Pagà~Cartaginesos Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_EGYPT</zType>
-		<Translation>Paganisme Egipci~Egipci Pagà~un Egipci Pagà~Egipcis Pagans</Translation>
+		<Translation>Paganisme Egipci~egipcia pagana~un Egipci Pagà~Egipcis Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_GREECE</zType>
-		<Translation>Paganisme Grec~Grec Pagà~un Grec Pagàn~Grecs Pagans</Translation>
+		<Translation>Paganisme Grec~grega pagana~un Grec Pagàn~Grecs Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ROME</zType>
-		<Translation>Paganisme Romà~Romà Pagà~un Romà Pagà~Romans Pagans</Translation>
+		<Translation>Paganisme Romà~romana pagana~un Romà Pagà~Romans Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_PERSIA</zType>
-		<Translation>Paganisme Persa~Persa Pagà~un Persa Pagà~Perses Pagans</Translation>
+		<Translation>Paganisme Persa~persa pagana~un Persa Pagà~Perses Pagans</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
-		<Translation>Zoroastrisme~Zoroatrista~un Zoroastrista~Zoroastristes</Translation>
+		<Translation>Zoroastrisme~zoroatrista~un Zoroastrista~Zoroastristes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_JUDAISM</zType>
-		<Translation>Judaisme~Jueu~un Jueu~Jueus</Translation>
+		<Translation>Judaisme~jueva~un Jueu~Jueus</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CHRISTIANITY</zType>
-		<Translation>Cristianisme~Cristià~un Cristià~Cristians</Translation>
+		<Translation>Cristianisme~cristiana~un Cristià~Cristians</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_MANICHAEISM</zType>
-		<Translation>Maniqueisme~Maniqueu~un Maniqueu~Maniqueus</Translation>
+		<Translation>Maniqueisme~maniquea~un Maniqueu~Maniqueus</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_CUSTOM</zType>

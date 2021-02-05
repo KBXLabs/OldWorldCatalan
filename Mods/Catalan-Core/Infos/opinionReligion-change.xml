@@ -19,7 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>OPINIONRELIGION_CAUTIOUS</zType>
-		<zName>Suspicas</zName>
+		<zName>Cautelós</zName>
 	</Entry>
 	<Entry>
 		<zType>OPINIONRELIGION_PLEASED</zType>
@@ -27,6 +27,6 @@
 	</Entry>
 	<Entry>
 		<zType>OPINIONRELIGION_FRIENDLY</zType>
-		<zName>Amigable</zName>
+		<zName>Amistosa</zName>
 	</Entry>
 </Root>

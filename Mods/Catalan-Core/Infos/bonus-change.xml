@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FAMILY_SEAT</zType>
+		<zName>Per establir link(CONCEPT_FAMILY_SEAT)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_FOUND</zType>
+		<zName>Per establir Assentament Tribal</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_DISCOVERED_LANDMARK</zType>
+		<zName>Per llocs d'interés descoberts</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_NAMED_LANDMARK</zType>
+		<zName>Per llocs d'interés anomenats</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FINISHED_AMBITION</zType>
+		<zName>Per anhels assolits</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FINISHED_LEGACY</zType>
+		<zName>Per llegats finalitzats</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FINISHED_QUEST</zType>
+		<zName>Per tasques finalitzades</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FINISHED_HOLY_SITE</zType>
+		<zName>Per construcció de llocs sagrats</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FINISHED_WONDER</zType>
+		<zName>Per construcció de meravelles</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_INSPIRED_BY_WONDER</zType>
+		<zName>Per inspiració de les meravelles</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_CONVERT_LEGITIMACY</zType>
+		<zName>Per haver comprat {YIELD_ORDERS}</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_LEADER_ADOPTS</zType>
+		<zName>Per haver adoptat un nen</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PURGE_RELIGION</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_START_LAW</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FREE_LAW</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_FREE_THEOLOGY</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_BREAK_PEACE</zType>
+		<zName>Per trencar tractats de pau</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_MARRIAGE</zType>
+		<zName>Per matrimoni tribal</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_WAR_LEGITIMACY</zType>
+		<zName>Per no tenir por de les tribus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_TRUCE_LEGITIMACY</zType>
+		<zName>Per fer una treva amb tribus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_PEACE_LEGITIMACY</zType>
+		<zName>per fer la pau amb tribus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_ALLIANCE</zType>
+		<zName>Per fer aliances amb tribus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBAL_INVASION_LEGITIMACY</zType>
+		<zName>Per no tenir por a la invasió</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TRIBE_ELIMINATED_LEGITIMACY</zType>
+		<zName>Per destruir tribus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PLAYER_WAR_LEGITIMACY</zType>
+		<zName>Per no tenir por a la guerra</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_RALLY_TROOPS</zType>
+		<zName>Per reunir a les tropes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_ABDICATE</zType>
+		<zName>Per abdicar</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_ADOPT</zType>
+		<zName>Per adopció</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_LEGITIMIZE</zType>
+		<zName>Per legitimar un bastard</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_CHOSEN_HEIR</zType>
+		<zName>Per escollir hereu</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_INFILTRATE_REVEAL</zType>
+		<zName>Per infiltració amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED</zType>
+		<zName>Per infiltració amb èxit i quedar exposat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_SLANDER_SUCCESS</zType>
+		<zName>Per difamar amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
+		<zName>Per difamar amb èxit i quedar exposat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_STEAL_RESEARCH_SUCCESS</zType>
+		<zName>Per robatori tecnològic amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED</zType>
+		<zName>Per robatori tecnològic amb èxit i quedar exposat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_ASSASSINATE_KILL</zType>
+		<zName>Per Assassinat amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
+		<zName>Per Assassinat amb èxit i quedar exposat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
+		<zName>Per Assassinat (Falla, Exposat)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_TREACHERY_SUCCESS</zType>
+		<zName>Per traició amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_TREACHERY_FAILURE</zType>
+		<zName>Per traició fallida</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_INSURRECTION_SUCCESS</zType>
+		<zName>Per Insurrecció amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_INSURRECTION_FAILURE</zType>
+		<zName>Per Insurrecció fallida</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
+		<zName>Per Regal familiar amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
+		<zName>Per Regal familiar amb èxit i sense efecte esperat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_PACIFY_CITY_SUCCESS</zType>
+		<zName>Per pacificar ciutats amb èxit</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN</zType>
+		<zName>Per pacificar ciutats amb èxit i sense efecte esperat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_IMPRISON_JUST</zType>
+		<zName>Per Empresonament Just</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_IMPRISON_UNJUST</zType>
+		<zName>Per Empresonament Injust</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_IMPRISON_ESCAPE</zType>
+		<zName>Per Empresonament (Pres Fugat)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_RELEASE_GRATEFUL</zType>
+		<zName>Per Alliberament (Pres Agraït)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_RELEASE_BITTER</zType>
+		<zName>Per Alliberament (Pres Amargat)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_RELEASE_UNJUST</zType>
+		<zName>Per Alliberament Injust</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_CAPTURE_SURRENDER</zType>
+		<zName>Per captura amb rendició</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_CAPTURE_KILLED</zType>
+		<zName>Per captura amb mort</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_CAPTURE_FLEE</zType>
+		<zName>Per captura amb fugida</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_PAY_RANSOM</zType>
+		<zName>Per captura amb rescat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_MARRY_COURTIER</zType>
+		<zName>Per Matrimoni</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MISSIONRESULT_DIVORCE</zType>
+		<zName>Per Divorci</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_STONECUTTING_BONUS_STONE</zType>
+		<zName>Reforç de Pedra</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_HUSBANDRY_BONUS_FOOD</zType>
+		<zName>Reforç s'aliments</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_POLIS_BONUS_SETTLER</zType>
+		<zName>Unitat link(UNIT_SETTLER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_ARISTOCRACY_BONUS_BORDERS</zType>
+		<zName>Expansió de fronteres</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_NAVIGATION_BONUS_BIREME</zType>
+		<zName>Unitat link(UNIT_BIREME) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
+		<zName>Unitat link(UNIT_CHARIOT) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_RAMPARTS_BONUS_ARCHER</zType>
+		<zName>Unitat link(UNIT_ARCHER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_CITIZENSHIP_BONUS_MINISTER</zType>
+		<zName>Unitat ink(COURTIER_MINISTER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
+		<zName>Unitat link(UNIT_MACEMAN) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
+		<zName>Unitat link(UNIT_WAR_ELEPHANT) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_DOCTRINE_BONUS_ORDERS</zType>
+		<zName>Reforç de Decrets</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_COINAGE_BONUS_MONEY</zType>
+		<zName>Reforç de Monedes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
+		<zName>link(COURTIER_SCIENTIST) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_TORSION_BONUS_BALLISTA</zType>
+		<zName>Unitat link(UNIT_BALLISTA) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_STIRRUPS_BONUS_HORSEMAN</zType>
+		<zName>Unitat link(UNIT_HORSEMAN) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_ARCHITECTURE_BONUS_CIVICS</zType>
+		<zName>Reforç de Civisme</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MANOR_BONUS_GOODS</zType>
+		<zName>Reforç de Recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MACHINERY_BONUS_ONAGER</zType>
+		<zName>Unitat link(UNIT_ONAGER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MOUNTED_ARCHERY_BONUS_HORSE_ARCHER</zType>
+		<zName>Unitat link(UNIT_HORSE_ARCHER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MOUNTED_ARCHERY_BONUS_CAMEL_ARCHER</zType>
+		<zName>link(UNIT_CAMEL_ARCHER) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_CARTOGRAPHY_BONUS_TRIREME</zType>
+		<zName>Unitat link(UNIT_TRIREME) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_HYDRAULICS_BONUS_MERCHANT</zType>
+		<zName>link(COURTIER_MERCHANT) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_BODKIN_ARROW_BONUS_TRAINING</zType>
+		<zName>Augment de Militar</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_COHORTS_BONUS_SOLDIER</zType>
+		<zName>link(COURTIER_SOLDIER) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
+		<zName>Unitat link(UNIT_CROSSBOWMAN) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_LATEEN_SAIL_BONUS_DROMON</zType>
+		<zName>Unitat link(UNIT_DROMON) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MILITARY_REFORM</zType>
+		<zName>link(COURTIER_SOLDIER) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_POLITICAL_REFORM</zType>
+		<zName>link(COURTIER_MINISTER) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_ECONOMIC_REFORM</zType>
+		<zName>link(COURTIER_MERCHANT) gratuït</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_BATTERING_RAM_UNIT</zType>
+		<zName>Unitat link(UNIT_BATTERING_RAM) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_SIEGE_TOWER_UNIT</zType>
+		<zName>Unitat link(UNIT_SIEGE_TOWER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_AKKADIAN_ARCHER_UNIT</zType>
+		<zName>Unitat link(UNIT_AKKADIAN_ARCHER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_CIMMERIAN_ARCHER_UNIT</zType>
+		<zName>Unitat link(UNIT_CIMMERIAN_ARCHER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_AFRICAN_ELEPHANT_UNIT</zType>
+		<zName>Unitat link(UNIT_AFRICAN_ELEPHANT) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_TURRETED_ELEPHANT_UNIT</zType>
+		<zName>Unitat link(UNIT_TURRETED_ELEPHANT) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_LIGHT_CHARIOT_UNIT</zType>
+		<zName>Unitat link(UNIT_LIGHT_CHARIOT) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_KUSHITE_CAVALRY_UNIT</zType>
+		<zName>Unitat link(UNIT_KUSHITE_CAVALRY) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_HOPLITE_UNIT</zType>
+		<zName>Unitat link(UNIT_HOPLITE) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_PHALANGITE_UNIT</zType>
+		<zName>Unitat link(UNIT_PHALANGITE) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_PALTON_CAVALRY_UNIT</zType>
+		<zName>Unitat link(UNIT_PALTON_CAVALRY) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_CATAPHRACT_ARCHER_UNIT</zType>
+		<zName>Unitat link(UNIT_CATAPHRACT_ARCHER) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_HASTATUS_UNIT</zType>
+		<zName>Unitat link(UNIT_HASTATUS) gratuïta</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_LEGIONARY_UNIT</zType>
+		<zName>Unitat link(UNIT_LEGIONARY) gratuïta</zName>
+	</Entry>
+</Root>

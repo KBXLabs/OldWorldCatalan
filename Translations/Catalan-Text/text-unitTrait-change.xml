@@ -5,23 +5,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MELEE</zType>
-		<Translation>Cos a cos</Translation>
+		<Translation>cos a cos</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
-		<Translation>A distància</Translation>
+		<Translation>a distància</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
-		<Translation>de Infanteria</Translation>
+		<Translation>d'infanteria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_POLEARM</zType>
-		<Translation>Astada</Translation>
+		<Translation>astades</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
-		<Translation>Muntada</Translation>
+		<Translation>muntades</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_HORSE</zType>
@@ -41,6 +41,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_SHIP</zType>
-		<Translation>vaixell</Translation>
+		<Translation>navals</Translation>
 	</Entry>
 </Root>

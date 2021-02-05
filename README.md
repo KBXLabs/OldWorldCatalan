@@ -3,12 +3,12 @@
 Mods de traducció al català per Old World
 
 Membres KBXLabs:
-Danny Medina aka "teksait"
-David Oller aka "locu"
+- Danny Medina aka "teksait" (twitch.tv/t3ksait - Twitter:@teksait)
+- David Oller aka "locu" (twitch.tv/loocu - Twitter:@l0cu)
 
 Agraïments a:
-Marta Grau aka "theFahrenheit"
-Oriol Crespo aka "UriWanKenoby"
+- Marta Grau aka "theFahrenheit"
+- Oriol Crespo aka "UriWanKenoby"
 
 **INSTAL·LACIÓ**
 

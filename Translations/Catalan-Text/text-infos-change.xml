@@ -27,6 +27,10 @@
 		<Translation>Aliança tribal</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_TRIBE</zType>
+		<Translation>Tribu~Tribus</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
 		<Translation>Aliança</Translation>
 	</Entry>
@@ -40,7 +44,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CARAVAN_MISSION</zType>
-		<Translation>Missió de caravana</Translation>
+		<Translation>Missió de caravana~Missions de caravana</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_CLEAR</zType>
@@ -55,6 +59,10 @@
 		<Translation>Event cultural</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_DESIRED_AMBITION</zType>
+		<Translation>Anhel desitjat</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_DISTANCE_MODIFIER</zType>
 		<Translation>Modificador de distància</Translation>
 	</Entry>
@@ -67,6 +75,10 @@
 		<Translation>Residència de la Família</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_FAMILY</zType>
+		<Translation>Família~Famílies</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_GENERAL</zType>
 		<Translation>General~Generals</Translation>
 	</Entry>
@@ -75,8 +87,40 @@
 		<Translation>Governador~Governadors</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_COUNCILOR</zType>
+		<Translation>Membre del consell~Membres del consell</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SHRINE</zType>
+		<Translation>Santuari~Santuaris</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SPECIALIST</zType>
+		<Translation>Especialista~Especialistes</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
-		<Translation>Obtenir recurs</Translation>
+		<Translation>Recol·lectar recurs~Recol·lectar recursos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_MARCH</zType>
+		<Translation>Marxa Forçada~Marxes Forçades~Forçant la Marxa~Marxa Forçada~Forçar la Marxa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_FATIGUE</zType>
+		<Translation>Esgotament~Esgotat~Esgotada~Esgotats~Esgotades</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_AMBITION</zType>
+		<Translation>Anhel~Anhels</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_STATE_RELIGION</zType>
+		<Translation>Religió d'Estat~Religions d'Estat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_COGNOMEN</zType>
+		<Translation>Títol~Títols</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_HIDDEN</zType>
@@ -88,7 +132,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
-		<Translation>Ignora ZDC</Translation>
+		<Translation>Ignora Zona de Control</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_LEGITIMACY</zType>
@@ -104,15 +148,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_PROJECT_INFO</zType>
-		<Translation>Projecte</Translation>
+		<Translation>Projecte~Projectes</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
-		<Translation>Actualitzar link(CONCEPT_IMPROVEMENT)</Translation>
+		<zType>TEXT_CONCEPT_PROMOTION</zType>
+		<Translation>Entrenament~Entrenaments~Entrena~s'entrena</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_UPGRADE_IMPROVEMENTS</zType>
+		<Translation>Actualitzar Millores</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IMPROVEMENT</zType>
+		<Translation>Millora~Millores</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_REBEL</zType>
 		<Translation>Rebel</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_DISCIPLE</zType>
+		<Translation>Deixeble~Deixebles</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ROAD</zType>
@@ -120,7 +176,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ROUT</zType>
-		<Translation>Retirada</Translation>
+		<Translation>Càrrega</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
@@ -139,12 +195,24 @@
 		<Translation>Invasió tribal</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_CONCEPT_UNDO</zType>
+		<Translation>Desfer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_UPGRADE</zType>
+		<Translation>Pujar de nivell~Pujades de nivell~Pujat de nivell</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_CONCEPT_URBAN</zType>
 		<Translation>Urbana~Urbanes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ZOC</zType>
-		<Translation>ZDC</Translation>
+		<Translation>Zona de Control</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_XP</zType>
+		<Translation>PX~Experiència</Translation>
 	</Entry>
 	<!--InfoFamilyClass-->
 	<Entry>
@@ -161,7 +229,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_PATRONS</zType>
-		<Translation>Patrocinadors</Translation>
+		<Translation>Mecenes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_CLERICS</zType>
@@ -377,22 +445,6 @@
 		<Translation>Controla 9 ciutats connectades</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GOAL_TEN_POPULATION</zType>
-		<Translation>Controla una població de 10</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_30_POPULATION</zType>
-		<Translation>Controla una població de 30</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_100_POPULATION</zType>
-		<Translation>Controla una població de 100</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
-		<Translation>Màxima població</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_GOAL_GAULS_5</zType>
 		<Translation>Mata a 5 link(TRIBE_GAULS)</Translation>
 	</Entry>
@@ -450,15 +502,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_20_GOODS_TURN</zType>
-		<Translation>+20 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE)/Any</Translation>
+		<Translation>+20 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE) per Any</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_50_GOODS_TURN</zType>
-		<Translation>+50 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE)/Any</Translation>
+		<Translation>+50 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE) per Any</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_100_GOODS_TURN</zType>
-		<Translation>+100 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE)/Any</Translation>
+		<Translation>+100 icon(YIELD_FOOD), icon(YIELD_IRON), icon(YIELD_WOOD), i icon(YIELD_STONE) per Any</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_CIVICS_2000</zType>
@@ -525,112 +577,8 @@
 		<Translation>Controla 4 Graners</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GOAL_TWO_TRIBAL_LUXURIES</zType>
-		<Translation>Envia 2 articles de luxe a tribus</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_PLAYER_LUXURIES</zType>
-		<Translation>Envia 4 articles de luxe a altres nacions</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_SIX_FAMILY_LUXURIES</zType>
-		<Translation>Envia 6 articles de luxe a Famílies</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_EIGHT_LUXURIES</zType>
-		<Translation>Controla 8 articles de luxe</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_GOAL_SIX_BARRACKS_RANGES</zType>
 		<Translation>Controla 6 cuartells o camps de tir</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
-		<Translation>Controla 4 banys freds</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
-		<Translation>Controla 4 banys **calents</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
-		<Translation>Controla 4 banys climatitzats</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
-		<Translation>Controla 4 odeons</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
-		<Translation>Controla 4 amfiteatres</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
-		<Translation>Controla 4 coliseus</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
-		<Translation>Controla 4 mercats</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
-		<Translation>Controla 4 **Grocers</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
-		<Translation>Controla 4 fires</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
-		<Translation>Controla 4 biblioteques</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
-		<Translation>Controla 4 acadèmies</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
-		<Translation>Controla 4 universitats</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
-		<Translation>Controla 4 jutjats</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
-		<Translation>Controla 4 ministeris</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
-		<Translation>Controla 4 palaus</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
-		<Translation>Controla 4 guarnicions</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
-		<Translation>Controla 4 fortaleses</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
-		<Translation>Controla 4 ciutadelles</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
-		<Translation>Controla 8 santuaris</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
-		<Translation>Controla 4 monestirs</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
-		<Translation>Controla 4 temples</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
-		<Translation>Controla 3 catedrals</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_EIGHT_TOWNS</zType>
@@ -651,10 +599,6 @@
 	<Entry>
 		<zType>TEXT_GOAL_EIGHT_REPAIRED</zType>
 		<Translation>Repara 8 link(CONCEPT_IMPROVEMENT,1)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
-		<Translation>Construeix un coliseu, una fira, una universitat i un palau</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_PYRAMIDS</zType>
@@ -732,10 +676,11 @@
 		<zType>TEXT_GOAL_THREE_LEGENDARY</zType>
 		<Translation>Controla 3 ciutats llegendàries</Translation>
 	</Entry>
+	<!-- 
 	<Entry>
 		<zType>TEXT_GOAL_SIX_LEGENDARY</zType>
 		<Translation>Control 6 ciutats llegendàries</Translation>
-	</Entry>
+	</Entry>-->
 	<Entry>
 		<zType>TEXT_GOAL_TWO_WONDERS</zType>
 		<Translation>Controla 2 meravelles (1 en auge cultural)</Translation>
@@ -879,26 +824,6 @@
 	<Entry>
 		<zType>TEXT_GOAL_THREE_PEACE</zType>
 		<Translation>Fes la link(DIPLOMACY_PEACE) amb 3 tribus o imperis</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
-		<Translation>Recaptura 1 ciutat</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
-		<Translation>Recaptura 2 ciutats</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_THREE_CAPTURE_CITIES</zType>
-		<Translation>Captura 3 ciutats foranes</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_ONE_CAPITAL</zType>
-		<Translation>Captura una capital forana</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GOAL_SIX_CAPTURE_CITIES</zType>
-		<Translation>Captura 6 ciutats foranes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_STATE_RELIGION</zType>
@@ -1090,11 +1015,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_COURTIERS</zType>
-		<Translation>Incorpora 2 cortesans</Translation>
+		<Translation>Incorpora 2 membres a la cort</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_COURTIERS</zType>
-		<Translation>Incorpora 4 cortesans</Translation>
+		<Translation>Incorpora 4 membres de la cort</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FOUR_GENERALS</zType>
@@ -1125,12 +1050,160 @@
 		<Translation>Descobreix el 80% del mapa</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GOAL_THREE_CARAVANS</zType>
-		<Translation>Completa 3 missions de caravana</Translation>
+		<zType>TEXT_GOAL_TWO_CARAVANS</zType>
+		<Translation>Completa 2 link(CONCEPT_CARAVAN_MISSION,1)</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GOAL_SIX_CARAVANS</zType>
-		<Translation>Completa 6 missions de caravana</Translation>
+		<zType>TEXT_GOAL_FOUR_CARAVANS</zType>
+		<Translation>Completa 4 link(CONCEPT_CARAVAN_MISSION,1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_TRIBAL_LUXURIES</zType>
+		<Translation>Envia 2 link(CONCEPT_LUXURY) a link(CONCEPT_TRIBE,1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_PLAYER_LUXURIES</zType>
+		<Translation>Envia 4 link(CONCEPT_LUXURY) a nacions rivals</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FAMILY_LUXURIES</zType>
+		<Translation>Envia 6 link(CONCEPT_LUXURY) a famílies</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_LUXURIES</zType>
+		<Translation>Controla 8 link(CONCEPT_LUXURY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
+		<Translation>Recaptura 1 ciutat</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
+		<Translation>Recaptura 2 ciutats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CAPTURE_CITIES</zType>
+		<Translation>Captura 3 ciutats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ONE_CAPITAL</zType>
+		<Translation>Captura 1 capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_CAPTURE_CITIES</zType>
+		<Translation>Captura 6 ciutats</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TEN_POPULATION</zType>
+		<Translation>Controla 10 de població</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_30_POPULATION</zType>
+		<Translation>Controla 30 de població</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_100_POPULATION</zType>
+		<Translation>Controla 100 de població</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
+		<Translation>Tingues la major población</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_BATHS_1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_BATHS_2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_BATHS_3)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_THEATER_1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_THEATER_2,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_THEATER_3,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_MARKET_1,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_MARKET_2,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_MARKET_3,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_LIBRARY_1,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_LIBRARY_2,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_LIBRARY_3,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_COURTHOUSE_1,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_COURTHOUSE_2,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_COURTHOUSE_3,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_GARRISON_1,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_GARRISON_2,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
+		<Translation>Controla 4 link(IMPROVEMENT_GARRISON_3,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_1</zType>
+		<Translation>Construiex link(IMPROVEMENT_THEATER_3), link(IMPROVEMENT_BATHS_3) i link(IMPROVEMENT_MARKET_3)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_2</zType>
+		<Translation>Construiex link(IMPROVEMENT_LIBRARY_3), link(IMPROVEMENT_COURTHOUSE_3) i link(IMPROVEMENT_GARRISON_3)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
+		<Translation>Controla 8 link(IMPROVEMENTCLASS_SHRINE,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
+		<Translation>Controla 4 link(IMPROVEMENTCLASS_MONASTERY,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
+		<Translation>Controla 4 link(IMPROVEMENTCLASS_TEMPLE,2)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
+		<Translation>Controla 3 link(IMPROVEMENTCLASS_CATHEDRAL,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_THREE_CITIES_FOREIGN</zType>
@@ -1201,64 +1274,47 @@
 	<Entry>
 		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
 		<Translation>Sóc Assurbanipal, rei de l'univers, descendent de grans reis. Tot i ser el quart de la línia de successió, el meu pare Assarhaddon em va escollir per governar Assíria per la meva valentia i intel·ligència mentre un germà gran era enviat per governar un regne llunyà. Ens arriba descontentament de la seva terra i he d'ensenyar-li com ser el rei més gran de tots.
-		
 		Mentre el meu pare era viu, vaig exercir com a mestre d'espies i vaig estudiar etiqueta i entrenament militar. Vaig construir la primera biblioteca del "Vell Món" organitzada sistemàticament, que contenia 30.000 tauletes d’argila. Era conegut per la fluïdesa amb que parlava diferents llengües, especialment accadi i el sumeri, fet pel qual era estimat per moltes famílies de reconegut llinatge.
-		
 		Vaig encarregar relleus a mi mateix caçant lleons, un esdeveniment públic reservat a la reialesa assíria.
-    </Translation>
+		</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_BABYLONIA_STORY</zType>
 		<Translation>Fill d’un rei mesopotàmic i marit d’Amitis de Medea, i per sempre adorador del déu Marduk. En nom del meu pare, vaig fer que Babilònia fos la joia de la regió. Estic entrenat en tàctiques militars, he conquerit regnes i esclafat rebel·lions.
-		
 		Vaig construir link(IMPROVEMENT_HANGING_GARDENS) perquè la meva dona es sentis més a prop dels turons de Pèrsia i link(IMPROVEMENT_ISHTAR_GATE) per honorar Marduk. Vaig connectar ambdós monuments amb una via processional i tots aquells que els visitaven quedaven meravellats per la bellesa del meu imperi.
-		
 		Sota el meu govern, les dones tenien els mateixos drets que els homes i es van crear institucions intel·lectuals i temples. Em vaig centrar en l’art, la cultura, les ciències, les matemàtiques i l’artesania. En una dècada, vaig convertir Babilònia en una ciutat de llum. Jo sóc Nabucodonosor.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_CARTHAGE_STORY</zType>
 		<Translation>Sóc una princesa fenícia que va marxar de casa seva a Tir, portant el nom d'Elissa. Fugint del meu germà Pigmalió que va assassinar el meu estimat marit Acerbes, un sacerdot d’Hèrcules, vaig arribar al nord d’Àfrica.
-		
 		Amb les riqueses del meu marit, vaig negociar amb el rei berber Iarbes que volia casar-se amb mi. Amb to burleta, em va prometre tota la terra que abastés amb la pell d’un bou mort. Vaig tallar la pell en trossos molt prims i, juntament amb els meus colonitzadors tirians, vaig establir les fronteres de la meva estimada ciutat.
-		
 		Estic preparada per convertir-me en Dido la Errant, reina de Cartago, deessa del meu poble.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_EGYPT_STORY</zType>
 		<Translation>Sóc Hatshepsut, una dona faraona, tot i que em vaig autodeclarar faraó mascle al llard del meu regnat.
-		
 		Vaig haver d'emprar la meva astúcia per arribar al tron, així com utilitzar el meu ampli coneixement de la religió, fet que va comportar que fos estimada per la meva gent i que em declaressin esposa del Déu Amun. Sóc, també, de sang reial per ambdues bandes. Em vaig casar amb el meu germà Thutmose II i vaig donar a llum a una hereva, Neferure. Després d'això, no vaig poder tenir més fills.
-		
 		Ocasionalment, portava una perilla de metall, però era un preu just a pagar per conduir la meva gent cap a un millor destí. Sota el meu regnat, Egipte va crear moltes xarxes comercials i es va restablir com una nació de constructors. La meva passió per la ciència i per l'educació em van permetre fer amistat amb els arquitectes més talentosos els quals van ajudar l'Imperi Egipci a donar a conèixer els seus edificis arreu del món conegut.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE_STORY</zType>
 		<Translation>Sóc el rei Philip II de Macedònia, fill del rei Amyntas III, fundador de l'Estat Unificat de Macedònia.
-		
 		Vaig rebre una educació diplomàtica i militar del general i polític grec Epaminondas. Vaig establir una federació d'estats grecs coneguda com la Lliga de Corint. Vaig reformar l'antic exèrcit macedoni i vaig establir la Falange Macedònia.
-		
 		Quan era adolescent, podria haver tingut un amant de més edat que jo, un general amb qui vivia que es deia Pammenes.
-		
 		Al llarg de la meva vida, em vaig casar set vegades. Una de les meves dones, Olympias, em va donar un fill al qual vaig posar el nom d'Alexander. Va néixer l'any en que el meu cavall va guanyar els Jocs Olímpics. L'Alexander té ara 13 anys.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PERSIA_STORY</zType>
 		<Translation>Sóc Cir el Gran, segon del meu nom, rei de reis i fill del rei Cambises.
-		
 		El meu avi, el rei Astíages, de l’Imperi Mede, tenia la intenció de matar-me en néixer. En canvi, vaig viure per conquerir el seu regne i fer-lo meu.
-		
 		Vaig fundar el primer imperi persa. Sota el meu govern, tots els estats civilitzats són lliures d’adorar els seus déus. Vaig sotmetre a totes les nacions sense excepció.
-		
 		El profeta Isaïes es refereix a mi com a Messies, anomenant-me "el seu ungit". Sóc l’única figura no jueva de la Bíblia que s’anomena així.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ROME_STORY</zType>
-		<Translation>Fill del déu Mart, vaig ser salvat i criat per una lloba juntament amb el meu germà bessó, Remus. Conscient de la seva astúcia, vaig mantenir distàncies per precaució i vaig marxar a la recerca de la meva pròpia gent per no compartir el meu poder amb ell. 
-		
-		Els meus humils inicis sent un marginat em van ajudar a trobar homes robustos disposats a lluitar al meu costat. Tot i que no ens donaven permís per casar-nos amb les seves filles, les segrestàvem i ens casàvem amb elles igualment. Ara, estic aliat amb tribus poderoses. 
-		
-		La necessitat de reescriure la història és un deure, i jo esdevindré un líder just i beneït amb el favor diví. 
-		
+		<Translation>Fill del déu Mart, vaig ser salvat i criat per una lloba juntament amb el meu germà bessó, Remus. Conscient de la seva astúcia, vaig mantenir distàncies per precaució i vaig marxar a la recerca de la meva pròpia gent per no compartir el meu poder amb ell.
+		Els meus humils inicis sent un marginat em van ajudar a trobar homes robustos disposats a lluitar al meu costat. Tot i que no ens donaven permís per casar-nos amb les seves filles, les segrestàvem i ens casàvem amb elles igualment. Ara, estic aliat amb tribus poderoses.
+		La necessitat de reescriure la història és un deure, i jo esdevindré un líder just i beneït amb el favor diví.
 		Sóc Romulus, i he fundat Roma, la ciutat destinada a governar el món.</Translation>
 	</Entry>
 	<!--InfoOpinionTribe-->
@@ -1382,18 +1438,6 @@
 		<Translation>Acòlit il·lustre~un Acòlit il·lustre~Acòlits il·lustres</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-		<Translation>Metge aprenent~un Metge aprenent~Metges aprenents</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-		<Translation>Metge expert~un Metge expert~Metges experts</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-		<Translation>Metge il·lustre~un Metge il·lustre~Metges il·lustres</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_1</zType>
 		<Translation>Monjo aprenent~un Monjo aprenent~Monjos aprenents</Translation>
 	</Entry>
@@ -1418,16 +1462,16 @@
 		<Translation>Sacerdot il·lustre~un Sacerdot il·lustre~Sacerdots il·lustres</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
-		<Translation>Bisbe aprenent~un Bisbe aprenent~Bisbes aprenents</Translation>
+		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
+		<Translation>Oficial aprenent~un Oficial aprenent~Oficials aprenents</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
-		<Translation>Bisbe expert~un Bisbe expert~Bisbes experts</Translation>
+		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
+		<Translation>Oficial expert~un Oficial expert~Oficials experts</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
-		<Translation>Bisbe il·lustre~un Bisbe il·lustre~Bisbes il·lustres</Translation>
+		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
+		<Translation>Oficial il·lustre~un Oficial il·lustre~Oficials il·lustres</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_1</zType>
@@ -1440,6 +1484,18 @@
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_3</zType>
 		<Translation>Poeta il·lustre~un Poeta il·lustre~Poetes il·lustres</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
+		<Translation>Escribà aprenent~un Escribà aprenent~Escribans aprenents</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
+		<Translation>Escribà expert~un Escribà expert~Escribans experts</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
+		<Translation>Escribà il·lustre~un Escribà il·lustre~Escribans il·lustres</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
@@ -1466,28 +1522,28 @@
 		<Translation>Filòsof il·lustre~un Filòsof il·lustre~Filòsofs il·lustres</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-		<Translation>Escriba aprenent~un Escriba aprenent~Escribes aprenents</Translation>
+		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
+		<Translation>Metge aprenent~un Metge aprenent~Metges aprenents</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-		<Translation>Escriba expert~un Escriba expert~Escribes experts</Translation>
+		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
+		<Translation>Metge expert~un Metge expert~Metges experts</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-		<Translation>Escriba il·lustre~un Escriba il·lustre~Escribes il·lustres</Translation>
+		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
+		<Translation>Metge il·lustre~un Metge il·lustre~Metges il·lustre</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
-		<Translation>Oficial aprenent~un Oficial aprenent~Oficials aprenents</Translation>
+		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
+		<Translation>Bisbe aprenent~un Bisbe aprenent~Bisbes aprenents</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
-		<Translation>Oficial expert~un Oficial expert~Oficials experts</Translation>
+		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
+		<Translation>Bisbe expert~un Bisbe expert~Bisbes experts</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
-		<Translation>Oficial il·lustre~an Oficial il·lustre~Oficial il·lustres</Translation>
+		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
+		<Translation>Bisbe il·lustre~un Bisbe il·lustre~Bisbes il·lustre</Translation>
 	</Entry>
 	<!--InfoTech-->
 	<Entry>
@@ -1616,7 +1672,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS</zType>
-		<Translation>Portcullis</Translation>
+		<Translation>Rastells</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
@@ -1660,7 +1716,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
-		<Translation>Erudit gratuït</Translation>
+		<Translation>Acadèmic gratuït</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION</zType>
@@ -1752,7 +1808,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COHORTS</zType>
-		<Translation>Tàctiques</Translation>
+		<Translation>Cohorts</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_COHORTS_BONUS_SOLDIER</zType>
@@ -1760,7 +1816,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS</zType>
-		<Translation>Torn</Translation>
+		<Translation>Cabestrants</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
@@ -1784,7 +1840,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_INFANTRY_SQUARE</zType>
-		<Translation>Sarissa</Translation>
+		<Translation>Quadre d'infanteria</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_FISCAL_POLICY</zType>
@@ -1869,7 +1925,8 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_URBAN</zType>
-		<Translation>Urbà</Translation>
+		<!-- <Translation>Urbà</Translation> -->
+		<Translation>link(CONCEPT_URBAN)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TERRAIN_LUSH</zType>
@@ -1927,11 +1984,11 @@
 	<!--InfoYield-->
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
-		<Translation>Quan el nivell de link(YIELD_GROWTH){YIELD_GROWTH} de la ciutat s'omple, la ciutat aconsegueix un nou ciutadà. Maneres de millorar el nivell de link(YIELD_GROWTH){YIELD_GROWTH} poden ser amb link(SPECIALIST_FARMER,2) i link(IMPROVEMENTCLASS_BATHS,2).</Translation>
+		<Translation>Quan el nivell de link(YIELD_GROWTH){YIELD_GROWTH} de la ciutat s'omple, la ciutat aconsegueix un nou ciutadà. Algunes maneres de millorar el nivell de link(YIELD_GROWTH){YIELD_GROWTH} és construint link(SPECIALIST_FARMER,2) i link(IMPROVEMENTCLASS_BATHS,2).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CIVICS_HELP</zType>
-		<Translation>S'utilitza per formar link(CONCEPT_SPECIALIST,1) i executar projectes. El nivell de link(YIELD_CIVICS){YIELD_CIVICS} no utilitzat s'acumula i pot ser utilizat per promulgar lleis i establir teologies. Incrementa el nivell de link(YIELD_CIVICS){YIELD_CIVICS} contruint link(IMPROVEMENTCLASS_COURTHOUSE,2) i link(PROJECT_FORUM_1,2).</Translation>
+		<Translation>S'utilitza per formar link(CONCEPT_SPECIALIST,1) i executar projectes. El nivell de link(YIELD_CIVICS){YIELD_CIVICS} no utilitzat s'acumula i pot ser utilizat per promulgar lleis i establir teologies. Incrementa el nivell de link(YIELD_CIVICS){YIELD_CIVICS} construint link(IMPROVEMENTCLASS_COURTHOUSE,2) i link(PROJECT_FORUM_1,2).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_TRAINING_HELP</zType>
@@ -1939,11 +1996,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_CULTURE_HELP</zType>
-		<Translation>Quan el nivell de link(YIELD_CULTURE){YIELD_CULTURE} de la ciutat s'omple, succeix un event positiu. El nivell de link(YIELD_CULTURE){YIELD_CULTURE} de la ciutat afecta a quines link(CONCEPT_IMPROVEMENT,1) i meravelles es poden construir. Maneres de millorar el nivell de link(YIELD_CULTURE){YIELD_CULTURE} poden ser amb link(IMPROVEMENTCLASS_SHRINE,2) i link(IMPROVEMENTCLASS_ODEON,2).</Translation>
+		<Translation>Quan el nivell de link(YIELD_CULTURE) {YIELD_CULTURE} de la ciutat s'omple, succeix un event positiu. El nivell de link(YIELD_CULTURE) {YIELD_CULTURE} de la ciutat afecta a quines link(CONCEPT_IMPROVEMENT,1) i meravelles es poden construir. Maneres de millorar el nivell de link(YIELD_CULTURE) {YIELD_CULTURE} poden ser amb link(IMPROVEMENTCLASS_SHRINE,2) i link(IMPROVEMENTCLASS_ODEON,2).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
-		<Translation>Cities gain link(YIELD_DISCONTENT){YIELD_DISCONTENT} over time. When a city's link(YIELD_DISCONTENT){YIELD_DISCONTENT} fills up, its overall link(YIELD_DISCONTENT){YIELD_DISCONTENT} Level goes up, which increases link(YIELD_MAINTENANCE){YIELD_MAINTENANCE} and reduces link(YIELD_GROWTH){YIELD_GROWTH}. Use link(PROJECT_FESTIVAL,2) to reduce link(YIELD_DISCONTENT){YIELD_DISCONTENT}.</Translation>
+		<Translation>La link(YIELD_DISCONTENT) {YIELD_DISCONTENT} de les ciutats creix durant el pas del temps. Quan la barra de link(YIELD_DISCONTENT) {YIELD_DISCONTENT} d'una ciutat s'omple, el nivell de link(YIELD_DISCONTENT) {YIELD_DISCONTENT} puja i augmenta el link(YIELD_MAINTENANCE) {YIELD_MAINTENANCE} i disminueix el link(YIELD_GROWTH) {YIELD_GROWTH}. Organitza link(PROJECT_FESTIVAL,2) per reduir la link(YIELD_DISCONTENT) {YIELD_DISCONTENT}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_SCIENCE_HELP</zType>
@@ -1955,7 +2012,8 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
-		<Translation>Redueix l'ingrés de link(YIELD_MONEY){YIELD_MONEY} que la ciutat genera. El link(YIELD_MAINTENANCE){YIELD_MAINTENANCE} es pot reduir connectant les ciutats amb la capital.</Translation>	</Entry>
+		<Translation>Redueix l'ingrés de link(YIELD_MONEY){YIELD_MONEY} que la ciutat genera. El link(YIELD_MAINTENANCE){YIELD_MAINTENANCE} es pot reduir connectant les ciutats amb la capital.</Translation>
+	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_ORDERS_HELP</zType>
 		<Translation>Els link(YIELD_ORDERS){YIELD_ORDERS} es poden utilitzar en diverses accions com moure unitats, atacar o millorar la ciutat. Els link(YIELD_ORDERS){YIELD_ORDERS} no utilitzats es vendràn per link(YIELD_MONEY){YIELD_MONEY} al tancar l'any.</Translation>

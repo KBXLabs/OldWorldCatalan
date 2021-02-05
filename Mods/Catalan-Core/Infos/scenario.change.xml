@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_BARBARIAN</zType>
+		<zName>Invasió bàrbara</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_1</zType>
+		<zName>Campanya de Cartago - Primera partida - Pell de bou</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_2</zType>
+		<zName>Campanya de Cartago - Segona partida - L'ascens de Cartago</zName>
+	</Entry>
+	<!-- Hiding these scenarios until they're ready
+    <Entry>
+		<zType>SCENARIO_CARTHAGE_3</zType>
+		<zName>Campanya de Cartago - Tercera partida - L'ascens de Roma</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_4</zType>
+		<zName>Campanya de Cartago - Quarta partida - Thunderbolt</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_1</zType>
+		<zName>Campanya de Roma - Primera partida - República</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_2</zType>
+		<zName>Roma Campanya 2 - La guerra púnica</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_3</zType>
+		<zName>Campanya de Roma 3 - Guerra a dos fronts</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_4</zType>
+		<zName>Roma Campanya 4 - Els gals</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_5</zType>
+		<zName>Campanya de Roma 5: Imperi</zName>
+	</Entry>
+    -->
+</Root>
